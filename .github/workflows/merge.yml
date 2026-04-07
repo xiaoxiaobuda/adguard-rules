@@ -1,4 +1,4 @@
-name: 合并去重AdGuard规则
+name: AdGuard Home 规则自动合并去重
 on:
   schedule:
     - cron: '0 18 * * *'
@@ -8,13 +8,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: 拉取仓库
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 安装工具
-        run: sudo apt install -y dos2unix
+        run: sudo apt-get install -y dos2unix
 
-      - name: 拉取5条规则
+      - name: 拉取所有规则
         run: |
           wget -O rule1.txt "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt"
           wget -O rule2.txt "https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt"
@@ -23,12 +25,25 @@ jobs:
           wget -O rule5.txt "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts"
           cat *.txt > all.txt
 
-      - name: 去重、清理
+      - name: 格式化 + 去重 + 生成AGH标准规则
         run: |
-          sort -u all.txt | grep -v ^! | grep -v ^# | grep -v ^\[ | grep -v ^$ | grep -v "^\s*$" > rules.txt
+          # 去重
+          sort -u all.txt | \
+          # 移除 AdGuard 注释
+          grep -v '^!' | \
+          # 移除 hosts 注释
+          grep -v '^#' | \
+          # 移除规则标题块
+          grep -v '^\[' | \
+          # 移除纯空行
+          grep -v '^$' | \
+          # 移除只含空格/制表符的空行
+          grep -v '^[[:space:]]*$' > rules.txt
+          
+          # 转换格式兼容 AdGuard Home
           dos2unix rules.txt
 
-      - name: 提交更新
+      - name: 上传更新
         run: |
           git config --global user.name "auto"
           git config --global user.email "auto@github.com"
