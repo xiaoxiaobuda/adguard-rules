@@ -25,7 +25,13 @@ jobs:
 
       - name: 去重、清理
         run: |
-          sort -u all.txt \
-          | grep -v '^!' \
-          | grep -v '^#' \
-          | grep -v '^\
+          sort -u all.txt | grep -v ^! | grep -v ^# | grep -v ^\[ | grep -v ^$ | grep -v "^\s*$" > rules.txt
+          dos2unix rules.txt
+
+      - name: 提交更新
+        run: |
+          git config --global user.name "auto"
+          git config --global user.email "auto@github.com"
+          git add rules.txt
+          git commit -m "更新规则 $(date +'%Y-%m-%d %H:%M')"
+          git push
