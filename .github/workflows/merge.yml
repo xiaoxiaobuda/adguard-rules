@@ -1,0 +1,31 @@
+name: 合并去重AdGuard规则
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 安装工具
+        run: sudo apt install -y dos2unix
+
+      - name: 拉取5条规则
+        run: |
+          wget -O rule1.txt "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt"
+          wget -O rule2.txt "https://ghfast.top/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt"
+          wget -O rule3.txt "https://raw.githubusercontent.com/HAI010415/HAIADLJ/refs/heads/main/gandiaohs_zyb.txt"
+          wget -O rule4.txt "https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt"
+          wget -O rule5.txt "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts"
+          cat *.txt > all.txt
+
+      - name: 去重、清理
+        run: |
+          sort -u all.txt \
+          | grep -v '^!' \
+          | grep -v '^#' \
+          | grep -v '^\
