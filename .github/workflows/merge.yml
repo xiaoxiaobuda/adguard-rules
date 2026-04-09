@@ -25,6 +25,9 @@ jobs:
           wget -O rule5.txt "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts"
           wget -O rule6.txt "https://easylist.to/easylist/easyprivacy.txt"
           wget -O rule7.txt "https://raw.githubusercontent.com/xiaoxiaobuda/adguardhome-ad/refs/heads/main/kuanhei.txt"
+          wget -O rule8.txt "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"
+          wget -O rule9.txt "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"
+          wget -O rule10.txt "https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/rules.txt"
           cat *.txt > all.txt
 
       - name: 格式化 + 去重 + 生成AGH标准规则
