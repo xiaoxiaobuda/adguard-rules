@@ -22756,6 +22756,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 ::1 ip6-localhost
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-2-20260409212509-9be0f229</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-42-20260410210635-c9464151</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
+<!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-5-20260411205500-80e00148</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-69-20260409100723-90f452db</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 =aWQ9R1RNL*apiKey=$script,~third-party
 =aWQ9R1RNL*page=$script,~third-party
@@ -23496,6 +23497,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||c.data.mob.com^$app=com.sinovatech.unicom.ui
 @@||c.duomai.com^
 @@||c.evidon.com^
+@@||c.fa.jd.com^$important
 @@||c.fantia.jp^
 @@||c.gj.qq.com^
 @@||c.lytics.io/api/tag/$script,domain=time.com
@@ -24108,6 +24110,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||dw.uptodown.com^
 @@||dwstatic.com/b=amkit
 @@||dwstatic.com/b=amkit
+@@||dwz.cn^$important
 @@||dx.10086.cn^
 @@||dxx.wwwtop.top^
 @@||dxy.com^
@@ -48921,6 +48924,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||apdfmhp.cn^
 ||ape-tagit.timeinc.net^
 ||apeagle.io^
+||apenclaw.com.cn^
 ||apenterprise.io^
 ||aperio.leicabiosystems.com^
 ||apester.com/cookie/bundle.js
@@ -49695,6 +49699,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aplus.qwen.ai/aplus.monitor.log_arrival_rate
 ||apm-collect.hzins.net^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
+||apm-fe.rnote.com^
 ||apm-fe.xiaohongshu.com^
 ||apm-log-upload-os.hoyoverse.com^
 ||apm-log-upload.mihoyo.com^
@@ -49742,6 +49747,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||app-dev.onyx.fit^
 ||app-dev.stressbuoy.com^
 ||app-g.39.net^
+||app-google-app.com.cn^
 ||app-google-zh.hl.cn^
 ||app-iq6elgdk.joxx.cn^
 ||app-jp.getmiles.com^
@@ -50896,11 +50902,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||approach.wise1-golf.com^
 ||appront.net/click.js
 ||apps-chrome-zh.hl.cn^
+||apps-google-apps.hl.cn^
 ||apps-google-chrome.com.cn^
 ||apps-google-cn.hl.cn^
 ||apps-google-hl.hl.cn^
 ||apps-pbd.ctraffic.io^
 ||apps-safew-cn.com.cn^
+||apps-safew-safew.com.cn^
 ||apps-test.spectrum-member.com^
 ||apps-www-google.com.cn^
 ||apps.airmeet.com^
@@ -51040,6 +51048,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aqgyju.cn^
 ||aqilk66444a.xyz^
 ||aqilk66444a.xyz^
+||aqkuailian.hl.cn^
 ||aqmzbk.avectoi.kr^
 ||aqncqm.yadukq.com^
 ||aqnx3lle3ejwurl4b.b4lruwje3ell3xnq.top^
@@ -51277,6 +51286,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||asentech-dev.actonservice.com^
 ||aservice.cloud/trc/mastertag
 ||asewlfjqwlflkew.com^
+||asfkuailian.com.cn^
 ||asgdgfh.khop9e2iv.org^
 ||asgsd.s5f4aq29.top^
 ||ashasafety.actonservice.com^
@@ -52781,6 +52791,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bbvms.com/zone/js/zonestats.js
 ||bbworld.blackboard.com^
 ||bbwqcs.vidaxl.ee^
+||bc-openclaw.com.cn^
 ||bc.geocities.
 ||bc.geocities.yahoo.co.jp^
 ||bc.marfeelcache.com^
@@ -53516,6 +53527,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||biminibliss.rwbimini.com^
 ||bin.cartwire.co/js/analytics.js
+||binance-nwe.com.cn^
+||binance-wap.com.cn^
 ||binanceap.com.cn^
 ||binancecomgfxiazai.com.cn^
 ||binancejys.com.cn^
@@ -54154,6 +54167,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||box.com/data/ptm.gif/
 ||box.com/index.php?rm=box_gen204_batch_record
 ||boxatech.com^
+||boxdeliveryb.cfd^
 ||boxer.baidu.com^
 ||boxer.baidu.com^
 ||boxercrazy.org^
@@ -54919,6 +54933,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bwin2808.com^
 ||bwj4.hrhibiza.com^
 ||bwkpkx.projectxparis.com^
+||bwkuailian.com.cn^
 ||bwmxdg.kimono-365.jp^
 ||bwntyd.neuve-a.net^
 ||bwp.theinsider.com.com^
@@ -55014,6 +55029,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bzhn9y.icu^
 ||bzhn9y.icu^
 ||bzib.nelreports.net^
+||bzkuailian.hl.cn^
 ||bzlold.machi.to^
 ||bznxqj.fiat.it^
 ||bzpics.com/jslib/st.js?
@@ -56525,6 +56541,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ch-hr12333.com^
 ||ch-hr12333.com^
 ||ch-kuailian.hl.cn^
+||ch-openclaw.com.cn^
 ||ch.credithypo.com^
 ||ch.sharpmarketing.eu^
 ||ch0p.darty.com^
@@ -57576,6 +57593,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cm-in.americanexpress.com^
 ||cm-jp.americanexpress.com^
 ||cm-mms.coachmag.co.uk^
+||cm-openclaw.com.cn^
 ||cm-sg.americanexpress.com^
 ||cm.ad.gifshow.com^
 ||cm.adgrx.com^
@@ -57738,6 +57756,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cn-hnjy-cu-v-01.acgvideo.com/upgcxcode^$app=com.tencent.mtt
 ||cn-hnjy-cu-v-01.acgvideo.com/upgcxcode^$app=com.tencent.mtt
 ||cn-safew-apps.com.cn^
+||cn-safew-safew.com.cn^
 ||cn-serverlist.locojoy.com^
 ||cn-tk.anythinktech.com^
 ||cn-wbs-google.com.cn^
@@ -59285,6 +59304,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cozyhillside.com^
 ||cozytryst.com^
 ||cp-kuailian.hl.cn^
+||cp-openclaw.com.cn^
 ||cp.5jjx.net^
 ||cp.758758.xyz^
 ||cp.as.com/stats
@@ -60060,6 +60080,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cxg.7n4r1q.com^
 ||cxgpt1.goindigo.in/forward/v2/track
 ||cxju.uiuin.cn^
+||cxkuailian.com.cn^
+||cxkuailian.hl.cn^
 ||cxm.ingeniux.com^
 ||cxo52l.cc^
 ||cxojob.com.cn^
@@ -60099,6 +60121,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cyf9.destinia.cl^
 ||cyhbrjf.cn^
 ||cyhbrjf.cn^
+||cykuailian.com.cn^
 ||cylinderlongcheng.com^
 ||cymuig.assem.nl^
 ||cyntgd.anticipazionitv.it^
@@ -60300,6 +60323,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||d1--tf-gotcha04.bilivideo.com^
 ||d1.1ppt.com^
 ||d1.3158.cn^
+||d1.dhgate.com^
 ||d1.showself.com^
 ||d1.sina.com.cn^
 ||d1.sinaimg.cn^
@@ -61576,6 +61600,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dazhonghua.cn^
 ||dazzlingbook.com^
 ||db-ip.com^$third-party
+||db-kuailian.com.cn^
 ||db1.fuz.cc^
 ||db11yy.com^
 ||db11yy.com^
@@ -62367,6 +62392,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dhkipdsc.xyz^
 ||dhkipdsc.xyz^
 ||dhkyrl.discountmags.com^
+||dhl-sv.com^
 ||dhl.com/g8Dj6P8TAg/
 ||dhlau.pro^
 ||dhlck.eu.cc^
@@ -62381,11 +62407,15 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dhlhp.eu.cc^
 ||dhlink.bond^
 ||dhlkc.eu.cc^
+||dhlkw.eu.cc^
 ||dhlll.eu.cc^
 ||dhlws.eu.cc^
+||dhlxa.eu.cc^
+||dhlxc.eu.cc^
 ||dhlxda.cn^
 ||dhlxp.eu.cc^
 ||dhlxu17.cn^
+||dhlxw.eu.cc^
 ||dhlywlw.cn^
 ||dhlza.eu.cc^
 ||dhlzc.eu.cc^
@@ -64065,6 +64095,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dvb.pandora.xiaomi.com^
 ||dvbnmikxh.xyz^
 ||dvbnmikxh.xyz^
+||dvbvkuailian.com.cn^
 ||dvczvm.cyfrowe.pl^
 ||dvenkbn.icu^
 ||dvenkbn.icu^
@@ -64094,6 +64125,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dvyd.7790.com^
 ||dvzk66.cn^
 ||dvzk66.cn^
+||dw-kuailian.com.cn^
 ||dw.2bam.cn^
 ||dw.com.com^$script
 ||dw.koudaibl.com^
@@ -64219,6 +64251,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dyhnbgtsl.xyz^
 ||dykeep.com^
 ||dykeep.com^
+||dykuailian.com.cn^
+||dykuailian.hl.cn^
 ||dykyvy.cn^
 ||dym74.cc^
 ||dyn.tnaflix.com^
@@ -65362,6 +65396,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ejieban.com^
 ||ejimtl.costway.com^
 ||ejkmld.tradus.com^
+||ejkuailian.hl.cn^
 ||ejlytics.editorji.com^
 ||ejolul.xyz^
 ||ejolul.xyz^
@@ -66375,6 +66410,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ergodicitytech.com^
 ||ergrbp.hobidunya.com^
 ||ericdraken.com/a/$script
+||erish.xyz^
 ||erjiyouhuiquan.com^
 ||erjiyouhuiquan.com^
 ||erlirscid.com^
@@ -66704,6 +66740,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eusdbk.philosophyofficial.com^
 ||euuh.cn^
 ||euwidget.imshopping.com^
+||ev-kuailian.com.cn^
 ||ev.mmin.io/ping
 ||ev.moneymade.io^
 ||ev.stellarlabs.ai^
@@ -66980,6 +67017,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||evri-parcelq.cn^
 ||evri-parcelw.cn^
 ||evri-uk.help^
+||evri.boxsioo.cfd^
+||evri.boxsiop.cfd^
+||evri.boxsios.cfd^
 ||evri.com/analytics/
 ||evs.icy-lake.kickstarter.com^
 ||evs.sgmt.loom.com^$script
@@ -67992,6 +68032,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fhitagd.cn^
 ||fhitagd.cn^
 ||fhiwyq.axiory.com^
+||fhkuailian.com.cn^
 ||fhngty.vetsecurite.com^
 ||fhoa365.com^
 ||fhoa365.com^
@@ -68229,6 +68270,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fkdaik.lightinthebox.com^
 ||fkeupa.bett1.de^
 ||fkku194.com^
+||fkkuailian.hl.cn^
 ||fkmdky.lifehacker.ru^
 ||fkmzox.teinei.co.jp^
 ||fknuk.appfx8.com^
@@ -71310,6 +71352,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||googel-chromeg.com.cn^
 ||googel-chromegw.com.cn^
 ||googel-chromegwdl.com.cn^
+||googgle-chrrome.hl.cn^
 ||google-analytics-cn.com^
 ||google-analytics.com$third-party
 ||google-analytics.com/analytics.js
@@ -71510,6 +71553,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gpi.landapiqq.com^
 ||gpiljd.thetiebar.com^
 ||gpiyhj.leopalace21.com^
+||gpkuailian.hl.cn^
 ||gpno7lrom.gptrno7.com^
 ||gpplus-app.hotdoc.com.au^
 ||gppppq.newcars.com^
@@ -71747,6 +71791,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gsxcdn.com^
 ||gsxlicny.bjapmmk.cn^
 ||gsyegj.shatura.com^
+||gt-kuailian.com.cn^
 ||gt.duowan.com^
 ||gt.yy.com^
 ||gt1n.com^
@@ -72152,6 +72197,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||h2sry.site^
 ||h2tcbox.baidu.com^
 ||h2tcbox.baidu.com^
+||h3-binance.com.cn^
 ||h3-down.buff.vip^
 ||h35.ynodd.cn^
 ||h353.ncadvertiser.com^
@@ -73251,6 +73297,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hk-cdn.effectivemeasure.net^
 ||hk-datareceiver.aki-game.net^
 ||hk-go.experian.com^
+||hk-hqlm-whatsapp.hl.cn^
+||hk-jxbq-whatsapp.hl.cn^
 ||hk.aicleverly.com^
 ||hk.bei-min.cn^
 ||hk.jtsh123.com^
@@ -73698,6 +73746,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hrbpark.bid^$third-party
 ||hrcpql.candymagic.jp^
 ||hrkuailian.com.cn^
+||hrkuailian.hl.cn^
 ||hrm.healthgrades.com^
 ||hrngmf.com^
 ||hrngmf.com^
@@ -73710,6 +73759,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hrwgsq.loesdau.de^
 ||hrzn-nxt.com/pxl?
 ||hs-analytics.net^
+||hs-kuailian.com.cn^
 ||hs-kuailian.hl.cn^
 ||hs.178yc.com^
 ||hs.fi/stats
@@ -77134,7 +77184,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||info4.video.qq.com^
 ||infoc2.duba.net/nep/v1/$app=com.cleanmaster.mguard_cn
 ||infoc2.duba.net/nep/v1/$app=com.cleanmaster.mguard_cn
+||infocenter.fj.cn^
 ||infocenter.meizu.com^
+||infocenter.sh.cn^
 ||infoco.readingpartners.org^
 ||infocollect.dk^$third-party
 ||infodc.readingpartners.org^
@@ -77583,6 +77635,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||invol.co^
 ||inx-corp.actonservice.com^
 ||inzicht.cz.nl^
+||io-googlse.com.cn^
 ||io-tech.fi/io/www/delvr/lokiz.php
 ||io.narrative.io/?$third-party
 ||io.piupiu.io^
@@ -78116,6 +78169,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ixjr.154.com^
 ||ixjtpbj.cn^
 ||ixjtpbj.cn^
+||ixkuailian.com.cn^
 ||ixnrmco.com^
 ||ixnrmco.com^
 ||ixpub.net^
@@ -78586,6 +78640,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jgzhsu.caterer.com^
 ||jh-api.tj.996sdk.com^
 ||jh-api.tj.db996.cn^
+||jh-kuailian.com.cn^
 ||jh16csf.com^
 ||jh16csf.com^
 ||jh3erfvbgr.zx.c5r5oe.cn^
@@ -79187,6 +79242,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jpwcpic.neploqo.com.slowdark.com^$important
 ||jpwfkn.besthotels.es^
 ||jpwfrl.mona.de^
+||jq-kuailian.com.cn^
 ||jq-ww.com^
 ||jq-ww.com^  
 ||jq159.com^$third-party
@@ -79630,6 +79686,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jujcjz.xyz^
 ||jujcjz.xyz^
 ||jujtcq.amnibus.com^
+||jukuailian.hl.cn^
 ||julius.ai/monitoring
 ||julumob.com^
 ||julumob.com^
@@ -79815,6 +79872,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jyhengyi.cn^
 ||jyhlo0.com^
 ||jyhlo0.com^
+||jykuailian.com.cn^
 ||jyno057.top^
 ||jynthelon.com^
 ||jynthelon.com^
@@ -80953,6 +81011,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kuailian-51.com.cn^
 ||kuailian-88.com.cn^
 ||kuailian-91.com.cn^
+||kuailian-accs.com.cn^
 ||kuailian-aly.com.cn^
 ||kuailian-aps.com.cn^
 ||kuailian-az.com.cn^
@@ -80985,6 +81044,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kuailianai.hl.cn^
 ||kuailianbooster.com.cn^
 ||kuailiancaz.com.cn^
+||kuailiancff-pcc.com.cn^
 ||kuailiandss.com.cn^
 ||kuailiandue.com.cn^
 ||kuailianelk.com.cn^
@@ -81120,6 +81180,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kviso.com/js/top.js
 ||kviso.com/js/top.js
 ||kvkggg.top^
+||kvkuailian.hl.cn^
 ||kvnkjd.kaigoshoku.mynavi.jp^
 ||kvskic.jadore-jun.jp^
 ||kvsqa.xyz^
@@ -81249,6 +81310,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kzhesi.corcoran.com^
 ||kzjkexn.cn^
 ||kzjkexn.cn^
+||kzkuailian.com.cn^
 ||kzmual.superga.com^
 ||kzs6.cn^
 ||kzsha.com^
@@ -81862,6 +81924,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ledaren.cn^
 ||lederer.nl/incl/stats.js.php?
 ||ledevoir.com/js/pianoAnalyticsTags.js
+||ledger.ind.in^
 ||ledgerlive.org.nz^
 ||ledgeviewpartners.actonservice.com^
 ||lednews.powerint.com^
@@ -84050,6 +84113,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||logicsfort.com^$third-party
 ||login.e-ticket.co.jp^
 ||login.im.qcloud.com^
+||login.mffso.cn^
 ||loginfra.com^$third-party
 ||loginvsi.actonservice.com^
 ||logistics.coyote.com^
@@ -84728,6 +84792,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lwide.xyz^
 ||lwksxs.com^
 ||lwksxs.com^
+||lwkuailian.hl.cn^
 ||lwkvkd.maison-objet.com^
 ||lwlqsgr.cn^
 ||lwlqsgr.cn^
@@ -84746,6 +84811,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lwxy1.170o.com^
 ||lwzdzf.xyz^
 ||lwzdzf.xyz^
+||lx-openclaw.com.cn^
 ||lx-upload-log.go2yd.com^
 ||lx-upload-log.yidianzixun.com^
 ||lx167.com^
@@ -87844,6 +87910,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mchtna.fashionplus.co.kr^
 ||mckbpe.united-arrows.co.jp^
 ||mckiey.thun.com^
+||mckuailian.com.cn^
 ||mckumf5ii4.com^
 ||mclean.cloud.360safe.com^
 ||mclean.lato.cloud.360safe.com^
@@ -91625,6 +91692,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mxhunv.kurz-mal-weg.de^
 ||mxitie.com^$third-party
 ||mxitie.com^$third-party
+||mxkuailian.hl.cn^
 ||mxmfb.com/rsps/img/
 ||mxmkitchen.com/in/pcl/track.php
 ||mxmrt.com^
@@ -92165,6 +92233,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ndg.io^$third-party
 ||ndgrlo.visiondirect.com.au^
 ||ndi.nuance.com^
+||ndkuailian.com.cn^
 ||ndmais.com.br/tracking-parceiros-ndmais/
 ||ndqcz0e.xyz^
 ||ndqcz0e.xyz^
@@ -92217,6 +92286,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nejmqianyan.cn^$third-party
 ||nekgtz.bluestoneperennials.com^
 ||neko-san.fr/stats
+||nekoweb.org/.nekoweb-api/count-view
 ||nektonsrutate.com^
 ||nektonsrutate.com^
 ||nelioabtesting.com^$third-party
@@ -92838,6 +92908,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nlyuuy.cn^
 ||nlyuuy.cn^
 ||nlzyp.cn^
+||nm-kuailian.com.cn^
 ||nm2g.cn^
 ||nmbtedu.com^
 ||nmbtedu.com^
@@ -92939,6 +93010,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||noiselessplough.com^
 ||nojscontainer.pepperjam.com^$third-party
 ||nokaut.link^$third-party
+||nokuailian.com.cn^
 ||nol.yahoo.com^
 ||nom.familysearch.org^
 ||nom.lds.org^
@@ -93064,6 +93136,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nowskip.com^
 ||noxagile.duapp.com^
 ||noyvyv.bosonshop.com^
+||np-kuailian.com.cn^
 ||np-kuailian.hl.cn^
 ||npa.thetimes.com/stats
 ||nparallel.actonservice.com^
@@ -93373,6 +93446,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nyhpyq.com^$third-party
 ||nyhpyq.com^$third-party
 ||nyitvatartas24.hu/ar.js
+||nykuailian.hl.cn^
 ||nylalobghyhirgh.com^
 ||nyltx.com^$third-party
 ||nym5c.bonlook.com^
@@ -93404,6 +93478,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nzl09251oa.com^
 ||nzmkzl.mytheresa.com^
 ||nzmuscle.co.nz/rdgp/
+||nzmzwebd.xy828515.cn^
 ||nzpages.co.nz/modules/common/track.js
 ||nzqrfa.hushpuppies.com^
 ||nzrlx6wc.icu^
@@ -93675,6 +93750,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oehhq.xyz^
 ||oehhq.xyz^
 ||oek7.april-moto.com^
+||oekuailian.com.cn^
 ||oenrds.cn^
 ||oers.720lu.com^
 ||oesfco.glamira.pl^
@@ -94573,6 +94649,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oply.hearstapps.com^
 ||opnked*.xyz^
 ||opnked*.xyz^
+||opnnclaw.com.cn^
 ||opntxzlgid2.com^$important
 ||opntxzlgid2.com^$important
 ||opo4.assuronline.com^
@@ -94647,6 +94724,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||opummf.himiwaybike.com^
 ||opzksyy.cn^
 ||opzksyy.cn^
+||oq-kuailian.com.cn^
 ||oq18.ag8.com^
 ||oq68.com^
 ||oq6ry.com^
@@ -95079,6 +95157,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ozkbdxdu.icu^
 ||ozkbdxdu.icu^
 ||ozkkuy.fabianafilippi.com^
+||ozkuailian.hl.cn^
 ||oznlro.sanity.com.au^
 ||ozogame.com^
 ||ozon.ru/tracker/
@@ -95945,6 +96024,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pcbeta.com/static/image/biz/$image
 ||pcbrowser.dd.qq.com^
 ||pcc-kuailian.com.cn^
+||pcc-kuailiansscc.com.cn^
 ||pcci.pccinnovation.org^
 ||pccipieces.actonservice.com^
 ||pccleaner.cn^
@@ -96201,6 +96281,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pfiparts.com^
 ||pfjzzl.com^
 ||pfjzzl.com^
+||pfkuailian.com.cn^
 ||pflrv.cn^
 ||pflrv.cn^
 ||pfltjr.essentialnutrition.com.br^
@@ -97477,6 +97558,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pqiicj.misterspex.se^
 ||pqjprom.cn^
 ||pqjprom.cn^
+||pqkuailian.hl.cn^
 ||pqlcpm.kindoh.co.kr^
 ||pqlmae.lamaisonduchocolat.co.jp^
 ||pqn7.cheque-dejeuner.fr^
@@ -98379,6 +98461,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pytxsn.najlacnejsisport.sk^
 ||pywiia.lfmall.co.kr^
 ||pyxjkx.springjapan.com^
+||pyzf.159813.cn^
 ||pyzjhd.com^
 ||pyzjhd.com^
 ||pyzkk.com^
@@ -98648,6 +98731,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qfedu.com^
 ||qfexy7n6.yd666cdn.com^
 ||qff1jkvl.cn^
+||qff3kvis.cn^
 ||qff3wkdu.cn^
 ||qfg8gvgd.cn^
 ||qfg8oksb.cn^
@@ -98660,6 +98744,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qflm.net^$third-party
 ||qflwqw.opodo.fr^
 ||qfn3yvhf.cn^
+||qfn4tjkw.cn^
 ||qfnoyix.cn^
 ||qfnoyix.cn^
 ||qfoiss.lendingtree.com^
@@ -98682,6 +98767,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qg6uf.cn^
 ||qgbnjd.coches.net^
 ||qgcfcd.cairo.de^
+||qgkuailian.com.cn^
 ||qgmikp.fleurdumal.com^
 ||qgqz.011.com^
 ||qgss8.com^
@@ -99277,6 +99363,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qrjsz.top^
 ||qrjxween.com^
 ||qrjxween.com^
+||qrkuailian.com.cn^
+||qrkuailian.hl.cn^
 ||qrlgtzny.tizkdnrh.xyz^
 ||qrmccr.vernal.co.jp^
 ||qrmozsc.icu^
@@ -99288,6 +99376,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qrxmgfz.cn^
 ||qrxmgfz.cn^
 ||qry062v.top^
+||qs-kuailian.com.cn^
 ||qs.lagowang.com^$object-subrequest
 ||qs.lagowang.com^$object-subrequest
 ||qs1470.cc^
@@ -99930,6 +100019,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||razrzh.xyz^
 ||razzweb.com^
 ||rb-chrome.com.cn^
+||rb-openclaw.com.cn^
 ||rb.groc.press^
 ||rba-screen.healthsafe-id.com^
 ||rba.es/track.action
@@ -100282,6 +100372,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||refix.ai^$third-party
 ||reflectpaint.com^
 ||reflow.tv/pixels/
+||refreshingauthentication.edgeone.dev^
 ||refundradar.com^
 ||refwkk.cas.sk^
 ||refwkk.mojewypieki.com^
@@ -101310,6 +101401,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rsinnxoe.com^
 ||rsinqg.homelux.hu^
 ||rskuailian.com.cn^
+||rskuailian.hl.cn^
 ||rsnn71.top^
 ||rsotku.mitsui-shopping-park.com^
 ||rsoz.cn^
@@ -101385,6 +101477,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rtj3m.cn0518.com^
 ||rtjmln.xyz^
 ||rtjmln.xyz^
+||rtkuailian.com.cn^
 ||rtl.hu/_stat/
 ||rtl.nl/system/track/
 ||rtlog*-applog-lq.fqnovel.com^
@@ -102441,6 +102534,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||safety.west.com^
 ||safetybrush.com^
 ||safevisit.online^$third-party
+||safewcm.org.cn^
 ||safewqq.com.cn^
 ||safewx.hl.cn^
 ||saffronrefuge.com^
@@ -104689,6 +104783,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sgxkm.com^$third-party
 ||sgxkm.com^$third-party
 ||sh-gateway.shihuo.cn^
+||sh-kuailian.com.cn^
 ||sh-qiruizx.com^
 ||sh-qiruizx.com^
 ||sh.apigw.tencentcs.com^
@@ -112368,6 +112463,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stjoe.psjhealth.org^
 ||stjzh.gdtarget.com^
 ||stktkt.profizelt24.de^
+||stkuailian.hl.cn^
 ||stlib.qbb6.com^
 ||stliom.vidaxl.cz^
 ||stlog.d.dmkt-sp.jp^
@@ -115201,6 +115297,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tfzozf.xyz^
 ||tfzozf.xyz^
 ||tg-chrome.com.cn^
+||tg-kuailian.com.cn^
 ||tg.1155t.cn^
 ||tg.52digua.com^
 ||tg.602.com^
@@ -116239,6 +116336,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||topnewsfeeds.net^
 ||topofblogs.com^$third-party
 ||topolino.it^*/omniture.php?
+||toponad.com^
 ||topsem.com^
 ||topsem.com^$third-party
 ||topsite.lv^$third-party
@@ -118890,12 +118988,14 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||translate-cdn.xiangtatech.com^
 ||translate-useraction-api.xiangtatech.com^
 ||translate.googleapis.com^
+||translateextraordi.fashion2025.com^
 ||transmapp.com^
 ||transmissionapp.jacoblegrone.com^
 ||transplant.care.uhssa.com^
 ||transplant.universityhealth.com^
 ||transportation.external.conduent.com^
 ||transportation.external.xerox.com^
+||tranyasy.com.cn^
 ||trap.skype.com^
 ||trappcloudservices.trapptechnology.com^
 ||trapptech.actonservice.com^
@@ -119750,6 +119850,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tukexiu.com^
 ||tukj.net^
 ||tukj.net^
+||tukuailian.hl.cn^
 ||tukupic.tianqistatic.com^
 ||tulip18.com^$third-party
 ||tumbleicicle.com^
@@ -119843,6 +119944,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tvgkatu.icu^
 ||tvid.in/log/
 ||tvkfms.nta.co.jp^
+||tvkuailian.com.cn^
 ||tvl.076lvo.xyz^
 ||tvmpfsr.xt12319.com^
 ||tvpage.com/tvpa.min.js
@@ -121835,11 +121937,14 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uvimage.56.com^
 ||uvip3.com^
 ||uviu.com/activity/
+||uvkuailian.com.cn^
+||uvkuailian.hl.cn^
 ||uvnjlm.cn^
 ||uvnjlm.cn^
 ||uvpnpz.misterspex.ch^
 ||uvqvvh.avva.com.tr^
 ||uvzrtq.livingspaces.com^
+||uw-kuailian.com.cn^
 ||uw9377.com^
 ||uwadakest.cyou^
 ||uwadakest.cyou^
@@ -122281,6 +122386,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vdslnp.highkey.com^
 ||vdvdjf.remotepc.com^
 ||vdzrjr.kenminkyosai.or.jp^
+||ve-kuailian.com.cn^
 ||ve.tsdlp.com^
 ||ve.velocityclinical.com^
 ||ve41.tz.app^
@@ -123264,6 +123370,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vwtjvd.xyz^
 ||vwtjvd.xyz^
 ||vwws6.net^
+||vx-kuailian.com.cn^
 ||vx2tbw9xin.com^
 ||vxcdsajm.top^
 ||vxcewh.cn^
@@ -123784,6 +123891,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wcv68kw.com^
 ||wcv68kw.com^
 ||wd-edge.sharethis.com^
+||wd-kuailian.com.cn^
 ||wd.602.com.volcgslb.com^
 ||wd.adcolony.com^
 ||wd.adcolony.com^
@@ -125454,6 +125562,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wwnscv.myspringfield.com^
 ||wwokkf.laredoute.ru^
 ||wwrupv.tannico.it^
+||wws-google-app.com.cn^
 ||wws-wps.com.cn^
 ||wwu.jjill.com^
 ||wwv.jjill.com^
@@ -125499,6 +125608,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www-sadobe.384.co.jp^
 ||www-sadobe.anabuki-community.com^
 ||www-sadobe.anabuki.co.jp^
+||www-safew-com.com.cn^
 ||www-safews.com.cn^
 ||www-smt.daiichisankyo-hc.co.jp^
 ||www-sougou.com.cn^
@@ -127449,6 +127559,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wximg.gtimg.com^
 ||wximg.wxs.qq.com^
 ||wxk9yp2h.chaowei-mycdn.com^
+||wxkuailian.com.cn^
 ||wxl0gfw.icu^
 ||wxl0gfw.icu^
 ||wxlagame.com^
@@ -127470,6 +127581,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wxwm1.ikuailian.com^
 ||wxwm2.ikuailian.com^
 ||wxwsmt.matsmart.fi^
+||wy-kuailian.com.cn^
 ||wy.602.com.volcgslb.com^
 ||wy.602.com^
 ||wy.668wan.com^
@@ -127788,6 +127900,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xcounter.ch^$third-party
 ||xctianyuan.com^
 ||xcv8phda.cn^
+||xcvkuailianss.com.cn^
 ||xcvwrj.xyz^
 ||xcvwrj.xyz^
 ||xcwl.tech^
@@ -128819,6 +128932,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xz-development.oss-cn-beijing.aliyuncs.com^
 ||xz.cppe43f35.com^
 ||xz.ercfh.com^
+||xzckuailian.com.cn^
 ||xzdv.011.com^
 ||xzfdapkxin.antxc.com^
 ||xzhwxfgc.cn^
@@ -130510,6 +130624,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zazzle.es/svc/px
 ||zazzle.fr/botdefender/init.js
 ||zazzle.fr/svc/px
+||zb-kuailian.com.cn^
 ||zb.3pjing87.top^
 ||zb.516624.com^
 ||zb.516624.com^
@@ -130893,6 +131008,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zh-cn-safew.com.cn^
 ||zh-cn.shenyun.com^
 ||zh-cn.shenyun.org^
+||zh-fifa-football-live.com^
 ||zh-google-chrom.com.cn^
 ||zh-google-google-app.hl.cn^
 ||zh-google-google-apps.hl.cn^
@@ -131442,6 +131558,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ztxh-bj.com^
 ||ztyumn.ifeng.com^
 ||ztyumn.ifeng.com^
+||zu-openclaw.com.cn^
 ||zu08e.cn^
 ||zuanke123.com^
 ||zuanke123.com^
@@ -131574,6 +131691,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zygscl.cn^
 ||zyiis.net^
 ||zyiis.net^
+||zykuailian.com.cn^
 ||zykwnj.cn^
 ||zykwnj.cn^
 ||zymbrlgu.cn^
