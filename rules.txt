@@ -22770,6 +22770,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-186-20260415212156-f009599e</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-186-20260418205934-cae71b81</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-2-20260409212509-9be0f229</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
+<!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-2-20260423212558-793c58d8</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-221-20260421020700-e53fb683</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-221-20260422212413-326c6bd3</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-39-20260414212259-a0d484ca</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
@@ -27648,6 +27649,7 @@ apk.tw##[class^=" yap-ad-"],.viewShare,#ct > div.mn> div:nth-child(1),div#favata
 apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkpure.net,apkpure.com##DIV.js-ad-slot
+apnews.com,dpreview.com,hollywoodreporter.com,sidereel.com##+js(acs, document.getElementsByTagName, .pubads)
 apnews.com,sidereel.com##+js(acs, document.getElementsByTagName, .pubads)
 app.bilibili.com##[id^="ad_info"]
 app.bilibili.com##[id^="ad_info"]
@@ -44292,6 +44294,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ab-bodian.kuwo.cn^
 ||ab-gb.mgid.com^
 ||ab-machine.forbes.com^
+||ab-sougou.com.cn^
 ||ab.blogs.es^
 ||ab.dns-finder.com^
 ||ab.dydab.com^
@@ -49959,6 +49962,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||app-branch.yummybazaar-qa.com^
 ||app-c01.lp1.npns.srv.n.nintendoswitch.cn^
 ||app-center.cdn.bcebos.com^
+||app-chrome-hl.hl.cn^
 ||app-clicks-corporate.firstrepublic.com^
 ||app-clicks.firstrepublic.com^
 ||app-dat.kingofthecurve.org^
@@ -49968,7 +49972,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||app-google-app.com.cn^
 ||app-google-cn.com.cn^
 ||app-google-cnn.com.cn^
+||app-google-hl.hl.cn^
 ||app-google-zh.hl.cn^
+||app-googlle-hl.hl.cn^
 ||app-iq6elgdk.joxx.cn^
 ||app-jp.getmiles.com^
 ||app-kn0b2v.renrenjihua.com^
@@ -50991,6 +50997,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||appget.cn^
 ||appgift.sinaapp.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
+||apphk-wps.com.cn^
 ||appi.qijizuopin.com^
 ||appicsh.qq.com^
 ||appier.net^
@@ -51140,19 +51147,26 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||approach.wise1-golf.com^
 ||appront.net/click.js
 ||apps-chrome-zh.hl.cn^
+||apps-chrome-zhcn.com.cn^
 ||apps-google-apps.hl.cn^
+||apps-google-chhrome.hl.cn^
 ||apps-google-chrome.com.cn^
+||apps-google-chroome.hl.cn^
 ||apps-google-chrroome.hl.cn^
 ||apps-google-cn.hl.cn^
+||apps-google-com-hl.hl.cn^
 ||apps-google-hl.hl.cn^
+||apps-googlle-hl.hl.cn^
 ||apps-pbd.ctraffic.io^
 ||apps-safew-cn.com.cn^
 ||apps-safew-com.hl.cn^
 ||apps-safew-safew.com.cn^
 ||apps-test.spectrum-member.com^
+||apps-wps-offce.com.cn^
 ||apps-wps-offfice.com.cn^
 ||apps-wps-platform.com.cn^
 ||apps-wps-zhcn.com.cn^
+||apps-wpsoffice2.com.cn^
 ||apps-www-google.com.cn^
 ||apps.airmeet.com^
 ||apps.ayopop.id^
@@ -51210,6 +51224,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||appspromote.wostore.cn^
 ||appsrv1.madserving.com^
 ||appsrv4.madserving.com^
+||appss-google-hl.hl.cn^
 ||appstore-download.hismarttv.com^
 ||appstore-trace-h5sdk.vivo.com.cn^
 ||appstore.cdn.pandora.xiaomi.com^
@@ -51234,6 +51249,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||apptracer.ru^$third-party
 ||apptracker.torob.com^
 ||apptus.actonservice.com^
+||apptw-wps.com.cn^
 ||appuat.intermiles.com^
 ||appupdate.cloud.360os.com^
 ||appupgrade.vivo.com.cn^
@@ -53574,6 +53590,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||beyond.bluewolf.com^
 ||beyondcompare.cc^
 ||beyondsecurity.com^$third-party
+||bf-sougou.com.cn^
 ||bf-tools.net^$third-party
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||bfafjsefesfs.njvxids6.d8r7xc.com^
@@ -53798,9 +53815,16 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||biminibliss.rwbimini.com^
 ||bin.cartwire.co/js/analytics.js
+||binance-ac.com.cn^
+||binance-ai.com.cn^
 ||binance-ao.com.cn^
+||binance-ap.com.cn^
+||binance-as.com.cn^
 ||binance-nwe.com.cn^
+||binance-qo.com.cn^
+||binance-qw.com.cn^
 ||binance-wap.com.cn^
+||binance-zh.com.cn^
 ||binanceap.com.cn^
 ||binancecomgfxiazai.com.cn^
 ||binancejys.com.cn^
@@ -53901,6 +53925,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bitmovin.com/analytics/web/2/bitmovinanalytics.min.js$domain=mxplus.tv
 ||bitrix.info/ba.js
 ||bitrix.info/bx_stat
+||bitturbo.net^
 ||bitwarden.com/plsbl/
 ||bitzestgenius.net^
 ||bivitr.com^
@@ -56273,6 +56298,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ccxiangsw.lmnpd.xyz^
 ||ccxiangsw.mmead.xyz^
 ||ccztgy.elgiganten.dk^
+||cd-sougou.com.cn^
 ||cd-user-upload.hongsong.club^
 ||cd.bendibao.com^
 ||cd.chemistanddruggist.co.uk^
@@ -56847,6 +56873,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cgyx.tv^
 ||cgz0213.com^
 ||cgz0213.com^
+||ch-chrome-hl.hl.cn^
 ||ch-google-google-com.hl.cn^
 ||ch-hr12333.com^
 ||ch-hr12333.com^
@@ -58086,6 +58113,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cn-serverlist.locojoy.com^
 ||cn-tk.anythinktech.com^
 ||cn-wbs-google.com.cn^
+||cn-wps-tw.com.cn^
 ||cn-wps-zh.com.cn^
 ||cn-ww-google.com.cn^
 ||cn.adpinfo.com^
@@ -58239,6 +58267,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cnxweb.com^$third-party
 ||cnyoudao-wy.com.cn^
 ||cnzh-google-apps.hl.cn^
+||cnzh-google-cchrome.hl.cn^
 ||cnzh-google-chrrome.hl.cn^
 ||cnzh-kuailian.com.cn^
 ||cnzhqs.com^
@@ -62728,6 +62757,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dgxlm.xyz^
 ||dgynnj.koctas.com.tr^
 ||dgztiz.conrad.se^
+||dh-sougou.com.cn^
 ||dh.holaworld.cn^
 ||dh.xfplay.com/home/home_game_new_*.json
 ||dh.xfplay.com/home/home_game_new_*.json
@@ -63517,6 +63547,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dload.qd.qingting.fm^
 ||dloeloqua.danskespil.dk^
 ||dlog-config.uu.cc^
+||dlog.wanmei.com^
 ||dlogs.bwton.com^
 ||dlp.egghead.link^
 ||dlpifu.com^
@@ -65756,6 +65787,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ehxyz.com^
 ||ehyv.zknka.cyou^
 ||ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com^
+||ei-sougou.com.cn^
 ||ei.monday.com^
 ||eiadf.xyz^
 ||eiadf.xyz^
@@ -68293,6 +68325,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||feeds.vivo.com.cn^
 ||feedsplat.vivo.com.cn^
 ||feedten.com^
+||feelwarmth.com^
 ||feesee.com^
 ||feesee.com^
 ||fei.hnhntgtg9.com^
@@ -68316,6 +68349,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||feizw.com/style/t.js
 ||fem.gprod.postmedia.digital/*/IIQUniversalID.js
 ||femalecook.com^
+||femboyrental.com^
 ||fembsflungod.com^
 ||femetrics.grammarly.io^
 ||fen.dkdlsj.com^
@@ -68661,6 +68695,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fixverify-kzlxv1e5mb.edgeone.dev^
 ||fiynk.aoshl.com^
 ||fizopp.duluthtrading.com^
+||fj-sougou.com.cn^
 ||fjbglfrv.com^
 ||fjbglfrv.com^
 ||fjbn.ag8.com^
@@ -69224,6 +69259,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fqxnlh.kgcshop.co.kr^
 ||fr-go.experian.com^
 ||fr-kuailian.hl.cn^
+||fr-wps.com.cn^
 ||fr.adpinfo.com^
 ||fr.contact.alphabet.com^
 ||fr.lucanet.com^
@@ -70154,6 +70190,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gastdn.wolfandbadger.com^
 ||gaszfc.moo39829.net^
 ||gatan.actonservice.com^
+||gate-cy.hl.cn^
+||gate-fn.hl.cn^
+||gate-kw.hl.cn^
+||gate-rp.hl.cn^
+||gate-vx.hl.cn^
+||gate-wr.hl.cn^
+||gate-zb.hl.cn^
 ||gate.datacaciques.com^
 ||gatecollect.kugou.com^
 ||gatehousemedia.com/wickedlocal/ip.js
@@ -70843,6 +70886,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ggzuhao.com^
 ||ggzuhao.com^  
 ||gh-kuailian.com.cn^
+||gh-sougou.com.cn^
 ||gh.baidu.com^
 ||gh.vsee.me^
 ||ghac.cn^
@@ -70951,6 +70995,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gjtrack.ucweb.com^
 ||gjtu.ccbxwlh.com^
 ||gjusp.alicdn.com^
+||gk-sougou.com.cn^
 ||gk.gkservices.com^
 ||gk.sina.cn^
 ||gk10mu.com^
@@ -71819,13 +71864,18 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google-apps-chrome.hl.cn^
 ||google-ccc.com.cn^
 ||google-ccc.hl.cn^
+||google-cchhrome.hl.cn^
 ||google-ch-chrome.com.cn^
 ||google-chrme-www.com.cn^
 ||google-chrome-web.hl.cn^
 ||google-chrrome-app.hl.cn^
 ||google-chrrome-zh.hl.cn^
 ||google-chrromee.hl.cn^
+||google-chrrrome.hl.cn^
 ||google-cn-chrom.com.cn^
+||google-cn-zh-chrome.hl.cn^
+||google-cnzh-chrome.hl.cn^
+||google-cnzh-chromee.hl.cn^
 ||google-co.com.cn^
 ||google-en-chrome.com.cn^
 ||google-gle.com.cn^
@@ -71840,6 +71890,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google-www-chrome.hl.cn^
 ||google-xu.com.cn^
 ||google-zh-chrome.com.cn^
+||google-zh-cn-chrome.hl.cn^
 ||google-zhcn-chrome.com.cn^
 ||google-zhcn-chrome.hl.cn^
 ||google.*/url?$ping
@@ -71883,8 +71934,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||googleapis.com/ivc.js
 ||googleapis.com^*/gen_204?
 ||googlecode.com^*/tracker.js
+||googlecom.com.cn^
 ||googlecommerce.com^
 ||googlegce.com.cn^
+||googlehcn.com.cn^
+||googlehcom.com.cn^
+||googlelcn.com.cn^
+||googlelcom.com.cn^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
 ||googleqanbao.com.cn^
@@ -72173,6 +72229,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||groupbycloud.com/wisdom/v2/pixel
 ||groupe-seloger.com/tracking-data/
 ||groupevents.sixflags.com^
+||groupfunplace.com^
 ||groupon.com/analytic/
 ||groupondata.com/tracky
 ||groups.heatexperience.com^
@@ -73388,6 +73445,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hesramfi.com^
 ||hesramfi.com^
 ||hesxz.com^
+||hetianwq.com^
 ||heuida.shopafrm.com^
 ||hevqaz.submarino.com.br^
 ||hexagon-analytics.com^
@@ -73785,6 +73843,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hk-hqlm-whatsapp.hl.cn^
 ||hk-jxbq-whatsapp.hl.cn^
 ||hk-tencentclb.com^
+||hk-wps365.com.cn^
 ||hk.aicleverly.com^
 ||hk.bei-min.cn^
 ||hk.jtsh123.com^
@@ -73793,6 +73852,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hk.web-mobile-whatsapp.com.cn^
 ||hk.yunhaoka.cn^
 ||hk16m.top^
+||hk2-wps3.com.cn^
 ||hk3.laidianbanlv.cn^
 ||hk3jn4.top^
 ||hk48s.vqwjucmfdsqznfn.in^
@@ -73800,6 +73860,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hk932.cdn.*^
 ||hk932.cdn^
 ||hk9600.com^
+||hkcn-wps.com.cn^
 ||hkctmldg.icu^
 ||hkctmldg.icu^
 ||hkeig.com^
@@ -75598,6 +75659,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iis3g.deliver.ifeng.com^
 ||iisl7wpf.me^
 ||iivt.com^$third-party
+||ij-sougou.com.cn^
 ||ij6xsq.com^
 ||ijaabm.bravotv.com^
 ||ijaabm.eonline.com^
@@ -76866,6 +76928,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||incisive.actonservice.com^
 ||inclk.com^
 ||include.xs2345.com^
+||incn-wps.com.cn^
 ||incomaker.com//tracking/
 ||incomehippo.com^
 ||incompetentjoke.com^
@@ -78074,6 +78137,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||inveno.com^
 ||inveno.com^
 ||inventorycache.com^
+||inventorycache.com^$redirect=noopjs,script
 ||inventorycache.com^$redirect=noopjson,xmlhttprequest
 ||inventorycache.com^$~xmlhttprequest
 ||inventtango.com^
@@ -79723,6 +79787,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jpav.date^$script
 ||jpayu6di.icu^
 ||jpayu6di.icu^
+||jpcn-wps.com.cn^
 ||jpeg.iixlz.cn^
 ||jpfufu.xlmoto.co.uk^
 ||jpg.cooguo.com^
@@ -80610,6 +80675,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kaitongyewu.com^
 ||kaiwqp-04-94224751.ap-northeast-2.elb.amazonaws.com^
 ||kaiwqp-05-1192817015.ap-northeast-2.elb.amazonaws.com^
+||kaiyun-proton.com.cn^
 ||kaiyun.hl.cn^
 ||kaiyun.io^
 ||kaiyun.io^$important
@@ -81087,6 +81153,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kkbiqu2.com/js/yuedu.js
 ||kkbiqu2.com/js/yuedu.js
 ||kkbnzz.cn^
+||kkc-kuailian.com.cn^
 ||kkcaicai.com^
 ||kkcmcp.printemps.com^
 ||kkdi.ag8.com^
@@ -81126,6 +81193,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kkzz3731213145.taizet.com^
 ||kl-branch-sandbox.thekono.com^
 ||kl-branch.thekono.com^
+||kl-sougou.com.cn^
 ||kl-toys.com^
 ||kl.67it.com^
 ||kl.67it.com^
@@ -81411,6 +81479,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kqzbph.zerohedge.com^
 ||kqzyfj.com^
 ||kr-go.experian.com^
+||kr-wps.com.cn^
 ||kr.axyqd.cn^
 ||kr.axyqd.cn^$important
 ||kr.sdykcloud.cn^
@@ -81628,6 +81697,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kuailianaiting.com.cn^
 ||kuailianaitong.com.cn^
 ||kuailianaituan.com.cn^
+||kuailianbok.com.cn^
 ||kuailianbooster.com.cn^
 ||kuailiancaz.com.cn^
 ||kuailiancff-pcc.com.cn^
@@ -81655,6 +81725,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kuailianlepc.com.cn^
 ||kuailianlinker.com.cn^
 ||kuailianlux.com.cn^
+||kuailianncn.com.cn^
 ||kuailianodd.com.cn^
 ||kuailianoft.com.cn^
 ||kuailianoonn.com.cn^
@@ -81797,6 +81868,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kwijfh.proactiv.com^
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||kwitvg.letudiant.fr^
+||kwizly.com/api/log/
 ||kwji.880.net^
 ||kwmdmmsp.hongtaitanghua.com^
 ||kwmsg.kuwo.cn^
@@ -85360,6 +85432,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lv-api-sinfonlinea.ulikecam.com/lv/v1/ad/*^
 ||lv-api-sinfonlinea.ulikecam.com^
 ||lv-api.ulikecam.com^
+||lv-wps.com.cn^
 ||lv6od3a4sz12.www.logology.co^
 ||lvbi.nsgjef.cn^
 ||lvcfgus.cn^
@@ -91342,6 +91415,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mmyxlgmu.cc^
 ||mmz3.beinsports.com^
 ||mn-kuaishou-api.9em.cn^
+||mn-sougou.com.cn^
 ||mn.984evs8g3bs.top^
 ||mn.dzigj.com^
 ||mn.goumaoyuanny.com^
@@ -92404,6 +92478,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mycard.baoheng.ink^
 ||mycard.qx10086.net^
 ||mycleanmymac.com^
+||mycn-wps.com.cn^
 ||mycomm2.hackensackmeridian.org^
 ||mycounter.com.ua^$third-party
 ||mycounter.ua^$third-party
@@ -92705,6 +92780,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||narrowad.org^
 ||naryvz.xyz^
 ||naryvz.xyz^
+||nasa-wps.com.cn^
 ||nasi.etherscan.com^
 ||nasimobi.com^
 ||nasotrading.cn^
@@ -93527,6 +93603,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nl-nl.coloplastcare.com^
 ||nl-rcd.iqiyi.com^
 ||nl-rcd.iqiyi.com^
+||nl-wps.com.cn^
 ||nl.aon.com^
 ||nl.notice.iqiyi.com^
 ||nl.rcd.iqiyi.com^
@@ -95172,6 +95249,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ooyala.com^*/report?log
 ||ooz9.143.cc^
 ||op-mobile.opera.com^
+||op-sougou.com.cn^
 ||op.262j.com^
 ||op.dragonfru.it^
 ||op.fi11sm372.com^
@@ -95307,6 +95385,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||operate.bei-min.cn^
 ||operationchicken.com^
 ||operationnail.com^
+||operationsports.com/wp-json/navy/v1/tag?pid=
 ||opgirl-tmp.adbxb.cn^
 ||oph7o.montecarlosbm-corporate.com^
 ||ophan.theguardian.com^
@@ -99554,6 +99633,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qhx1h2g.com^
 ||qhxtzwf.cn^
 ||qhxtzwf.cn^
+||qhyxx-live.com^
 ||qiabayyds.com^
 ||qiabayyds.com^
 ||qiailm.com^
@@ -99691,14 +99771,19 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qishui-uu.hl.cn^
 ||qishui-yinle.hl.cn^
 ||qishui-zn.hl.cn^
+||qishuicn.com.cn^
+||qishuicom.com.cn^
 ||qishuide.com.cn^
 ||qishuiyinle-music.hl.cn^
 ||qishuiyinle-pc.hl.cn^
 ||qishuiyinle.hl.cn^
 ||qishuiyinyue.org.cn^
+||qishuiyinyuecn.com.cn^
+||qishuiyinyuecom.com.cn^
 ||qishuiyiyue.com.cn^
 ||qishuiyiyue.hl.cn^
 ||qishuiyy1.com.cn^
+||qishuiyycn.com.cn^
 ||qishula.com/css/ding.js
 ||qishuyi.com.cn^
 ||qisx68.xyz^
@@ -102216,6 +102301,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rtb.adxsenmeng.com^
 ||rtb.com.ru^
 ||rtb.eanalyzer.de^
+||rtb.julang.taobao.com^
 ||rtb.metrigo.com^
 ||rtb.openx.net^
 ||rtb.prod.carbonatixaudio.com^
@@ -103308,7 +103394,19 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||safety.west.com^
 ||safetybrush.com^
 ||safevisit.online^$third-party
+||safew-cc.com.cn^
+||safew-dy.com.cn^
+||safew-hg.com.cn^
 ||safew-hk.com.cn^
+||safew-jp.com.cn^
+||safew-rb.com.cn^
+||safew-sa.com.cn^
+||safew-sf.com.cn^
+||safew-tw.com.cn^
+||safew-win.com.cn^
+||safew0.com.cn^
+||safew7.com.cn^
+||safew8.com.cn^
 ||safewcm.org.cn^
 ||safewco.org.cn^
 ||safewqq.com.cn^
@@ -105535,6 +105633,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sgbbc.cn^
 ||sgbbc.cn^
 ||sgbfjs.info^
+||sgcn-wps.com.cn^
 ||sgcs.wan.360.cn^
 ||sgegie.fun^
 ||sgegie.fun^
@@ -111568,6 +111667,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||st-n.ads3-adnow.com^
 ||st-nlyss1.plala.or.jp^
 ||st-sentinel.vivo.com.cn^
+||st-sougou.com.cn^
 ||st-widget.s3.amazonaws.com^
 ||st.360buyimg.com^
 ||st.anastasija.lt^
@@ -116209,6 +116309,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thaqyl.mediamarkt.nl^
 ||thcaes.top^
 ||thcaes.top^
+||thcn-wps.com.cn^
 ||thdidx.xyz^
 ||thdidx.xyz^
 ||the-group.net/aether/
@@ -117055,6 +117156,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||todesk.ac.cn^
 ||todesk.org.cn^
 ||todeskappa.com.cn^
+||todeskapps.cn^
 ||todomercadoweb.es/pixel
 ||toeopa.doutornature.com^
 ||toeurope.cn^
@@ -118565,6 +118667,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||trace.webank.com^
 ||trace.zhiyan.tencent-cloud.net^
 ||tracead.com^$third-party
+||tracecontent.com^
 ||traceless.me^$third-party
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
@@ -118951,6 +119054,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tracker.swedish.org^
 ||tracker.thinkermail.com^
 ||tracker.thinkindot.com^
+||tracker.tianmu.mobi^
 ||tracker.timesgroup.com^
 ||tracker.tolvnow.com^
 ||tracker.tubecj.com^
@@ -120816,6 +120920,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tvv.zjqfart.cn^
 ||tw-go.experian.com^
 ||tw-kuailian.hl.cn^
+||tw-wps365.com.cn^
 ||tw.adon.vpon.com^
 ||tw.adx.nextmedia.com^
 ||tw.api.vpon.com^
@@ -120835,6 +120940,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||twc161.cc^
 ||twcczhu.com^
 ||twcczhu.com^
+||twcn-wps.com.cn^
 ||twcount.com^$third-party
 ||twcouponcenter.com^$third-party
 ||twdhec.marioeletro.com^
@@ -121235,6 +121341,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ubertracking.info^$third-party
 ||ubgj.154.com^
 ||ubiquitoussea.com^
+||ubiquitoussea.com^$redirect=noopjs,script
 ||ubiquitousyard.com^
 ||ubixioe.com^
 ||ubm.docu.info^
@@ -121924,6 +122031,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uparpu.com^
 ||uparpu.com^
 ||upass.10jqka.com.cn^
+||upc.zztfly.com^
 ||upceshop.cn^
 ||upd.faronicslabs.com^
 ||update-a.locojoy.com^
@@ -122192,6 +122300,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||usb-vna.coppermountaintech.com^
 ||uscatherineaa.com^
 ||uscatherineaa.com^
+||uscn-wps.com.cn^
 ||usdbbx.mmartan.com.br^
 ||usdpdown.game.uodoo.com^
 ||usdt-binance.com.cn^
@@ -122785,6 +122894,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uuzwvqc.cn^
 ||uuzwvqc.cn^
 ||uuzxaz.vidaxl.com^
+||uv-sougou.com.cn^
 ||uv43ck.xyz^
 ||uv4905r82wk2566i.aliyunddos0015.com^
 ||uv7dz.q8ft6wf5.com^
@@ -126074,22 +126184,36 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wpoarjokzgi.com^
 ||wppkg.baidupcs.com^
 ||wppyub.mygenerator.com.au^
+||wps-bgcn.com.cn^
+||wps-bgcom.com.cn^
 ||wps-cnpp.com.cn^
 ||wps-cnzh-office.com.cn^
+||wps-hkcn.com.cn^
+||wps-hkzh.com.cn^
 ||wps-mps.com.cn^
 ||wps-ncdd.com.cn^
 ||wps-off.org.cn^
 ||wps-office-net.cn^
+||wps-office-pro.com.cn^
+||wps-office2zhcn.com.cn^
 ||wps-online.hl.cn^
 ||wps-pcoffice.hl.cn^
+||wps-pros.com.cn^
 ||wps-svip.com.cn^
 ||wps-yps.com.cn^
 ||wps-zh-office.com.cn^
+||wps-zhcn-offce.com.cn^
+||wps-zhcn-office.hl.cn^
 ||wps.ac.cn^
 ||wps.cn/api/pre_download?dist=
 ||wps.cn/api/pre_download?dist=
 ||wps.cn/wpsv6internet/infos.ads?
 ||wps.cn/wpsv6internet/infos.ads?
+||wps2-office3.com.cn^
+||wps7office-hkzh.com.cn^
+||wpsbangong.com.cn^
+||wpsbangongcn.com.cn^
+||wpsbangongcom.com.cn^
 ||wpsbangongruanjianguanfangxiazaidiannaobanmianfeiban.com.cn^
 ||wpsbangongruanjianxiazai.com.cn^
 ||wpsios.com.cn^
@@ -126487,6 +126611,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www-b97jd3hxn-com.xmp0ld.com^
 ||www-backend.strinova.com/api/common/uid
 ||www-bbs-google.com.cn^
+||www-chrome-hl.hl.cn^
 ||www-chromegoogle.com.cn^
 ||www-chromegooglee.com.cn^
 ||www-chromeguge.com.cn^
@@ -126505,6 +126630,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www-googlees.com.cn^
 ||www-googlegc.com.cn^
 ||www-googletagmanager.l.google.com^
+||www-googlle-hl.hl.cn^
 ||www-jsonqplsjr-com.imxvcz.com^
 ||www-kuailianzh.com.cn^
 ||www-officc-wps.com.cn^
@@ -126520,8 +126646,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www-safew.hl.cn^
 ||www-safews.com.cn^
 ||www-smt.daiichisankyo-hc.co.jp^
+||www-sougou-cn.com.cn^
 ||www-sougou.com.cn^
 ||www-wps-cn.hl.cn^
+||www-wps-cns.com.cn^
 ||www-wps-hl.hl.cn^
 ||www-wps-wps.hl.cn^
 ||www-wpsx.com.cn^
@@ -130760,6 +130888,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youdao-xt.hl.cn^
 ||youdaoa.cn^
 ||youdaobobo.com^
+||youdaocom.com.cn^
 ||youdaofanyi-pc.hl.cn^
 ||youdaoo.hl.cn^
 ||youdaoxn.com^
@@ -131965,6 +132094,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zgzxs.weathercn.com^
 ||zgzxs.weathercn.com^
 ||zh-appd-google.com.cn^
+||zh-chrome-hl.hl.cn^
 ||zh-cn-google.hl.cn^
 ||zh-cn-kuailian.hl.cn^
 ||zh-cn-safew.com.cn^
@@ -131983,7 +132113,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zh-safew-com.hl.cn^
 ||zh-tw.siemensplmevents.com^
 ||zh-wps-cn.hl.cn^
+||zh-wps-hhk.com.cn^
+||zh-wps-offce.com.cn^
 ||zh-wps-platform.com.cn^
+||zh-wps2.com.cn^
+||zh-wpsofficce.com.cn^
 ||zh-www-google.com.cn^
 ||zh-www-google.org.cn^
 ||zh.china.com^
@@ -132037,6 +132171,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zhcm.gocdna.cn^
 ||zhcn-googele.hl.cn^
 ||zhcn-safew.hl.cn^
+||zhcn-wps-office.hl.cn^
 ||zhcxvk.qvc.com^
 ||zhduni.rizap.jp^
 ||zhekoushouyou.com.cn^
