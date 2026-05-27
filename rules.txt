@@ -471,6 +471,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 .n.2.1.l50.js^$third-party
 .n.2.1.l60.js^$third-party
 .na1.hs-sales-engage.com/$image
+.na1.hubspotlinks.com/$image
 .ne16.com/do/
 .net/l.gif?
 .net/v2/stats/1*$third-party
@@ -71689,6 +71690,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||glassboxcdn.com^$third-party
 ||glassboxdigital.io^$third-party
 ||glasscoyote.com^
+||glasscoyote.com^$redirect=noopjs,script
 ||glassdoor.*/geb/events/
 ||glassguide-au.autovistagroup.com^
 ||glassmoni.researchgate.net^
@@ -89762,6 +89764,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mdxhon.allhomes.com.au^
 ||mdxprod.io/analytics.js
 ||me-cdn.effectivemeasure.net^
+||me-qr.com/metrics/
+||me-qr.com/statistic/collect/
 ||me.afp.chinanews.com^
 ||me.coact.org.au^
 ||me.glamhive.com^
