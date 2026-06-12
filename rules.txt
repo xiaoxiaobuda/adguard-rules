@@ -72,6 +72,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 &sst.gcsub=
 &sst.sw_exp=
 &t=pageview&
+&ui-instrumentation-components-beacon.InstrumentationBeacon.sendData=1
 *$3p,domain=d3ward.github.io
 *$app=com.miui.systemAdSolution
 *$app=com.miui.systemAdSolution
@@ -27719,6 +27720,7 @@ aizhan.com##.azone,.cha_side_thumb
 aizhan.com##.azone,.cha_side_thumb
 akjunshi.com##.banner_ad,[class^="ad_two_"]
 akjunshi.com##.banner_ad,[class^="ad_two_"]
+al.com,attackofthefanboy.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjournalist.com,gameskinny.com,lgbtqnation.com,macwelt.de,mlive.com,news8000.com,nj.com,pcwelt.de,primagames.com,siliconera.com,syracuse.com,themarysue.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
 ali213.net###zadbbsdetailfloor,.apptg,.xginfo_l_sale
 ali213.net###zadbbsdetailfloor,.apptg,.xginfo_l_sale
 ali213.net##.placeholderforpromotion
@@ -46674,6 +46676,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ads-api.twitter.com^
 ||ads-api.videojj.com^
 ||ads-api.vivo.com^
+||ads-bid.leadmoad.com^
 ||ads-c-1854119718.us-west-1.elb.amazonaws.com^
 ||ads-collector.luizalabs.com^
 ||ads-config.unityads.unity3d.com^
@@ -49072,6 +49075,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analytics.phn.com^
 ||analytics.picknrg.com^
 ||analytics.piksel.com^
+||analytics.pingaja.com^
 ||analytics.pinterest.com^
 ||analytics.pinterest.com^
 ||analytics.pinterest.com^$third-party
@@ -55410,6 +55414,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||brilliantcollector.com^$third-party
 ||bringg.actonservice.com^
 ||bringmethehats.com^
+||bringmethenews.com/.api/admiral
 ||brinstascooter.eccocar.com^
 ||brioscoot.eccocar.com^
 ||briskeagle.io^
@@ -56003,6 +56008,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||c-adash.m.taobao.com^
 ||c-adx.2345.com^
 ||c-c-l.actonservice.com^
+||c-cmoa.akamaized.net/sol/c/js/common/gtm_ga_user_update.js
 ||c-date.com/pixel/
 ||c-date.it/tracking?
 ||c-date.it^*/tracking2/tr.js
@@ -83566,6 +83572,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lajizhan.org^
 ||lakefish.xyz^
 ||lakefish.xyz^
+||lakeofficepros.com^
 ||lakerspreferences.gleague.nba.com^
 ||lakerspreferences.nba.com^
 ||lakesecure.com^
@@ -89834,6 +89841,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||master.cifraclub.com.br^
 ||master.wap.dphub.sandai.net^
 ||masterconn.qq.com^
+||masterenter.com^
 ||masternaut.actonservice.com^
 ||masterstats.com^$third-party
 ||mastertag.effiliation.com^$third-party
@@ -104247,6 +104255,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rudderlabs.com^$third-party
 ||rudderstack.com/v1/track
 ||rudy.adsnative.com^
+||rueducommerce.fr/ps/events.js
 ||rugncn.ifeng.com^
 ||rugncn.ifeng.com^
 ||rugttt.robinson.com^
@@ -107538,6 +107547,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sgrttb.jgs7jq.com^
 ||sgsb.aba.com^
 ||sgstats.com^
+||sgtm.cmoa.jp^
 ||sgtm.dhgate.com.cdngtm.com^
 ||sgtm.hisense.com^
 ||sgtm.tagmanageritalia.it^
@@ -114835,6 +114845,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats.newsweek.com^
 ||stats.nexagon.dk^
 ||stats.nhk.or.jp^
+||stats.nkkk.de^
 ||stats.nodewood.com^
 ||stats.nonprofit.foundation^
 ||stats.nortonhealthcare.com^
@@ -115120,6 +115131,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats.vattenfall.nl^
 ||stats.vattenfall.se^
 ||stats.vdsnow.ru^
+||stats.velarium.cc^
 ||stats.vican.me^
 ||stats.vidbinge.com^
 ||stats.viddler.com^
@@ -115569,6 +115581,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sts.authramp.com^
 ||sts.eccmp.com^
 ||sts.eliasjarzombek.com^
+||sts.marketingsuite.jp^
 ||sts.papyrs.com^
 ||sts.tour-europe.org^
 ||stscs.ditzo.nl^
@@ -116497,6 +116510,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||t.a3cloud.net^
 ||t.actemra.com^
 ||t.ad.nl^$image
+||t.adbiding.cn^
 ||t.adbxb.cn^
 ||t.adclr.jp^
 ||t.adcrops.net^
@@ -121279,7 +121293,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tracking.cat898.com^
 ||tracking.cdiscount.com^
 ||tracking.cds.dmm.co.jp^
+||tracking.cds.dmm.co.jp^$image
 ||tracking.cds.dmm.com^
+||tracking.cds.dmm.com^$image
 ||tracking.cello-square.com^
 ||tracking.cengage.com^
 ||tracking.cenomicenters.com^
@@ -121409,6 +121425,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tracking.graduateschool.edu^
 ||tracking.graphly.io^
 ||tracking.grosseladies.de^
+||tracking.groupe-ldlc.com^
 ||tracking.gruppo.mps.it^
 ||tracking.guidehouse.com^
 ||tracking.handlesets.com^
@@ -134977,7 +134994,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zoom-i.cn^
 ||zoom-i.com.cn^
 ||zoom-zoom.cn^
+||zoom.us/*/app-telemetry.
+||zoom.us/*/fingerprintjs-
 ||zoom.us/*/telemetry
+||zoom.us/user/anonymous/telemetry
 ||zoomanalytics.co^
 ||zoomanalytics.co^$third-party
 ||zoomengage.com^$third-party
