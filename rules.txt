@@ -37608,6 +37608,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3htai.com^
 ||3i2i.com^
 ||3i2i.com^
+||3ie0h3b.com^
 ||3igd.011.com^
 ||3iww.720lu.com^
 ||3ixy.154.com^
@@ -47292,6 +47293,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||advertising.
 ||advertising.
 ||advertising.amazon.com^
+||advertising.amazon.dev/v1/ad-events/
 ||advertising.apple.com^
 ||advertising.apple.com^
 ||advertising.com^$third-party
@@ -96477,6 +96479,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||omcshw.pharmasi.it^
 ||omeet.cc^
 ||omega7o.com^
+||omegaroutes.com^
 ||omes-sec.heytapmobi.com^
 ||ometria.com^$third-party
 ||ometrics.ameds.com^
@@ -127812,6 +127815,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wewlkq.com^
 ||wewlkq.com^
 ||wewomedia.com^$third-party
+||weworkremotely.com/listing_ads/8/impression?
 ||wexrty.cn^
 ||weyyae.com^
 ||wezbvq.heine-shop.nl^
