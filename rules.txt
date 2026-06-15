@@ -23194,6 +23194,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||akamaihd.net/nbad/player/*/appmeasurement.js$domain=watch.nba.com
 @@||akamaihd.net/nbad/player/*/visitorapi.js$domain=watch.nba.com
 @@||akamaized.net^
+@@||alb-jjexm35p5nv4ven8gt.cn-shenzhen.alb.aliyuncsslb.com^
 @@||ali-gamezone.static.yximgs.com^
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
@@ -25564,6 +25565,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||n0va.mihoyo.com^
 @@||n8s.jp^$script,domain=nikkei.com
 @@||na1r.services.adobe.com^
+@@||na61-na62.wagbridge.advertisement.tanx.com^
 @@||na61-na62.wagbridge.alibaba.tanx.com^
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp|nexon.com
 @@||nakedwines.co.uk/search/hitcount?$~third-party
@@ -26826,6 +26828,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||ti.qq.com^
 @@||tianshu.gtimg.cn^
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
+@@||tieba-ares.cdn.bcebos.com^
 @@||tiktokcdn.com^
 @@||tiktokv.com^
 @@||timvision.it/libs/fingerprint/fingerprint.js
@@ -62626,6 +62629,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||data.tw-email.princess.com^
 ||data.tw-guest.princess.com^
 ||data.txn.puntoscolombia.com^
+||data.u.software^$third-party
 ||data.ubi.com^
 ||data.ublock-browser.com^
 ||data.uk-email.princess.com^
@@ -76514,6 +76518,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||id.google.*/verify/
 ||id.jiathis.com^
 ||id.kuaishou.com^
+||id.nbcuni.com^
 ||id.verticalhealth.net/script.js?partnerid=
 ||id3g.sxzb.app^
 ||id5-sync.com^
@@ -99154,6 +99159,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pings.vidpulse.com^
 ||pingshetrip.com^
 ||pingshetrip.com^
+||pingsurvey.com^
 ||pingtas.qq.com^
 ||pingtas.qq.com^
 ||pingtcss.qq.com^
@@ -105648,6 +105654,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||santander-ptr.cfd^
 ||santander-pts.cfd^
 ||sanya1.com^
+||sanygroup.com^
 ||saoss-oss.xyz^
 ||sape.ru^
 ||sapha.com^$third-party
