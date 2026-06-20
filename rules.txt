@@ -40920,6 +40920,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||a0cf72e50897dc2fea9f66638fe2c3cf.miecooshohgoh1pi.cc^
 ||a0food.top^
 ||a0food.top^
+||a0yj777.tfmhwc.com^
 ||a1.0s.net.cn^
 ||a1.289.com^
 ||a1.51shiti.cn^
@@ -48156,6 +48157,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ak0gsh40.com^
 ||ak47.cooguo.com^
 ||ak968.com^
+||aka.asiae.co.kr/scripts/AKACollect.js
 ||akamai.com/crs/lgsitewise.js
 ||akamai.net/*.babylon.com/trans_box/
 ||akamai.net/chartbeat.
@@ -76604,6 +76606,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||i7pnx0t.cn^
 ||i7ql.cl.app^
 ||i7rx.j3b4m3g8.work^
+||i7yuo.bjmscfmcn.com^
 ||i8.xn--0trp01f.xn--fiqs8s^
 ||i81o23nrl.xyz^
 ||i910146.cc^
@@ -77844,6 +77847,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||imageshack.us^*/thpix.gif
 ||imageter.com^
 ||imagetwistcams.com/pixel/
+||imagex-settings.volcimagex.net^
 ||imagica.brain.ai^
 ||imagine.ricoh.nl^
 ||imagzine.oppomobile.com^
@@ -81354,6 +81358,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jpqed.xyz^
 ||jpqed.xyz^
 ||jprbql.jdsports.fr^
+||jps2.abc2p62xs.com^
+||jps2.adeptaiplus.com^
 ||jptgcss.neploqo.com.gccdn.net^$important
 ||jptgcss.neploqo.com.gccdn.net^$important
 ||jptgcss.neploqo.com^$important
@@ -90437,6 +90443,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mcgi.v.qq.com^
 ||mchrwxh.j3b4m3g8.work^
 ||mchtna.fashionplus.co.kr^
+||mcjs.prd.a.intuit.com/assets/pixel-reporting-sdk/
 ||mckbpe.united-arrows.co.jp^
 ||mckiey.thun.com^
 ||mckuailian.com.cn^
@@ -117431,6 +117438,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||t0pan.top^
 ||t0ql.hikedj.com^
 ||t0y.toyota.ca^
+||t0yj779.8342j.com^
 ||t1-app.dewu.com^
 ||t1-fast.dewu.net^
 ||t1.58cdn.com.cn^
