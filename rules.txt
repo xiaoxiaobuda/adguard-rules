@@ -55237,6 +55237,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||book118.com/statics/js2/
 ||book118.com/statics/js2/
 ||bookbeef.com^
+||bookcabin.com/api/log-browser
 ||booking.com/87sduif98q3rijax
 ||booking.com/c360/v1/track
 ||booking.com/collector/
@@ -73384,6 +73385,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||goolpter.com^
 ||goonch||novel.pangolin-sdk-toutiao.com^
 ||gooo.al^$third-party
+||gopay.sh/collect
 ||gopig.io^
 ||gopjn.com^$third-party
 ||goprediction.com^$third-party
@@ -78556,6 +78558,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||indmetric.rediff.com^
 ||indoeasia.edm.globalsources.com^
 ||indoleads.com/api/pixel-content/
+||indonesiadefense.com/metrikgtg
 ||ineed2s.ro^
 ||ineedhits.com^$third-party
 ||inencr.woodhouseclothing.com^
