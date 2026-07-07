@@ -63649,6 +63649,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||desertgates.com^
 ||design.informabi.com^
 ||design.nanawall.com^
+||designdew.com^
 ||designsgrid.com^
 ||desipearl.com/tracker/
 ||desirebucket.com^
@@ -72398,6 +72399,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gitcrumbs.com^
 ||gitee.com/joinli/Api/raw/master/banner$replace=/ad_url//
 ||gitee.com/joinli/Api/raw/master/banner$replace=/ad_url//
+||gitfut.com/*/view
 ||github.com/_private/browser/stats
 ||github.dev/diagnostic?
 ||giuasyb.cn^
