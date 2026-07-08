@@ -49490,6 +49490,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analytics.vitalsignstracker.com^
 ||analytics.viture.dev^
 ||analytics.vixcloud.co^
+||analytics.vk.asahi.co.jp^
 ||analytics.vortexscans.com^
 ||analytics.wanmei.com^
 ||analytics.warnertv.fr^
@@ -67663,6 +67664,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||embknh.perriconemd.com^
 ||embnvut.com^
 ||embnvut.com^
+||embossedpaper.com^
 ||emc.dr-stick.shop^
 ||emcalliance.vmware.com^
 ||emcmqw.com^
@@ -70041,6 +70043,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fitanalytics.com^$third-party
 ||fitmessage.com^
 ||fitnessmapper.com^
+||fitwithalpine.com^
 ||fitymi.app/js/script.js
 ||fiverr.com/api/v1/activities
 ||fiverr.com/px/client/PXK3bezZfO/main.min.js
@@ -84582,6 +84585,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lendingtree.com/pixel/
 ||lengmen.cc/assets/public/
 ||leniugame.com^
+||lenovo.com/gemets/
 ||lenpmh.francoisesaget.com^
 ||lens.zhihu.com^
 ||lensdirect.com/page-tracking/
