@@ -34585,6 +34585,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0.r.msn.com^
 ||00.y6666465.vip^
 ||00.y7124965.vip^
+||000*.com^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||000123456789.online^
 ||000123456789.online^
@@ -34593,9 +34594,15 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||00028hg.com^
 ||000aaap2023.com^
+||000bbbb.com^
 ||000dn.com^
 ||000dn.com^
+||000ffff.com^
 ||000fg3al8qq3ur9dkepjsr798qbmlq11cera25f9vgjkql8qd7dfu6um.tt.x.bsgslb.cn^
+||000gggg.com^
+||000hhhh.com^
+||000iiii.com^
+||000uuuu.com^
 ||000xiazai3.i643g.com^
 ||001.tscopy.cn^
 ||0013.cc^
@@ -37330,6 +37337,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||312036.com^
 ||3132372e302e302e31^
 ||31356.vip^
+||314jbzsw4nv4.openinstalljs.com.eo.dnse3.com^
 ||315.wefaceapp.com^
 ||3158.cn/static/js/bu.js^
 ||3158.cn/static/js/bu.js^
@@ -50546,6 +50554,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.yd126.com^
 ||api.yfanads.com^
 ||api.yhw4.cn^
+||api.ylg33xjywkcfmdb5e.cc^
 ||api.youngle.site^
 ||api.youtu.qq.com^
 ||api.youtu.qq.com^
@@ -50850,6 +50859,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||app-x278m5ey.zgbxxffww.com^
 ||app-x278m5ey.zkappsart.com^
 ||app-yj3503.renrenjihua.com^
+||app.000*.com^
+||app.000aaaa.com^
+||app.000bbbb.com^
+||app.000cccc.com^
 ||app.10086.cn/biz-orange/DH/homeAreaNew/getAreaList
 ||app.10086.cn/biz-orange/DH/homeAreaNew/getAreaList
 ||app.10086.cn/biz-orange/DN/homeSale/getsaleAdver
@@ -65261,6 +65274,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||download-staging.planify.io^
 ||download-upgrade.hismarttv.com^
 ||download-web-whatsapp.com.cn^
+||download.000zb09.com^
 ||download.1.10033.tc.gcloudgbs.com^
 ||download.1.736681645.tc.gcloudgbs.com^
 ||download.1.921675888.tc.gcloudgbs.com^
@@ -82704,6 +82718,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kedang.net^
 ||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keenquill.com^
+||kefu.bet^
 ||kefuh5.6lc53h.com^
 ||kefuzixun.cn^
 ||kegymmtv.jixingcdn.com.^
@@ -83019,6 +83034,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kkdxzun9.slt.sched.tdnsv8.com^
 ||kkgyqft.jvjme.cn^
 ||kkhq.actonservice.com^
+||kkimg.uqumjd.com^
 ||kkisoo.com^
 ||kkisoo.com^
 ||kkj.kjkj.site^
@@ -84370,6 +84386,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lbvmnh.icu^$important
 ||lc-cn-n1-shared.com^
 ||lc-cn-n1-shared.com^
+||lc-event.pixiv.net^
 ||lc-google.com.cn^
 ||lc-push.zhihu.com^
 ||lc.jiathis.com^
@@ -104089,6 +104106,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||res.vmallres.com^
 ||res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/page_mp_vote_new
 ||res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/page_mp_vote_new
+||res000.000584.com^
 ||res01.101865.com^
 ||res1.applovin.com^
 ||res1.hubcloud.com.cn^
@@ -106414,6 +106432,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sats.mailbrew.com^
 ||sats.manager-magazin.de^
 ||sats.spiegel.de^
+||satualumni.itb.ac.id/api/client-logs
 ||saturn.jd.com/log^
 ||saturn.jd.com/log^
 ||sauyv.top^
@@ -109285,6 +109304,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||skilledview.com^
 ||skillfuldrop.com^
 ||skillfullyfrugal.com^
+||skillpuppy.com^
 ||skillshouse.actonservice.com^
 ||skillsresults.com^
 ||skimresources.com^
@@ -116960,6 +116980,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||switching.atm.punchbox.org^
 ||swmhdata.stuttgarter-nachrichten.de^
 ||swmhdata.stuttgarter-zeitung.de^
+||swordblock.com^
 ||swordgoose.com^
 ||swpgjai.pop.weddingeeos.com^
 ||swpian.com^$important
@@ -119241,6 +119262,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thelifeandmore.com^
 ||themangotea.com^
 ||theme.echovisuals.com^
+||themegoats.com^
 ||themepicker.com^
 ||themesltd.com/online-users-counter/$third-party
 ||themis.hupu.com^
@@ -126513,6 +126535,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||verticalsearchworks.com^$third-party
 ||vertster.com^$third-party
 ||verve-box-h5.shyig.com^
+||verybark.com^
+||verybouncy.com^
 ||veryboys.com^
 ||verycloudcdncmnet.inter.iqiyi.com^
 ||verysadfun.com/assets/publish/jquery.*.js
@@ -126751,6 +126775,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||view.zijieapi.com^
 ||viewar.org^$third-party
 ||viewer.pandasuite.io^
+||viewresource.com^
 ||views-cdn.easyliao.com^
 ||views.arabnews.com^
 ||views.asurascans.com^
@@ -128073,6 +128098,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||web-counter.net^$third-party
 ||web-cps.gamersky.com^
 ||web-drp-whatsapp.com.cn^
+||web-flzz63.openinstalljs.com^
 ||web-hzg4ir.openinstall.io^
 ||web-ivcbrasil-tag.s3.us-west-2.amazonaws.com^
 ||web-live-worldcup2026.com.cn^
@@ -129855,6 +129881,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.*.com/images/live_weixin.png
 ||www.*.com/images/live_weixin.png
 ||www.*yydstxt*/js/cdn.js
+||www.000aaaa.com^
 ||www.002st.top^
 ||www.016455x.com^
 ||www.016666x.cc^
@@ -130386,6 +130413,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.doll8tune.com^
 ||www.doll9jiva.com^
 ||www.domainanalytics.net^
+||www.dotvipad.cfd^
 ||www.douyin10010.cn^
 ||www.douyu.com^
 ||www.dqbs747.com^
@@ -133907,6 +133935,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yidu.cn^
 ||yidu.cn^
 ||yidulive.net^
+||yidun-3line-gy-yw.ntes53.netease.com^
+||yidun-bgp-gy-yw.ntes53.netease.com^
 ||yieldbird.com^$third-party
 ||yieldbot.com^$third-party
 ||yieldify.com^$third-party
@@ -135409,6 +135439,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zero.kz^$third-party
 ||zero.wewakir.top^
 ||zero.wewakir.top^
+||zero.zero00.cc^
 ||zerohedge.com/statistics-ajax?
 ||zerolcp.cn^
 ||zerolcp.cn^
