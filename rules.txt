@@ -22998,9 +22998,17 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||*.bblmw.cn^
 @@||*.cdninstagram.com^
 @@||*.cup.com.cn^
+@@||*.dbankcdn.cn^
+@@||*.dbankcdn.com^
+@@||*.dbankcloud.asia^
+@@||*.dbankcloud.cn^
+@@||*.dbankcloud.com^
+@@||*.dbankcloud.eu^
+@@||*.dbankcloud.ru^
 @@||*.dlied1.cdntips.net^
 @@||*.forgecdn.net^
 @@||*.heytapdownload.com^
+@@||*.hicloud.com^
 @@||*.img.mobile.sina.cn^
 @@||*.in-addr.arpa^
 @@||*.ke.com^
@@ -23130,6 +23138,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||account.oneplus.com^
 @@||account.oneplus.net^
 @@||account.oppo.com^
+@@||account.qzhua.net^
 @@||account.realme.com^
 @@||account.vivo.com^
 @@||account.wps.cn^
@@ -23287,6 +23296,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||antivirus.vivo.com^
 @@||anythinktech.com^
 @@||aod.cos.tx.xmcdn.com^
+@@||ap-*-*.agora.io^
 @@||ap.6wz.co^
 @@||ap6.ssl.msdk.qq.com^
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^
@@ -23320,6 +23330,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^
 @@||api.account.xiaomi.com^
+@@||api.agora.io^
 @@||api.airpush.com^
 @@||api.aliagents.ai/api/v1/activity$~third-party,xmlhttprequest
 @@||api.amemv.com^
@@ -24235,11 +24246,14 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||dockerstatic.com^
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 @@||docrdsfx76ssb.cloudfront.net^
+@@||docs.chmlfrp.net^
 @@||docs.doudou.fun^
 @@||docs.google.com/*/viewdata$~third-party
 @@||docs.idqqimg.com^
 @@||docs.rucml.ru/e.gif?$~third-party
 @@||docs.scriptcat.org^
+@@||docs.trae.ai^
+@@||docs.trae.cn^
 @@||docs.vilinko.com^
 @@||domains-ws.revved.com^
 @@||dorado.xiaojukeji.com^
@@ -24491,6 +24505,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||fonts.gstatic.com^
 @@||forecast.lemonde.fr/p/event/pageview?$image,~third-party
 @@||forum.djicdn.com/static/js/sensorsdata.min.js$script,domain=forum.dji.com
+@@||forum.trae.cn^
 @@||forums.oneplus.com^
 @@||fota.oneplus.com^
 @@||fota.oneplus.net^
@@ -25106,6 +25121,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
 @@||l36.update.netease.com^
+@@||l36.update.nieapps.com^
 @@||lab.eu.amplitude.com^$xmlhttprequest,domain=bluelightcard.co.uk
 @@||labrc.pw/advstats/$xmlhttprequest
 @@||lacoste.com^*/click-analytics.js$~third-party
@@ -25947,6 +25963,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||p6-sign.douyinpic.com^
 @@||p6-webcast-sign.douyinpic.com^
 @@||p6.douyinpic.com^
+@@||p9-arcosite.byteimg.com^
 @@||p9-catpcha.byteimg.com^
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
@@ -25975,6 +25992,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||pan.quark.cn^
 @@||pan.xunlei.com^
 @@||pandora.xiaomi.com^
+@@||panel.chmlfrp.net^
 @@||papegames.qiyukf.com^
 @@||parcel.app/webtrack.php?$~third-party
 @@||parked-content.godaddy.com^
@@ -27374,6 +27392,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||www.chemdraw.com.cn^
 @@||www.chinaunicom.com.cn^
 @@||www.chinaunicom.com^
+@@||www.chmlfrp.net^
 @@||www.clips4sale.com^
 @@||www.cloudflare-cn.com^
 @@||www.cloudflare.com^
@@ -27394,6 +27413,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||www.douyin.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^
+@@||www.emojiall.com^
 @@||www.enigmaprotector.cn^
 @@||www.enigmaprotector.com^
 @@||www.epicgames.com^
@@ -27450,6 +27470,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||www.manhuabei.com^
 @@||www.maserati.com^
 @@||www.mcmod.cn^
+@@||www.mefrp.com^
 @@||www.meituan.com^
 @@||www.meizu.com^
 @@||www.mercedes-benz.com.cn^
@@ -68346,6 +68367,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ess3.154.com^
 ||essafety.com.cn^
 ||essaygiants.com^
+||essayplanet.com^
 ||essayspin.com^
 ||essedadhooras.top^
 ||essential-apps-analytics.herokuapp.com^
@@ -70057,6 +70079,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||finaitrixcore-pl.com^
 ||finalid.com^$third-party
 ||finalizeforce.com^
+||finaloptics.com^
 ||finalyticsdata.com^$third-party
 ||finance-gateway.diandian.com.cn^
 ||finance.needtoday.com^
@@ -75399,6 +75422,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hit9.tppun9.cn^$important
 ||hitachi-hightech-as.actonservice.com^
 ||hitbox.com^$third-party
+||hitboxdesigns.com^
 ||hitcount.dk^$third-party
 ||hitcountersonline.com^$third-party
 ||hitcounterstats.com^$third-party
@@ -84203,6 +84227,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||laawmmy.cn^
 ||laawmmy.cn^
 ||lab.prodesp.sp.gov.br^
+||labelsensor.com^
 ||laboredlocket.com^
 ||labs.ra.icast.cn^
 ||labs.verticurl.com^
@@ -84306,6 +84331,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||landlordspy.com^
 ||landrykling.actonservice.com^
 ||landstar.actonservice.com^
+||landsuites.com^
 ||landuscooperative.actonservice.com^
 ||landwestern.com^
 ||lang25fudongkklg-234.ljmgfxs.com^
