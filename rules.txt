@@ -2477,6 +2477,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /imp_check.php
 /imp_cnt.gif?
 /imp_img.php?
+/impb?b=
 /impr.gif?
 /impresion/zona/*
 /impress.php?
@@ -2624,6 +2625,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /js/zhong.js
 /js/zhong.js
 /js_ibeat_ext.cms
+/js_includes_ux_metrics.js
 /js_log_error.js
 /js_logger.php
 /js_tracker.js
@@ -4273,6 +4275,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /uecomscore_cmp_event_mundo.js
 /uedata?
 /uem-ep.js
+/ui-core-analytics-bundle.js
 /uisprime/track
 /umami.js
 /umg-analytics.min.js
@@ -11087,6 +11090,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 115.com##div.sub-qcode.bottom-qcode,div.top-banner,div.bottom-banner,DIV.banner-box,div[class^="code-tv"]
 115.com##div.sub-qcode.bottom-qcode,div.top-banner,div.bottom-banner,DIV.banner-box,div[class^="code-tv"]
 118pan.com##.card.mt-2:nth-child(2)
+11alive.com,9news.com,apnews.com,artforum.com,artnews.com,billboard.com,calgaryherald.com,calgarysun.com,cbs19.tv,crooksandliars.com,deadline.com,dpreview.com,driving.ca,financialpost.com,goldderby.com,golfdigest.com,hollywoodreporter.com,indiewire.com,kcentv.com,kgw.com,krem.com,lfpress.com,nationalpost.com,nbcsports.com,newswest9.com,oregonlive.com,ottawasun.com,robbreport.com,rollingstone.com,sherdog.com,sidereel.com,superherohype.com,techcrunch.com,torontosun.com,vancouversun.com,variety.com,vibe.com,weareiowa.com,wfaa.com,windsorstar.com,wqad.com,wthr.com,wtol.com,wtsp.com,wwd.com##+js(acs, document.getElementsByTagName, .pubads)
 11alive.com,apnews.com,artforum.com,artnews.com,billboard.com,calgaryherald.com,calgarysun.com,cbs19.tv,crooksandliars.com,deadline.com,dpreview.com,driving.ca,financialpost.com,goldderby.com,golfdigest.com,hollywoodreporter.com,indiewire.com,kcentv.com,kgw.com,lfpress.com,nationalpost.com,nbcsports.com,oregonlive.com,ottawasun.com,robbreport.com,rollingstone.com,sherdog.com,sidereel.com,superherohype.com,techcrunch.com,torontosun.com,vancouversun.com,variety.com,vibe.com,wfaa.com,windsorstar.com,wqad.com,wthr.com,wtol.com,wtsp.com,wwd.com##+js(acs, document.getElementsByTagName, .pubads)
 11alive.com,apnews.com,artforum.com,artnews.com,billboard.com,calgaryherald.com,calgarysun.com,crooksandliars.com,deadline.com,dpreview.com,driving.ca,financialpost.com,goldderby.com,golfdigest.com,hollywoodreporter.com,indiewire.com,lfpress.com,nationalpost.com,nbcsports.com,oregonlive.com,ottawasun.com,robbreport.com,rollingstone.com,sherdog.com,sidereel.com,superherohype.com,techcrunch.com,torontosun.com,vancouversun.com,variety.com,vibe.com,wfaa.com,windsorstar.com,wqad.com,wthr.com,wtol.com,wtsp.com,wwd.com##+js(acs, document.getElementsByTagName, .pubads)
 1200ksw.com##.gg,.catalogads
@@ -26009,6 +26013,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
+@@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
@@ -26169,7 +26174,9 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||play-fe.googleapis.com^
 @@||play.163.com^
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
+@@||play.fyi.tv/vendor/VisitorAPI.js
 @@||play.googleapis.com^
+@@||play.history.com/vendor/VisitorAPI.js
 @@||play.mcmod.cn^
 @@||play.ximalaya.com^
 @@||play.ximalaya.com^$important
@@ -26970,6 +26977,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||theme.oppo.com^
 @@||theme.realme.com^
 @@||themis.soulapp.cn^
+@@||themoviedb.org/assets/
 @@||theporndude.com^
 @@||thirdqq.qlogo.cn^
 @@||thirdwx.qlogo.cn^
@@ -48672,6 +48680,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||allergy.thermofisher.com^
 ||allevents.in/actracker/
 ||allfish.api002.com^
+||alliance.jinritemai.com^
 ||alliantdata.actonservice.com^
 ||alliedfundingcorp.actonservice.com^
 ||allinsurance.allinsure.ca^
@@ -49609,6 +49618,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analytics.teamcovenant.com^
 ||analytics.techem.com^
 ||analytics.techem.de^
+||analytics.tempy.email^
 ||analytics.test.cheggnet.com^
 ||analytics.thehartford.com^
 ||analytics.theinstitutes.org^
@@ -52674,6 +52684,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||assets.garron.me^
 ||assets.giocdn.com^
 ||assets.hearstapps.com/commerce/release/affiliate-bundle.
+||assets.jimstatic.com/at.js
 ||assets.mailerlite.com^
 ||assets.mikeroulston.com^
 ||assets.minutemediacdn.com/mm-cwv-tracker/
@@ -55811,6 +55822,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||branchtest.whataburger.com^
 ||branchtrk.lendingtree.com^
 ||brand.adp.ca^
+||brand.oceanengine.com^
 ||brand.sogou.com^
 ||brandadsstatic.vivo.com.cn^
 ||brandadsstatic.vivo.com.cn^
@@ -83516,6 +83528,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kopde.xyz^
 ||kopsil.com^$third-party
 ||kopvx.cn^
+||koreatimes.co.kr/api/log
 ||korewaeroi.com/fukugan_$subdocument
 ||koruna-machinery.com^
 ||kostenlose-counter.com^$third-party
@@ -87060,6 +87073,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||logger.uol.com.br^
 ||logger.yp.ca^
 ||logger007.cam4.com^
+||loggerx.com^$third-party
 ||logging.api.intuit.com^
 ||logging.je-apps.com^
 ||logging.pw.adn.cloud^
@@ -98555,6 +98569,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||p*-ad.ad*kwai.com^
 ||p*-ad.adukwai.com^
 ||p*-ad.bytecdn.cn
+||p*-ad.bytecdn.cn^
 ||p*-ad.byteimg.com^
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-ff.ad*kwai.com^
@@ -105208,6 +105223,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rtl.hu/_stat/
 ||rtl.nl/system/track/
 ||rtlog*-applog-lq.fqnovel.com^
+||rtlog.snssdk.com^
 ||rtlog.vidown.cn^
 ||rtlog.zijieapi.com^
 ||rtlog3-applog-hl.amemv.com^
@@ -109324,6 +109340,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||simpli.fi^$third-party
 ||simplycast.us^$third-party
 ||simplymeasured.com^$third-party
+||simplyradon.com^
 ||simscale.actonservice.com^
 ||simulateswing.com^
 ||sina.cn/cm/sinaads_
@@ -113161,6 +113178,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||solarislabyrinth.com^
 ||solaron.top^
 ||solaron.top^
+||solarrecharge.net^
 ||solarwinds.com/ra-$script
 ||soleblinds.com^
 ||solicitud.pacifico.com.pe^
@@ -113711,6 +113729,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||specialscissors.com^
 ||specialsnake.com^
 ||specialstat.com^$third-party
+||specialtypin.com^
 ||spectacularstamp.com^
 ||spectate.com^$third-party
 ||spectrum.gettyimages.com^
@@ -113725,6 +113744,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||speedtrap.shopdirect.com^
 ||speedyfox.io^
 ||speedyrhino.co^
+||speedysteaks.com^
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^$third-party
 ||speetals.com^$third-party
