@@ -45320,6 +45320,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||abot.pos.baidu.com^
 ||about.ads.microsoft.com^
 ||about.me/track?
+||aboutcorgis.com^
 ||abovechat.com^
 ||abovede6.com^
 ||abovede6.com^
@@ -48709,6 +48710,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||allxin.com^
 ||allxing.net^
 ||allxing.net^
+||allycoop.com^
 ||allyes.
 ||allyes.
 ||allyes.com^
@@ -49800,6 +49802,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ancientact.com^
 ||andersenit.dk^$third-party
 ||andes.tech^
+||andfauna.net^
 ||andlache.com^
 ||andmejs.com^
 ||andmejs.com^
@@ -54022,6 +54025,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||barks.jp/v1/stats
 ||barqueue.com^
 ||barracuda.carte-gr.total.fr^
+||barrelcider.com^
 ||barrons.com/cookies/pixel.gif
 ||barry-callebaut.com/pd.js
 ||barscreative1.com^
