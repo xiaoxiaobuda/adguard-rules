@@ -4167,6 +4167,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /tracking.fanbridge.com/*
 /tracking.jsp?sid=
 /tracking.srv2.de/op/*$image
+/tracking/affiliate|$image
 /tracking/airdog
 /tracking/common.html
 /tracking/cookies?
@@ -49418,6 +49419,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analytics.massivwerthaus.at^
 ||analytics.matchbin.com^
 ||analytics.maxroll.gg^
+||analytics.maxx53.com^
 ||analytics.mc500.info^
 ||analytics.media-proweb.de^
 ||analytics.meituan.net^
@@ -67407,6 +67409,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ekuailian.com.cn^
 ||el-memberclub.elcapp.cn^
 ||el.quizlet.com^
+||el.siglo.mx^
 ||ela-3-tnk.com^$third-party
 ||elakqt.d4lqdnzu.com^
 ||eland-tech.com^$third-party
@@ -68196,6 +68199,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engagemaster.com^$third-party
+||engagement.coremedia.cloud^
 ||engagement.feedly.com^
 ||engagemetrics.cisco.com^
 ||engageplatform.com/api/trace/d/record?
@@ -106948,6 +106952,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||scbt.asia^
 ||scc.0.0.0.0.cn^
 ||scc.bytedance.com^
+||scc.bytedance.com^||apps.bytesfield.com^
 ||sccdn.002lzj.com^
 ||sccdn.f2zd.com^
 ||scdata.51job.com^
@@ -115731,6 +115736,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats.executebig.org^
 ||stats.exploratv.ca^
 ||stats.extendedstayamerica.com^
+||stats.externulls.com^
 ||stats.externulls.com^$domain=beeg.com
 ||stats.extramilefloorcare.com^
 ||stats.eyehelp.co^
