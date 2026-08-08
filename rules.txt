@@ -27923,6 +27923,7 @@ aizhan.com##.azone,.cha_side_thumb
 akjunshi.com##.banner_ad,[class^="ad_two_"]
 akjunshi.com##.banner_ad,[class^="ad_two_"]
 al.com,attackofthefanboy.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,mlive.com,news8000.com,nj.com,oregonlive.com,pcwelt.de,pennlive.com,primagames.com,progameguides.com,siliconera.com,syracuse.com,themarysue.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
+al.com,attackofthefanboy.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,mlive.com,news8000.com,nj.com,pcwelt.de,pennlive.com,primagames.com,progameguides.com,queerty.com,siliconera.com,syracuse.com,themarysue.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
 al.com,attackofthefanboy.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,mlive.com,news8000.com,nj.com,pcwelt.de,pennlive.com,primagames.com,progameguides.com,siliconera.com,syracuse.com,themarysue.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
 al.com,attackofthefanboy.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,mlive.com,news8000.com,nj.com,pcwelt.de,pennlive.com,primagames.com,siliconera.com,syracuse.com,themarysue.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
 al.com,attackofthefanboy.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,mlive.com,news8000.com,nj.com,pcwelt.de,primagames.com,siliconera.com,syracuse.com,themarysue.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
@@ -56153,6 +56154,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||btmango.com/templates/0111/style/*.js?v=
 ||btmango.com/templates/0111/style/*.js?v=
 ||btmean.cardosystems.com^
+||btmessage.com^$third-party
 ||btmule.org/Public/static/js/common.js
 ||btmule.org/Public/static/js/common.js
 ||btn.listonic.com^
@@ -64790,6 +64792,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dispatcher.camera360.com^
 ||dispatcher.upmc.uc.cn^
 ||dispatchunique.com^
+||dispeldesign.com^
 ||dispenser-rtb.sape.ru^
 ||display-apps-ui-soak.iad.apple.com^
 ||display-apps-ui.iad.apple.com^
@@ -65927,6 +65930,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dt243100.com^
 ||dt64g8m.pro^
 ||dtag.breadfinancial.com^
+||dtasrvr.com^
 ||dtc-v6t.com^$third-party
 ||dtckvpc.cn^
 ||dtckvpc.cn^
@@ -101821,6 +101825,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pulsatingmeadow.com^
 ||pulse.delta.com^
 ||pulse.ecmapps.com^
+||pulse.genki.world^
 ||pulse.munsonhealthcare.org^
 ||pulse.shopflo.com^
 ||pulseinsights.com^$third-party
