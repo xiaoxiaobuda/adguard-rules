@@ -37329,6 +37329,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||2lc8.vip^
 ||2lf3.ag8.com^
 ||2line.com.cn^
+||2m.ma/tracking/
 ||2m2n.com^
 ||2mdn-cn.net^
 ||2mjl.j3b4m3g8.work^
@@ -39892,6 +39893,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||7xz3.com^
 ||7z66.com^
 ||7z66.com^
+||7z6yvct8-u.turzeg.cn^
 ||7zr.cn^
 ||7zz3maneujdf.me^
 ||8-7-6-8-0-0.com:8888^
@@ -40436,6 +40438,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||930cn.top^
 ||93165.net^
 ||93166s.com^
+||93300cb.scdn.91dun.vip^
 ||9333s.com^
 ||933900.com^
 ||935676yfc.com^
@@ -66982,6 +66985,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eb.o-b-labo.com^
 ||eb622fd20e3c44c7.com^
 ||ebank.wmxba.com^
+||ebay.com/4xvLYt8n2y2Icbf2jCP_k_JP/
 ||ebay.com/delstats/
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
 ||ebay.com^*/customer_image_service?
@@ -74319,6 +74323,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gsxcdn.com^
 ||gsxlicny.bjapmmk.cn^
 ||gsyegj.shatura.com^
+||gszpyqkktlsw.ssuyrzj.top^
 ||gt-kuailian.com.cn^
 ||gt.duowan.com^
 ||gt.yy.com^
@@ -76825,6 +76830,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hvpeme.petedge.com^
 ||hvr.tjkfcnn.cn^
 ||hvr.tjkfcnn.cn^$important
+||hvr4ub6p.n.turzeg.cn^
 ||hvrhgt.the-sun.com^
 ||hvrhgt.thescottishsun.co.uk^
 ||hvrhgt.thesun.co.uk^
@@ -87754,6 +87760,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lqol.6t.com^
 ||lqopyc.beermachines.ru^
 ||lqpzdi.coppel.com^
+||lqq37.d2x2whz0.top^
 ||lqsowt.mona-mode.fr^
 ||lqsx.net^
 ||lquickq.hl.cn^
@@ -94392,6 +94399,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||monitor.adxsenmeng.com^
 ||monitor.agenedia.com^
 ||monitor.channel4.com^
+||monitor.ebay.com^
 ||monitor.flourish-fs.com^
 ||monitor.fraudblocker.com^
 ||monitor.kg.qq.com^
@@ -100862,6 +100870,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||play.wavelength.zone^
 ||play.xtqnr.com^
 ||play2.laoyacdn.com^
+||playable.qpic.cn^
 ||playad.xjmg.com^
 ||playbook.convio.com^
 ||playcvn.com/app^
@@ -115437,6 +115446,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stat.kleos.cz^
 ||stat.kugou.com^
 ||stat.kununu.cz^$third-party
+||stat.kwikmotion.com^
 ||stat.laley.es^
 ||stat.laleynext.es^
 ||stat.lamy-formation.fr^
@@ -117447,6 +117457,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
 ||svc2.sc.com^
+||svcs.ebay.com/ufeservice/v1/metrics
 ||svdpgmt.cn^
 ||svdpgmt.cn^
 ||svem.cc^
@@ -127157,6 +127168,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vds82e.sejqb.com^
 ||vdslnp.highkey.com^
 ||vdvdjf.remotepc.com^
+||vdwyj6xw6hd5.7ua3cf7su5e2.dbmtei.cn^
 ||vdzrjr.kenminkyosai.or.jp^
 ||ve-kuailian.com.cn^
 ||ve.tsdlp.com^
