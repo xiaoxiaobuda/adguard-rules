@@ -52822,6 +52822,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||assets.9gtb.com^
 ||assets.adobedtm.com/extensions/*/AppMeasurement$script,domain=medscape.com
 ||assets.adobedtm.com/extensions/*/AppMeasurement$script,domain=medscape.com|skinny.co.nz
+||assets.aliexpress-media.com/g/AWSC/*/collina.js$script,domain=aliexpress.com|aliexpress.us
+||assets.aliexpress-media.com/g/AWSC/*/fireyejs.js$script,domain=aliexpress.com|aliexpress.us
 ||assets.apollo.io/micro/website-tracker/
 ||assets.channelplay.in^
 ||assets.datarize.ai^
@@ -54640,6 +54642,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||beap.gemini.yahoo.com^
 ||bearblog.dev/hit/
 ||bears.daigostudio.com^
+||beastbook.net^
 ||beat.yourtv.jp^
 ||beatricecathy.com^
 ||beatricecathy.com^
@@ -56414,6 +56417,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||burgersalt.com^
 ||burlywhistle.com^
 ||burnbubble.com^
+||burningclock.com^
 ||burnswhite.actonservice.com^
 ||burpee.xyz^$third-party
 ||burstbeacon.com^$third-party
@@ -57344,6 +57348,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cardinalretirement.actonservice.com^
 ||cardloan.xiaoying.com^
 ||cardmethod.com^
+||cardproducer.com^
 ||cards-css.iqiyi.com^
 ||cards-css.iqiyi.com^
 ||cards.iqiyi.com^
@@ -61765,6 +61770,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cubbyathome.com/jAYekY18/init.js
 ||cubchannel.com^
 ||cube.meituan.com^
+||cubeface.com^
 ||cubeglobal.net^
 ||cubepins.com^
 ||cuberoot.co^$third-party
@@ -64023,6 +64029,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||defensevest.com^
 ||defining.com^
 ||defygravity.convio.com^
+||defyingbelief.com^
 ||degjidp.icu^
 ||degjidp.icu^
 ||degree.insead.edu^
@@ -98167,6 +98174,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||onlinedown.net/Public/img/bomAD.jpg
 ||onlinedown.net/Public/img/bomAD.jpg
 ||onlineis.actonservice.com^
+||onlinemediahelper.com^
 ||onlinepbx.ru^$third-party
 ||onlinepresse.info/counter.php?
 ||onlinesellerenforcement.vorys.com^
@@ -134394,6 +134402,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yahoo.com/beacon?
 ||yahoo.com/pageview?
 ||yahoo.com/sync/casale/
+||yahoo.com/xhr/beacon/batch/
 ||yahoo.gd.cn^
 ||yahoo.hb.cn^
 ||yahoo.hk.cn^
