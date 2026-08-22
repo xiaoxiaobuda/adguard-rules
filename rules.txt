@@ -34308,6 +34308,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 zyue.com##.ad_90,[id^="divad_"],.banner
 zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
+{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}{"message":"429 The number of times the user invokes the API is too large. Threshold:1.5K times per user per minute. Limited account:unregisteredUser"}
 |http://a.pr-cy.ru^$third-party
 |http://r.i.ua^
 |http://x.o2.pl^
@@ -65548,6 +65549,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dol.deliver.ifeng.com^
 ||doll-public.huiyuewang.cn^
 ||dollardelta.com^
+||dollarpuzzle.com^
 ||dollarthrill.com^
 ||dollartree.com/ccstoreui/*/analytics/
 ||dolphin.deliver.ifeng.com^
@@ -65997,6 +65999,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
 ||drugtest.questdiagnostics.com^
+||drumfills.com^
 ||drupal.org/VnPBBfwe/init.js
 ||drupalchina.cn/sites/default/files/d
 ||drupalchina.cn/sites/default/files/d
@@ -73857,6 +73860,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||golengmen.com/assets/publish/
 ||golfcartlaws.com^
 ||golfersrow.com^
+||golfinglounge.com^
 ||gollum.monotote.com^
 ||golona.ink^
 ||gomerchant.groupon.com^
@@ -128014,6 +128018,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||voicefive.com^
 ||voicefive.com^$third-party
 ||voicepins.com^
+||voicewinds.com^
 ||void.nicopr.fr/rec$method=POST
 ||voidgoo.com^
 ||voila.refr.adgtw.orangeads.fr^
@@ -133802,6 +133807,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xn--m7r781dz66a.cn^
 ||xn--ndc0a4a9bmo0d2b3hbsf.xn--gecrj9c^
 ||xn--necoj9a5b1a.xn--gecrj9c^
+||xn--pckua2a7gp15o89zb.com/api/am/v1/t
 ||xn--qhs955f.xn--ruq140e43cj1d.com^
 ||xn--qrq171dxpq.com^
 ||xn--qrq171dxpq.com^
