@@ -28024,6 +28024,8 @@ al.com,attackofthefanboy.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjo
 ali213.net###zadbbsdetailfloor,.apptg,.xginfo_l_sale
 ali213.net###zadbbsdetailfloor,.apptg,.xginfo_l_sale
 ali213.net##.placeholderforpromotion
+aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, OfflineAudioContext, undefined)
+aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefined)
 aliyun.com##banner-wrap
 aliyun.com##banner-wrap
 all.qidian.com##img[width="990"][height="40"]
@@ -38089,6 +38091,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3t769up6.com^
 ||3tds.720lu.com^
 ||3tsii.cc^
+||3u4k9hfbq4sz.fvsfty6rydweq.jcdixdh.com.eo.dnse4.com^
 ||3ub5.yide.com^
 ||3ugnky.jiasu02.com^
 ||3v7c7y.online^
@@ -38457,6 +38460,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||4rod.yjzb.tv^
 ||4sexmail.com^
 ||4sexmail.com^
+||4seyaweiykcmitistry0f.fvsfty6rydweq.jcdixdh.com^
 ||4shared.com/js/d1VisitsCounter.4min.js
 ||4stats.de^$third-party
 ||4t052s198a62ga16.aliyunddos1012.com^
@@ -48037,6 +48041,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aegis.qq.com^
 ||aegis.trovo.live^
 ||aehudh.rakumachi.jp^
+||aeis.alicdn.com/awsc/fireyejs/$script,domain=alibaba.com
 ||aejfsfe7sefjse.rrxsesset6sd.dtpdjz.com^
 ||aekjg-cdn.77t-tusu.com^
 ||aeletheacd.com^
@@ -50779,6 +50784,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.tj.db996.cn^
 ||api.touch-moblie.com^
 ||api.tr.blismedia.com^
+||api.transtore.app/api/v2/storefront/tracking
 ||api.trscfjt.com^
 ||api.tsc.ca/Tracking/v1/events/
 ||api.tsyouto.cn^
@@ -51057,6 +51063,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aplobv.xexymix.com^
 ||aplsof2fd.*.com^
 ||aplus.alibaba.com^
+||aplus.aliexpress.$image,ping,~third-party
 ||aplus.qwen.ai/aplus.monitor.load_cna_success?
 ||aplus.qwen.ai/aplus.monitor.log_arrival_rate
 ||apm-a.pinduoduo.com^
@@ -54810,6 +54817,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bestboundary.com^
 ||bestbuy.actonservice.com^
 ||bestclimbers.net^
+||bestcoffeemachine.net^
 ||bestcontactform.com^$~image,third-party
 ||beste1.icu^
 ||beste1.icu^
@@ -70749,6 +70757,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||flexibleplan.actonservice.com^
 ||flexlinkspro.com^$third-party
 ||flexpod.ynsecureserver.net^
+||flh4lmtmyd0.icuys8ew.gqyvyq.com^
 ||flightark.com^
 ||flimsycircle.com^
 ||flimsythought.com^
@@ -70909,6 +70918,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fog.pixual.co^
 ||fogl1onf.com^$third-party
 ||fohbgjv.com^
+||foid139.top^
 ||foirkrt.icu^
 ||foirkrt.icu^
 ||foisml.com^
@@ -82744,6 +82754,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||justanswer.com/jatag/
 ||justconfig.com^
 ||justdial.com/jd-trkr
+||justfordocs.com^
 ||justicejudo.com^
 ||justlagoon.com^
 ||justpickaname.com^
@@ -91107,6 +91118,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||marriedbelief.com^
 ||marriedmailbox.com^
 ||marriedvalue.com^
+||marriott.com/mi/api/shop-renderer/logger
 ||marrowleaves.com^
 ||mars.jd.com^
 ||mars.jd.com^
@@ -97404,6 +97416,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||obs.esnlocco.com^
 ||obs.greencolumnblog.com^
 ||obs.jollyoutdoorjogger.com^
+||obs.sd4823.spglobal.com^
 ||obs.system1onesource.com^
 ||obscenesidewalk.com^
 ||obscurespace.com^
@@ -98115,6 +98128,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oncoclinicas.actonservice.com^
 ||oncourselearning.actonservice.com^
 ||ondigitalocean.app/insight-analytics.js
+||ondigitalocean.app/tracker.js
 ||ondu.ru^$third-party
 ||one-source.tax.thomsonreuters.com^
 ||one-workspace.matrix42.com^
@@ -100714,6 +100728,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pixel.sprinklr.com^
 ||pixel.tapad.com^
 ||pixel.tuko.co.ke^
+||pixel.uppromote.com^
 ||pixel.veritone-ce.com^
 ||pixel.videohub.tv^
 ||pixel.vihub.ru^
@@ -104608,6 +104623,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rehabilitatereason.com^
 ||rehmann.actonservice.com^
 ||rei.com/customer-analytics-attributes/
+||reibootmac.com/script/rn_event_track_v2.min.js
 ||reichelt.com/setsid.php?
 ||reico.actonservice.com^
 ||reinvigorate.net^$third-party
@@ -105242,6 +105258,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rhybey.gap.co.jp^
 ||rhymezebra.com^
 ||rhythmrule.com^
+||ri1.xlfn.cc^
 ||ri7uwafd.res-m3u8.v5glb.com^$important
 ||ri7uwafd.res-m3u8.v5glb.com^$important
 ||ria.ru/flv/livestat.aspx?
@@ -115864,6 +115881,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||static.nb86.xyz^
 ||static.new669.com^
 ||static.niwodai.com^
+||static.nresystems.com^
 ||static.osalta.eu^
 ||static.paddlewaver.com^
 ||static.parsely.com^$domain=spiegel.de
@@ -116013,6 +116031,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats-bq.stylight.net^
 ||stats-dc1.frz.io^
 ||stats-dev.brid.tv^
+||stats-dss4111-serving.com^
 ||stats-factory.digitregroup.io^
 ||stats-locations.com^
 ||stats-messages.gifs.com^
@@ -116022,6 +116041,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats.4travel.jp^
 ||stats.51tongji.cc^$important
 ||stats.51tongji.cc^$important
+||stats.54ads.com^
 ||stats.69grad.de^
 ||stats.aapt.com.au^
 ||stats.acadevor.com^
@@ -127400,6 +127420,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||venienceilo.fun^
 ||venienceilo.fun^
 ||venomousvessel.com^
+||venrfjlew.aaakxjiajx200ss01.com^
 ||ventivmedia.com^$third-party
 ||ventunotech.com/beacon/
 ||venture-365-inspired.com^
