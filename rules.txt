@@ -22777,6 +22777,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 ://emailtracking.$image
 ://estats.*/code/e.js
 ://fallback.*/collector
+://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.news|~fathom.org|~fathom.services|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.news|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtm.*.js?st=
@@ -23077,6 +23078,10 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||*-verify.captcha-open-southeast.aliyuncs.com^
 @@||*-verify.captcha-open.aliyuncs.com^
 @@||*.*.szbdyd.com^
+@@||*.4399.com^
+@@||*.5054399.com^
+@@||*.7k7k.com^
+@@||*.7k7kimg.cn^
 @@||*.95516.com^
 @@||*.a.yximgs.com^
 @@||*.akamai-cdn-content.com^
@@ -23108,6 +23113,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||*.heytapdownload.com^
 @@||*.hicloud.com^
 @@||*.img.mobile.sina.cn^
+@@||*.img4399.com^
 @@||*.in-addr.arpa^
 @@||*.ke.com^
 @@||*.lianjia.com^
@@ -25093,6 +25099,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||img3.tapimg.com^
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
+@@||imga*.5054399.com^
 @@||imgcache.qq.com^
 @@||imgessl.kugou.com^
 @@||imgservices-1252317822.image.myqcloud.com^
@@ -26360,6 +26367,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||pss.bdstatic.com^
 @@||psstatic.cdn.bcebos.com^
+@@||ptlogin.4399.com^
 @@||ptlogin.yuewen.com^
 @@||ptmi.gitv.tv^
 @@||pttn.m3pd.com^
@@ -26609,6 +26617,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||s0.meituan.net^
 @@||s01.mifile.cn^
 @@||s1.hdslb.com^
+@@||s1.img4399.com^
 @@||s1.kskwai.com^
 @@||s1.meituan.net^
 @@||s1.voicecloud.cn^
@@ -26920,6 +26929,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||static.iask.cn^
 @@||static.iqiyi.com^
 @@||static.itellyou.cn^
+@@||static.klaviyo.com/onsite/js/event_adapter.$domain=gear.blizzard.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||static.leaddyno.com/js$script,domain=s4l.us
 @@||static.mcmod.cn^
@@ -27554,7 +27564,12 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||www.360.cn^
 @@||www.360kuai.com^
 @@||www.360simg.com^
+@@||www.4399.cn^
+@@||www.4399.com^
+@@||www.5054399.com^
 @@||www.54647.io^
+@@||www.7k7k.com^
+@@||www.7k7kjs.cn^
 @@||www.9game.cn^
 @@||www.agiso.com^
 @@||www.airport.us^
@@ -50700,6 +50715,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.liuliangguo.com^
 ||api.liumingye.cn^
 ||api.look.360.cn^
+||api.lrt.lt/pagd/sirens
 ||api.luckyorange.com^
 ||api.mambasms.com/monitorEvent/
 ||api.mapps.uve.weibo.com^
@@ -70720,6 +70736,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||first-id.fr^$third-party
 ||firstendpoint.com^
 ||firstfrogs.com^
+||firsthoughtstudios.com^
 ||firstpac.actonservice.com^
 ||firstparty.alloyio.com^
 ||firstparty1.dentsplysirona.com^
@@ -80291,6 +80308,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iniutui.com^
 ||iniutui.com^
 ||injl.k8.com^
+||inkcarts.net^
 ||inkcoupon.com^
 ||inkuae.com^
 ||inkuae.com^
@@ -85089,6 +85107,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||launchingonsetwhirlwind.com^
 ||launchingonsetwhirlwind.com^
 ||launchjack.com^
+||launchkite.com^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||lavaorganic.com^
@@ -87838,6 +87857,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lovegg.club^
 ||lovegg.club^
 ||lovelydrum.com^
+||lovesbooks.com^
 ||loveseashore.com^
 ||lovestyl.com^
 ||lovfp.com^
@@ -110143,6 +110163,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sitecatalysts.saisoncard.co.jp^
 ||sitecats.troweprice.com^
 ||sitecompass.com^$third-party
+||sitecorecloud.io/v1/events/
 ||sitecounter.site^
 ||sitectlyst.saksfifthavenue.com^
 ||sitedataprocessing.com^
@@ -120299,6 +120320,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thebookseller.com/AfoSiteAnalysis/
 ||thebrainybulb.com^
 ||thecea.actonservice.com^
+||thecodingpad.com^
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thecounter.com^$third-party
 ||thecounter.net^
