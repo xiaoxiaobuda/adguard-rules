@@ -519,6 +519,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 .sendemail.gate.io/o/$image
 .sendibm1.com/*.gif?
 .sendibm1.com/mk/
+.sendibm1.com/mk/op/$image
 .sendibt2.com/tr/op/$image
 .sendibt3.com/tr/op/$image
 .sharecounter.$third-party
@@ -1200,6 +1201,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /analytics-reporter/*
 /analytics-sdk.
 /analytics-secure.js
+/analytics-talk-content-tracking.
 /analytics-tracker/*
 /analytics-tracking.js
 /analytics-worker.iife.js
@@ -2359,6 +2361,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /gtm.js
 /gtm.min.js
 /gtm/gtm-
+/gtm4wp-$script
 /gtmDataLayer.js
 /gtmTracking.js
 /guang.
@@ -3529,6 +3532,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /retargeting-pixels.php
 /revinit.js
 /rgea.min.js
+/ria.analytics.js
 /rightad*
 /rightad*
 /risk_fp_log?
@@ -54306,6 +54310,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||barry-callebaut.com/pd.js
 ||barscreative1.com^
 ||barscreative1.com^
+||bartcons.com^
 ||bartender.cc^
 ||bas1.dcloud.net.cn^
 ||base.filedot.xyz^
@@ -70406,6 +70411,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||feizw.com/style/t.js
 ||feizw.com/style/t.js
 ||felinesocial.com^
+||feliz.data.tm-awx.com/smile-web-v2/batch
 ||fem.gprod.postmedia.digital/*/IIQUniversalID.js
 ||femalecook.com^
 ||femboyrental.com^
@@ -82385,6 +82391,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jqbapiweb.wzyzxedkgs.com^
 ||jqbhtv.icu^$important
 ||jqbhtv.icu^$important
+||jqioregvpxgte.website^
 ||jqkcett.icu^
 ||jqkcett.icu^
 ||jqlzwb.bauhaus.fi^
@@ -85215,6 +85222,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ldoverseas.com/public-gateway/*/activity
 ||ldpgl.code.mytanwan.com^
 ||ldqtdd.peing.net^
+||ldrws.com^
 ||lds.lenovomm.com^
 ||lds.zui.com^
 ||ldspdf.com^
@@ -86864,6 +86872,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||littlebigsnake.com/event?
 ||littlecdn.com^
 ||littlecdn.com^
+||littlegeese.com^
 ||littlesun.net^
 ||liufenghua.com^
 ||liufenghua.com^
@@ -91892,6 +91901,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mediahuis.be/cxense/
 ||mediaite.com^*/track/
 ||medialytics.com^
+||mediamaker.net^
 ||mediamathrdrt.com^
 ||mediametrics.mpsa.com^
 ||mediametrics.ru^$third-party
@@ -92124,6 +92134,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||metalbold.com^
 ||metallic.actonservice.com^
 ||metalnews.cn^
+||metalsfactory.com^
 ||metalyzer.com^$third-party
 ||metapack.actonservice.com^
 ||metarouter.io^$third-party
@@ -101306,6 +101317,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||plusjrmallstatic.cdn.bcebos.com^
 ||pluto.sina.cn^
 ||pluto.smallpdf.com^
+||pluxpdzouwubj.space^
 ||plv.geocomply.com^
 ||plwan.com^
 ||plwan.com^
@@ -105302,6 +105314,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||review.gdtimg.com^
 ||review.openapp.link^
 ||review.teradata.com^
+||reviewacousticguitar.com^
 ||reviews.io/stats/
 ||reviewsource-inquiryweb-22qyctxg9d.edgeone.dev^
 ||revivalvoice.com^
@@ -113807,6 +113820,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||socialsend.net^
 ||socialtrack.co^$third-party
 ||socialxup.com/api/sale-accounts
+||socialxup.com/api/track
 ||sociaplus.com^
 ||sociaplus.com^$third-party
 ||socital.com^*/socital.js
@@ -127968,6 +127982,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vioa.365bcg.com^
 ||violetdemise.com^
 ||viously.com^*/mt?
+||viowrel.com^
 ||vip-01.top^
 ||vip-91.cdn-vipvideo.com^
 ||vip-api.360game.360.cn^
