@@ -52467,6 +52467,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||appsdk.tanv.com^
 ||appsdk.tanv.com^
 ||appsdt.com^
+||appsecstudio.com^
 ||appsecurezomation.carte-gr.total.fr^
 ||appserverlisttx.dflcs.cn^
 ||appservices.comcsoft.com^
@@ -55899,6 +55900,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||boutique.ricoh.fr^
 ||bowan.com^
 ||bowl.actonservice.com^
+||bowlershut.com^
 ||bownow.jp^$third-party
 ||box-api.shyig.com^
 ||box-collect.996hezi.com^
@@ -61952,6 +61954,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cui.m.1688.com^
 ||cuioxbqi.com^
 ||cuioxbqi.com^
+||cuisinevoyager.com^
 ||culliganwaterco.actonservice.com^
 ||cultofmac.com/djrxqhzkbsgf.js
 ||culturaltracking.ru^$third-party
@@ -89621,6 +89624,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||managedpush.com^
 ||manager.msyqo.com^
 ||manamoment.com^
+||manateemotors.com^
 ||manbag.net^
 ||manbag.net^
 ||mandant.net.anwalt.de^
@@ -104691,6 +104695,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||redistats.com^$third-party
 ||redlion.actonservice.com^
 ||redlk.com^
+||redmillgroup.com^
 ||redpaper-10006092.cos.myqcloud.com^
 ||redretarget.com^$third-party
 ||redstatcounter.com^$third-party
