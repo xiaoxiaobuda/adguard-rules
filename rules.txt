@@ -85498,7 +85498,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||legenhit.com^$third-party
 ||leggo.it/index.php?$image
 ||legitscript.com/seals/$script
+||lego-tech.zhuanzhuan.com^
 ||lego.com/api/dl-event-ingest
+||lego.zhuanzhuan.com^
 ||legolas-media.com^$third-party
 ||legolas.monotote.com^
 ||legopq.site^
@@ -108049,6 +108051,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdk.9game.cn^
 ||sdk.a79h.cn^
 ||sdk.ad.smaato.net^
+||sdk.adhuanxiao.com^
 ||sdk.adtiming.com^
 ||sdk.adx.adwangmai.com^
 ||sdk.alibaba.com.ailbaba.me^
@@ -108087,6 +108090,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdk.gplayspace.com/appType.php
 ||sdk.huabanwl.com^
 ||sdk.hzsanjiaomao.com^
+||sdk.hzzfcm.com^
 ||sdk.jajepay.com^
 ||sdk.jumpw.com/sdk/checkoutidentity
 ||sdk.jumpw.com/sdk/checkoutidentity
@@ -108923,6 +108927,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||seek.intel.com^
 ||seek.uwa.edu.au^
 ||seekingalpha.com/mone_event
+||seekingalpha.com/mone_v2
 ||seekingalpha.com/xgCxM9By/init.js
 ||seekingquest.com^
 ||seekmyshop.com^
@@ -117896,6 +117901,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||supersonicads.com^
 ||supersonicads.com^
 ||superspeedapp.com^$third-party
+||superstarorganizer.com^
 ||superstat.info^$third-party
 ||superstats.com^$third-party
 ||superstats.observepoint.com^
@@ -134349,6 +134355,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xp.apple.com/config/*/report/
 ||xp.apple.com/report/
 ||xp.apple.com^
+||xp.atlassian.com^
 ||xp.audience.io/sdk.js$third-party
 ||xp2023-pix.s3.amazonaws.com^
 ||xp308.cn^
