@@ -36030,6 +36030,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||140.207.247.218^
 ||140.210.17.72^
 ||140.210.27.51^
+||1414.hexa.su/script.js
 ||141ceaadb0c4724d.com^
 ||142.251.43.10^
 ||142904.com^
@@ -49114,6 +49115,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amarfa.ir^$third-party
 ||amavalet.com^$third-party
 ||amazingcounters.com^$third-party
+||amazinglea.com^
 ||amazingmagics.com^
 ||amazon-ads.amazonads.cn^
 ||amazon-adsystem.com^
@@ -125578,6 +125580,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||u.salony.com^
 ||u.strike.bz^
 ||u.talkingdata.net^
+||u.tetas.pt/script.js
 ||u.txuesoft.cn^
 ||u.txuesoft.cn^
 ||u.uc123.com^
