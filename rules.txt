@@ -23799,6 +23799,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||buy.ximalaya.com^$important
 @@||buyad.bi-xenon.cn^
 @@||buyad.bi-xenon.cn^
+@@||bvr.ast.snva.jp/beaver.js$domain=kojima.net
 @@||c-web.cedyna.co.jp/customer/img/spacer.gif?$~third-party
 @@||c.58cdn.com.cn^
 @@||c.data.mob.com^$app=com.sinovatech.unicom.ui
@@ -46732,6 +46733,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||addictedwonder.com^
 ||addirector.vindicosuite.com^
 ||addl.easetuner.com^
+||addmoves.com^
 ||addressfriend.com^
 ||adds.weatherology.com^
 ||addthis.com/live/
@@ -49272,6 +49274,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amunx.de^$third-party
 ||amusedbucket.com^
 ||amusementmorning.com^
+||amusingarmorycomment.com^
 ||amvecurt.cn^
 ||amvecurt.cn^
 ||amvtwk.thebottleclub.com^
@@ -52680,6 +52683,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aralego.com^
 ||aralego.net^$third-party
 ||aramuz.net/frontapi/*/analyticsEvent?
+||arbattadr.in^
 ||arc.io^$third-party
 ||arc.pub/clavis/training/events
 ||arcadeweb.com^$third-party
@@ -52766,6 +52770,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||artemis-cdn.ocdn.eu^
 ||artfulsavage.com^
 ||artfut.com^$third-party
+||arthustler.net^
 ||article.biliimg.com^
 ||articledemon.com^
 ||artisan.actonservice.com^
@@ -55853,6 +55858,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||boilingbeetle.com^
 ||boilingcredit.com^
 ||boilingmadsoup.com^
+||boingo.jp/analytics.php
 ||boingtv.fr/track_view
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
@@ -66495,6 +66501,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||durchsichtig.xyz^
 ||durst-group.actonservice.com^
 ||dushimj.com^
+||dusthorses.com^
 ||dustydime.com^
 ||dustyhammer.com^
 ||dutils.com^
@@ -68550,6 +68557,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||encuestas.billeteramango.com^
 ||endeavorbusinessmedia.actonservice.com^
 ||endhairfall.com^
+||endhairfall.com^$redirect=noopjson,xmlhttprequest
 ||endlesshandbaglinked.com^
 ||endlesstrust.com^
 ||endljp.168chasa.bg^
@@ -96040,6 +96048,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nativeadv.dftoutiao.com^
 ||nativeapp.toutiao.com^
 ||nativesubscribe.pro^$third-party
+||natom.app^$third-party
 ||natpal.com^$third-party
 ||nats.xing.com^
 ||natsp.xing.com^
@@ -96379,6 +96388,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||netflix.com/msl/playapi/cadmium/logblob/
 ||netgraviton.net^$third-party
 ||netinsight.actonservice.com^
+||netkeiba.com/img.dir//ndtracker/
 ||netko0o.com^
 ||netlify-rum.netlify.app^
 ||netlog.ru^$third-party
@@ -120640,6 +120650,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thesolartime.com^
 ||thesoulbrand.com^
 ||thesource.black.news^
+||thespun.com/.api/admiral
 ||thestat.net^$third-party
 ||thesuccessstars.actonservice.com^
 ||thesun.co.uk/assets/client/analyticsListeners~
