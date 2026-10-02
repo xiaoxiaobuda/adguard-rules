@@ -31534,6 +31534,7 @@ opticsky.cn##[height="60"],.adsbygoogle
 opticsky.cn##[height="60"],.adsbygoogle
 or123.top##.qfe_wrapper > div > a[href^="http"]:not([href*="or123."])
 or123.top##.qfe_wrapper > div > a[href^="http"]:not([href*="or123."])
+oregonlive.com,reuters.com##+js(aost, admiral, .js?)
 orsoon.com###youxi,#adsmid,.AD6,.ad_show,.ad_show_1,.ad_show_2,[width="870"][height="60"]
 orsoon.com###youxi,#adsmid,.AD6,.ad_show,.ad_show_1,.ad_show_2,[width="870"][height="60"]
 orsoon.com##.down-sect2,.down-sect1,#other-link,#btn-down-one
@@ -46009,6 +46010,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||acuris.com/wat/v2/data-event
 ||acustomizedgift.com^
 ||acustomizedgift.com^$domain=masslive.com|oregonlive.com|silive.com
+||acustomizedgift.com^$domain=masslive.com|silive.com
 ||acustomizedgift.com^$redirect=noopjs,script
 ||acustomizedgift.com^$redirect=noopjson,xmlhttprequest
 ||acustomizedgift.com^$~xmlhttprequest
@@ -49467,6 +49469,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analytics.api.justeattakeaway.com^
 ||analytics.api.myqnapcloud.cn^
 ||analytics.apnewsregistry.com^
+||analytics.app.funnelish.com^
 ||analytics.apps.seabroadnet.com^
 ||analytics.archive.org^
 ||analytics.argeton.com^
@@ -93932,6 +93935,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mezzobit.com^$third-party
 ||mf01.zybang.com^
 ||mf01.zybang.com^
+||mf39.cc^
 ||mf95.cl.app^
 ||mfamcw.sodexobeneficios.com.br^
 ||mfan.iclick.com.cn^
@@ -103386,6 +103390,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qinajinkjh.gstjyzx.com.w.cdngslb.com^
 ||qinajinkjh.gstjyzx.com^
 ||qinchugudao.com^
+||qingdao.53gv9.cn^
 ||qinghua.cc^
 ||qinghua.cc^
 ||qinghyx.com^
@@ -107894,6 +107899,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||schnaeppchenfuchs.com/js/default-
 ||scholar.google.com^$ping
 ||scholarloop.com^
+||scholarsark.com^
 ||schoolpaws.com^
 ||schottenland.de/na/ajax.php?ax=HiT&
 ||schprompt.dangdang.com^
@@ -134906,6 +134912,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xz.3389vb.com^
 ||xz.cppe43f35.com^
 ||xz.ercfh.com^
+||xzcds.60ssq.com.w.cdngslb.com^
+||xzcds.60ssq.com^
 ||xzckuailian.com.cn^
 ||xzdv.011.com^
 ||xzfdapkxin.antxc.com^
