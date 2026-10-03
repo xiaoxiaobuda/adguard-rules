@@ -49271,6 +49271,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ams.lelong.com.my^
 ||ams.lenovomm.com^
 ||ams.oraclecloud.com^
+||amspbs.com^
 ||amsunsolar.actonservice.com^
 ||amsweb-cdn-gz-*.file.myqcloud.com^
 ||amsweb-cdn-gz-1258344696.file.myqcloud.com^
@@ -49366,6 +49367,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analytic.fishtrack.com^
 ||analytic.hawaii.aaa.com^
 ||analytic.hotelclub.com^
+||analytic.is^
 ||analytic.newmexico.aaa.com^
 ||analytic.northernnewengland.aaa.com^
 ||analytic.rocks^$third-party
@@ -58019,6 +58021,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn-tos-cn.bytedance.net^
 ||cdn-tx-h5-prod.huanyuantech.com^
 ||cdn-v69.trafficmanager.net^
+||cdn-vitals.com^
 ||cdn-wx-v6-lds.ludashi.com^
 ||cdn-x54.trafficmanager.net^
 ||cdn-xyx.raink.com.cn^
@@ -71060,6 +71063,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||floodprincipal.com^
 ||flooranddecor.com/v1HqbVho/init.js
 ||floorforce.actonservice.com^
+||floors.dev^
 ||flotech.actonservice.com^
 ||flourishingcollaboration.com^
 ||flourishingendeavor.com^
@@ -71747,6 +71751,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fsr.lenovomm.com^
 ||fsresidential.actonservice.com^
 ||fsrt3c.xn--57q23bieq57h.com^
+||fsrv.io^
 ||fssuvf.cn^
 ||fst-ec.perimeterx.net^
 ||fst360.com^
@@ -75483,6 +75488,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||haplesshydrant.com^
 ||haplessland.com^
 ||happen.spkt.io^
+||happierleads.com^$third-party
 ||happy-data.net^$important
 ||happy-data.net^$important
 ||happybao.com.cn^
@@ -99845,6 +99851,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pagefly.io/pagefly/core/analytics.js
 ||pageid.info^
 ||pagelog.linghitai.com^
+||pagemetry.com^$third-party
 ||pagename.care.ummhealth.org^
 ||pagerank-linkverzeichnis.de^$third-party
 ||pagerank-online.eu^$third-party
@@ -119585,6 +119592,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tapjoyvod.8686c.com^
 ||tapjoyvod.8686c.com^
 ||taplytics.com^$third-party
+||tapoutmusic.com^
 ||tappile.com^
 ||tapplay.vip^
 ||tappx.com^
