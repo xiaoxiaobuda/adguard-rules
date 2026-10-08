@@ -55305,6 +55305,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilingualgeek.com^
 ||bill.agent.56.com^
 ||billionfocus.com^
+||billionpet.com^
 ||billowybead.com^
 ||billowybelief.com^
 ||billtable.com^
@@ -55960,6 +55961,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bopmkf.lolahome.es^
 ||boqufs.2nn.jp^
 ||boredcrown.com^
+||borefee.com^
 ||boringberry.com^
 ||boringpirate.com^
 ||boroboromi.com/js/tbclick.js
@@ -59681,6 +59683,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||clusterdee1.56822017.com^
 ||clustrmaps.com/counter/$third-party
 ||clutch.gdn^
+||clutchcourses.com^
 ||clw99.mobi^
 ||clw99.mobi^
 ||clyexf.decathlon.ie^
@@ -60580,6 +60583,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||community.chpw.org^
 ||community.fusesource.com^
 ||community.keeperz.app^
+||community.netweather.tv/4p9v/
 ||community.xw.qq.com^
 ||comp.360os.com^
 ||company-target.com^$third-party
@@ -67955,8 +67959,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ekdky.cn^
 ||ekeide.com^
 ||ekfwof.finnishdesignshop.fi^
+||ekitan.com/*-analytics.js
 ||ekitan.com/*-tracker.js
 ||ekitan.com/cmn/js/ekitan.log.js
+||ekitan.com/common/ek-tracker/
 ||eklexu.kibuba.com^
 ||ekmpinpoint.co.uk^$third-party
 ||ekmpinpoint.com^$third-party
@@ -116962,6 +116968,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats.localmetravel.com^
 ||stats.lord.io^
 ||stats.lotlinx.com^
+||stats.lrb.co.uk^
 ||stats.lstfnd.de^
 ||stats.lt^$third-party
 ||stats.ltdhunt.com^
