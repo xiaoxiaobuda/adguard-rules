@@ -5006,6 +5006,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 ad.hpplay.cn
 0.0.0.0 ad.huajiao.com
 0.0.0.0 ad.huazirc.com
+0.0.0.0 ad.igaworks.com
 0.0.0.0 ad.ikonke.com
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.iot.360.cn
@@ -5030,6 +5031,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 ad.mh.163.com
 0.0.0.0 ad.mi.com
 0.0.0.0 ad.mobile.youku.com
+0.0.0.0 ad.naver.com
 0.0.0.0 ad.netowl.jp
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ad.oceanengine.com
@@ -5047,6 +5049,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 ad.shunchangzhixing.com
 0.0.0.0 ad.shunchangzhixing.com  #两步路
 0.0.0.0 ad.sinovision.net
+0.0.0.0 ad.sooplive.co.kr
 0.0.0.0 ad.tagtoo.co
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.thsi.cn
@@ -5140,6 +5143,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 adfile.caixin.com
 0.0.0.0 adfile.wifi8.com
 0.0.0.0 adfilter.imtt.qq.com
+0.0.0.0 adfit.kakao.com
 0.0.0.0 adfuture.cn
 0.0.0.0 adgeo.163.com
 0.0.0.0 adim.pinduoduo.com
@@ -5282,6 +5286,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 ads.mojicdn.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.mykudou.com
+0.0.0.0 ads.naver.com
 0.0.0.0 ads.nicovideo.jp
 0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 ads.oneway.mobi
@@ -5297,6 +5302,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.sina.com
 0.0.0.0 ads.snapchat.com
+0.0.0.0 ads.sooplive.co.kr
 0.0.0.0 ads.spotify.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.taboola.com
@@ -5540,6 +5546,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 adx.mossru.com
 0.0.0.0 adx.rrt365.com
 0.0.0.0 adx.sogaha.cn
+0.0.0.0 adx.sooplive.co.kr
 0.0.0.0 adx.timewit.cn
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 adx.yiche.com
@@ -5765,8 +5772,11 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 api-verify.hiaiabc.com
 0.0.0.0 api.ad.admobile.top
 0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ad.sooplive.co.kr
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.ad.yipinread.com
+0.0.0.0 api.adcolony.com
+0.0.0.0 api.adfit.kakao.com
 0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adprod.cn
 0.0.0.0 api.ads.yahoo.com
@@ -9866,6 +9876,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0.0.0.0 static-ssl.mediav.com
 0.0.0.0 static.66mobi.com
 0.0.0.0 static.66mobi.com  #旺脉科技
+0.0.0.0 static.ad.sooplive.co.kr
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.app.m.letv.com
@@ -12031,6 +12042,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 ads-union.jd.com
 127.0.0.1 ads-video-al.xhscdn.com
 127.0.0.1 ads-video-qc.xhscdn.com
+127.0.0.1 ads-vp5.xhscdn.com
 127.0.0.1 ads.51yund.com  #悦动圈
 127.0.0.1 ads.95516.com  #云闪付
 127.0.0.1 ads.ad2iction.com
@@ -12956,7 +12968,9 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 api.jietuhb.com  #摇一摇广告
 127.0.0.1 api.jiguang.cn
 127.0.0.1 api.jpush.cn
+127.0.0.1 api.jr.airstarfinance.net  #小米钱包净化-天星金融，只剩交通卡、米Pay、门卡
 127.0.0.1 api.jr.mi.com  #小米钱包净化
+127.0.0.1 api.jr.mi.com  #小米钱包净化(旧版)
 127.0.0.1 api.kaffnet.com
 127.0.0.1 api.keen.io
 127.0.0.1 api.kickoffo.site
@@ -13857,6 +13871,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 bugsense.com
 127.0.0.1 build-cdn.liftoff.io
 127.0.0.1 burstnet.com
+127.0.0.1 business-ad.cdn-go.cn
 127.0.0.1 business-syh-cdn.2345ii.com
 127.0.0.1 business.msstatic.com
 127.0.0.1 business.oceanengine.com
@@ -16196,6 +16211,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 httpdns.kwd.inkuai.com
 127.0.0.1 httpdns.meituan.com
 127.0.0.1 httpdns.music.163.com #会绕过hosts直接访问广告域名，误杀_无法打开更多模块，也就打不开更多和收藏的MV
+127.0.0.1 httpdns.music.163.com #会获取IP绕过hosts直接访问广告域名，误杀_无法打开更多模块，也就打不开更多和收藏的MV（V8），V8之后内置IP了，基本失效了，用文件夹替换大法吧。
 127.0.0.1 httpdns.n.netease.com
 127.0.0.1 httpdns.n.shifen.com
 127.0.0.1 httpdns.ng.imgo.tv
@@ -16274,6 +16290,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 i-mobile.co.jp
 127.0.0.1 i-sdk.mediation.unity3d.com
 127.0.0.1 i-shadow2.ke.com
+127.0.0.1 i.adyounger.com
 127.0.0.1 i.clean.gg
 127.0.0.1 i.clickagy.com
 127.0.0.1 i.connatix.com
@@ -16331,6 +16348,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 iad6.ipromote.com
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iadmusicmat.music.126.net
+127.0.0.1 iadmusicmat.music.126.net  #开屏广告图床
 127.0.0.1 iadmusicmatvideo.music.126.net
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iam-agof-app.irquest.com
@@ -17165,6 +17183,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 m.adnxs.com
 127.0.0.1 m.ads.sohu.com
 127.0.0.1 m.adtiming.com
+127.0.0.1 m.adyounger.com
 127.0.0.1 m.amoad.com
 127.0.0.1 m.analytics.126.net
 127.0.0.1 m.anycast.adnxs.com
@@ -18129,6 +18148,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 p4-ad.adkwai.com
 127.0.0.1 p4-ad.adukwai.com
 127.0.0.1 p4-lm.adkwai.com
+127.0.0.1 p4-lm.adukwai.com
 127.0.0.1 p4-yx.adkwai.com
 127.0.0.1 p4.adkwai.com
 127.0.0.1 p4dt2-4nrdw.ads.tremorhub.com
@@ -20016,6 +20036,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 stat.titan.imgo.tv
 127.0.0.1 stat.tpns.tencent.com
+127.0.0.1 stat.tpns.tencent.com  #统计上报
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 stat.ws.126.net
 127.0.0.1 stat.xdplt.com
@@ -20337,6 +20358,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 t-l.play.aiseet.atianqi.com
 127.0.0.1 t-odx.op-mobile.opera.com
 127.0.0.1 t-remad.qm989.com
+127.0.0.1 t.adbiding.com
 127.0.0.1 t.adcell.com
 127.0.0.1 t.ads.sohu.com
 127.0.0.1 t.ag.b9ad.com  #安兔兔
@@ -20464,6 +20486,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 talkv6.getui.com
 127.0.0.1 tangram-config.gdt.qq.com
 127.0.0.1 tangram.e.qq.com
+127.0.0.1 tao.ad.cn.sz.ad.tengine.ingress.alibabacorp.com.gds.alibabadns.com
 127.0.0.1 taobao.qq.com
 127.0.0.1 tap-cdn.rubiconproject.com
 127.0.0.1 tap.rubiconproject.com
@@ -20956,6 +20979,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 udc-neb.kampyle.com
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 udplus.umeng.com
+127.0.0.1 udpolimenew.baidu.com
 127.0.0.1 udpolimeok.baidu.com
 127.0.0.1 ue.applovin.com
 127.0.0.1 ue.flipboard.com
@@ -21042,6 +21066,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 update.duokan.com  #全民小说、多看阅读更新？
 127.0.0.1 update.indexww.com
 127.0.0.1 update.kmpmedia.net
+127.0.0.1 update.miui.com
 127.0.0.1 update.mobile.kugou.com
 127.0.0.1 update.morgdog.springserve.com
 127.0.0.1 update.pan.baidu.com
@@ -22002,16 +22027,20 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
 142.250.107.188 alt5-mtalk.google.com #US
+142.250.107.188 alt6-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
+142.250.115.188 alt7-mtalk.google.com #US
 142.250.141.188     alt2-mtalk.google.com
 142.250.152.188     alt8-mtalk.google.com
 142.250.152.188 alt7-mtalk.google.com #US
+142.250.152.188 alt8-mtalk.google.com #US
 142.250.157.188     mtalk.google.com
 142.250.157.188 alt5-mtalk.google.com
 142.251.10.188 alt3-mtalk.google.com #JP
 142.251.10.188 alt7-mtalk.google.com
 142.251.12.188 alt4-mtalk.google.com #JP
+142.251.127.188 alt5-mtalk.google.com #JP
 142.251.170.188 alt1-mtalk.google.com #TW
 142.251.8.188 alt6-mtalk.google.com
 146.75.48.133 media.githubusercontent.com
@@ -22155,6 +22184,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 1ydt.com###R_headGG,.adsbygoogle,#head
 1ydt.com###R_headGG,.adsbygoogle,#head
 20.200.245.245 api.github.com
+20.200.245.247 gist.github.co
 20.200.245.247 gist.github.com
 20.200.245.247 github.com
 20.43.185.14 github.dev
@@ -22914,6 +22944,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-2-20260701223115-afac6b19</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-2-20260814210115-c9c6dbd7</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-2-20260925003039-e1646446</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
+<!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-2-20261013045430-3c64d5c5</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-221-20260421020700-e53fb683</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-221-20260422212413-326c6bd3</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
 <!DOCTYPE html><html style="height:100%;width:100%"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Server" content="CloudWAF" /><title id="title">访问被拦截！</title></head><body onload="bindall()" style="height:100%;width:100%;margin:0px;font-family:Microsoft yahei"><div><style type="text/css">	.select {float: right;margin: 10px 20px 0 0;height: 32px;line-height: 20px;font-size: 14px;width: 80px;}</style><select class="select" name="language" onchange="changeLanguage(this.options[this.options.selectedIndex].value)"><option id="option-zh" onclick="changeLanguageZh()" value="zh">中文</option><option id="option-en" onclick="changeLanguageEn()" value="en">English</option></select><div style="clear: both;"></div></div><div style="min-height:13.125rem;width:100%"><div style="margin-top:3.75rem;margin-left:18.4375rem;height:52.38;width:83.04%;"><svg xmlns="http://www.w3.org/2000/svg" style="width: 3.125rem;height: 3.125rem" viewBox="0 0 50 50"><path fill="#e84e4c" d="M25,0A25,25,0,1,0,50,25,25,25,0,0,0,25,0Zm1.6,37.16H22.85V33.41H26.6Zm0-6.63H22.85L22.35,13H27.1Z"/></svg><font style="font-family:MicrosoftYaHei;font-size:4.375rem;color:#e94d4c;margin-left: 0.75rem;font-weight: bold;">418</font></div><div style="margin-left:18.4375rem;height:47.62%;width:83.04%;"><font id="a" style="font-family:MicrosoftYaHei;font-size:1.875rem;color:#999999;word-wrap:break-word;">您的请求疑似攻击行为！</font><p style="font-family:MicrosoftYaHei;font-size:0.9rem;color:#999999;word-wrap:break-word;"><span id="c">事件ID：</span><span style="color:#499df2" id="d">34-dect-221-20260426210318-4e0059a1</span></p></div></div><div style="height:15.625rem;width:100%;min-width:105rem;"><div style="margin-left:18.4375rem;float:left;width:50rem"><p id="b" style="margin-top:10px">如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截</p></div></div></body><script>function changeLanguage(value) {if (value === 'zh') {changeLanguageZh();} else if (value === 'en') {changeLanguageEn();} else {changeLanguageZh();}}function changeLanguageZh() {document.getElementById("title").innerHTML = "访问被拦截！";document.getElementById("a").innerHTML = "您的请求疑似攻击行为！";document.getElementById("b").innerHTML = "如果您是站长，您可以前往WAF控制台进行误报屏蔽设置，让您的访问不再被拦截";document.getElementById("c").innerHTML = "事件ID：";}function changeLanguageEn() {document.getElementById("title").innerHTML = "The access is blocked.";document.getElementById("a").innerHTML = "Sorry, your request has been intercepted because it appears to be an attack.";document.getElementById("b").innerHTML = "If you are the webmaster, configure related parameters on the WAF console to allow your requests.";document.getElementById("c").innerHTML = "Event ID:";}var language = navigator.language || navigator.browserLanguage;var re_zh = /^zh/;if (language.match(re_zh)) {changeLanguageZh();document.getElementById("option-zh").setAttribute("selected", true);} else {changeLanguageEn();document.getElementById("option-en").setAttribute("selected", true);}</script></html>
@@ -60361,6 +60392,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||colossusssp.com^$third-party
 ||columbustech.tcsg.edu^
 ||colvk.viki.io^
+||colwinners.com^
 ||com*/ps/psCreat.js
 ||com*/ps/psCreat.js
 ||com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com^
@@ -63185,6 +63217,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||daraz.com^
 ||darkartsyoga.com^
 ||darkreader.org/elements/statistics.js
+||darngavel.com^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||dart.clearchannel.com^
 ||dart.onjoyri.de^
@@ -64773,6 +64806,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dh1dh.top^
 ||dhapp.qianhaitech.cn/api/ad^
 ||dhapp.qianhaitech.cn/api/ad^
+||dharmabrats.com^
 ||dhdaa.duke.edu^
 ||dheear.site^
 ||dheear.site^
@@ -138209,6 +138243,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zzzu.ag8.com^
 ||zzzx1-862777969.ap-east-1.elb.amazonaws.com^
 ||zzzx1-862777969.ap-east-1.elb.amazonaws.com^#————SM广告丟那吗hosts————
+||zzzx1-862777969.ap-east-1.elb.amazonaws.com^#版本：3.1
 ||zzzzz4.52896368.com^
 ||奥门广场.com^
 ~g.ifeng.com,ifeng.com##a[href*="/g.ifeng."]
