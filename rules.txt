@@ -24383,6 +24383,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||dd.subito.it.first-party-js.datadome.co^$script,xmlhttprequest,domain=areariservata.subito.it
 @@||dd.thetrainline.com.first-party-js.datadome.co^$domain=thetrainline.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
+@@||ddbm2.paypal.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=id.venmo.com
 @@||ddys.pro^
 @@||ddyunbo.com^
 @@||de.pandora.xiaomi.com^
@@ -70960,6 +70961,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||finaitrixcore-pl.com^
 ||finalid.com^$third-party
 ||finalizeforce.com^
+||finalleague.com^
 ||finaloptics.com^
 ||finalyticsdata.com^$third-party
 ||finance-gateway.diandian.com.cn^
@@ -71070,6 +71072,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fitnesssponsor.com^
 ||fitwithalpine.com^
 ||fitymi.app/js/script.js
+||fiveplusthree.com^
 ||fiverr.com/api/v1/activities
 ||fiverr.com/px/client/PXK3bezZfO/main.min.js
 ||fivesidedsquare.com^
@@ -72594,6 +72597,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gamer.cdn-go.cn^
 ||gameresource.itop.qq.com^
 ||gamergen.com/ajax/actualites/addVue
+||gamerhunk.com^
 ||gamerone.net^
 ||gamersky.com/*.tg.
 ||gamersky.com/*.tg.
