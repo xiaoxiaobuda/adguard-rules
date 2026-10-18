@@ -27973,6 +27973,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||zmde.yijoys.com^
 @@||zodgame.xyz^
 @@||zoominfo.com/c/amplitude-js$script,~third-party
+@@||zs.com/scripts/analytics/pageview.js$~third-party
 @@||ztgame.com^
 MRelateFeedAd
 MRelateFeedAd
@@ -46129,6 +46130,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ad*.sigmob.cn^
 ||ad-
 ||ad-
+||ad-*.alibabadns.com^
+||ad-*.alimama.com^
+||ad-*.kwaidc.com^
 ||ad-*file.myqcloud.com^
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-a8.www.zeiri4.com^
@@ -46188,6 +46192,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ad-material.*.com^
 ||ad-material.ys7.com^
 ||ad-miner.com^
+||ad-monitor.huya.com^
 ||ad-monitor.sh9130.com^
 ||ad-nex.com^
 ||ad-ocpx.zhltech.net^
@@ -46506,6 +46511,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ad.tk.cn^
 ||ad.toutiao.com
 ||ad.toutiao.com^
+||ad.track.66mobi.com^
 ||ad.turn.com^
 ||ad.unimhk.com^
 ||ad.us.sinaimg.cn^
@@ -47435,6 +47441,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ads*.zijieapi.com^
 ||ads-
 ||ads-
+||ads-*.hihonorcloud.com^
+||ads-*.vivo.com.cn^
 ||ads-*.xhscdn.com^
 ||ads-acc.qqbrowser.qq.com^
 ||ads-api-o.api.leiniao.com^
@@ -47458,6 +47466,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ads-img-bak.xhscdn.com^
 ||ads-img-qc.xhscdn.com^
 ||ads-jp.tiktok.com^
+||ads-jssdk.vivo.com.cn^
 ||ads-lb.serving-sys.cn^
 ||ads-marketing-vivofs.vivo.com.cn
 ||ads-marketing-vivofs.vivo.com.cn^
@@ -47612,6 +47621,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ads2.msads.net^
 ||ads2.msn.com^
 ||ads2.opensubtitles.org^
+||ads3-*.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
 ||ads3-normal-lf.zijieapi.com.skyworth^
 ||ads3-normal-lf.zijieapi.com^
@@ -47622,6 +47632,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ads30.adcolony.com^
 ||ads360.cn^
 ||ads360.cn^
+||ads5-*.zijieapi.com^
 ||ads5-normal-hj.zijieapi.com^
 ||ads5-normal-hl.zijieapi.com^
 ||ads5-normal-lf.zijieapi.com.skyworth^
@@ -59644,6 +59655,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cloudapp.net/l/
 ||cloudasbook.com^
 ||cloudasbook.com^
+||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
 ||cloudcdn.yousee.com^
 ||cloudchickens.com^
 ||cloudcollect.meitudata.com^
@@ -66498,6 +66510,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dsmstats.com^$third-party
 ||dsoqqcfd.vjxjrfyu.cn^
 ||dsoxjxin5jji.controlconceptsusa.com^
+||dsp-api-cn.metricslinks.com^
 ||dsp-click.youdao.com^
 ||dsp-creative.ubixioe.com^
 ||dsp-impr.youdao.com^
@@ -71169,6 +71182,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||flashtexting.com^
 ||flaticon.com/_ga?
 ||flaticon.com^
+||flatpebble.com^
 ||flavors.firmenich.com^
 ||flbmgfbn.520partyland.com^
 ||flcounter.com^$third-party
@@ -71738,6 +71752,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||frdoki.woodblock.work^
 ||fre.everleyeve.com:23525/v^$domain=avtbf.com
 ||fre.everleyeve.com:23525/v^$domain=avtbf.com
+||freakywacko.com^
 ||free-aos-cdn-image.amap.com^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||free-counter.co.uk^$third-party
@@ -72250,6 +72265,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||g.alicdn.com/AWSC/fireyejs/
 ||g.alicdn.com/alilog^
 ||g.alicdn.com/alilog^
+||g.alicdn.com^
 ||g.aligames.com^
 ||g.analytics.versa-ai.com^
 ||g.baidu.com^
@@ -74707,6 +74723,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gravity4.com^$third-party
 ||gravitygive.com^
 ||gravitykick.com^
+||graychalk.com^
 ||graylog.prod.cams.run^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -94210,6 +94227,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mgsdk-sign^
 ||mgt7.madeindesign.it^
 ||mgtmod01.com^$third-party
+||mgw.mpaas.cn-hangzhou.aliyuncs.com^
 ||mgwcn.com^
 ||mgwl668.com^
 ||mgwyu.svav786.vip^$important
@@ -95187,6 +95205,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||moren-1252794300.file.myqcloud.com^
 ||moren1.cnamggg.com^
 ||morenguo.morencdn1.com^
+||mores.anythinktech.com^
 ||mores.motowoo.com^
 ||mores.toponad.com^
 ||morganfranklin.actonservice.com^
@@ -100026,6 +100045,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||page1solutions.actonservice.com^
 ||pagead*.googleadservices-cn.com^
 ||pagead*.googlesyndication-cn.com^
+||pagead*.googlesyndication.com^
 ||pagead-googlehosted.l.google.com^
 ||pagead-tpc.l.google.com^
 ||pagead.
@@ -100747,6 +100767,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||permutive.app^
 ||permutive.com^$third-party
 ||perplexity.ai/rest/event/analytics
+||perplexity.ai/unifyintent.js
 ||perr.h-cdn.com^
 ||perr.hola.org^
 ||perr.l-agent.me^
