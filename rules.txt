@@ -371,6 +371,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
 .com:8005/*&n=$third-party
+.com:8005/cc/*?*=$third-party
 .com:8008/sc/*?n=$third-party
 .com:8010/cc/
 .content_tracking.js
@@ -4297,6 +4298,8 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /tygg/*
 /tynt.js
 /u.gif?
+/ua/Optin?
+/ua/TrailEvent?
 /ucount.php?
 /udp-analytics.js
 /uds/stats?
@@ -50210,6 +50213,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analyticsssl.forcepoint.com^
 ||analyticsweb.net^$third-party
 ||analyticswizard.com^$third-party
+||analyto.io/api/event
 ||analyze-82dfgsi2.m-w.com^
 ||analyze.lemurbrowser.com^
 ||analyzecorona.com^
@@ -50788,6 +50792,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.d.xiaomi.com^
 ||api.danmu.tv.sohu.com^
 ||api.datanexus.qq.com^
+||api.deepai.org/log_stat
 ||api.device.xiaomi.net^
 ||api.dewmobile.net^
 ||api.df.mob.com^
@@ -59902,6 +59907,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cms-image.cdn.bcebos.com^
 ||cms-image.cdn.bcebos.com^
 ||cms-stats-view.vitrinabox.com^
+||cms.1sec.email/api/analytics-track
 ||cms.an.m.liebao.cn^
 ||cms.grandcloud.cn^
 ||cms.grandcloud.cn^$third-party
@@ -68634,6 +68640,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||emails.verishop.com^
 ||emails.watchown.tv^
 ||emailsnow.info^
+||emailtemporario.com.br/*/trackevents
+||emailtemporario.com.br/~api/analytics
 ||emar.com^
 ||emarbox.com^
 ||emarbox.com^
@@ -70419,6 +70427,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fasa-youdao.com.cn^
 ||fashion.edm.globalsources.com^
 ||fashion.tradeshow.globalsources.com^
+||fashionposter.com^
 ||fask-youdao.com.cn^
 ||faskk-youdao.com.cn^
 ||fasl-youdao.com.cn^
@@ -71290,6 +71299,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||flystranger.com^
 ||flysupercars.com^
 ||flyye.cn^
+||flyyoung.net^
 ||flznib.weblio.jp^
 ||flzyw.com/js/foot.js
 ||flzyw.com/js/foot.js
@@ -75684,6 +75694,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||harborcontrol.com^
 ||harborcub.com^
 ||hardinet.actonservice.com^
+||hardsixhockey.net^
 ||hariken.co^$third-party
 ||harlan.actonservice.com^
 ||harman.epoise.com^
@@ -76825,6 +76836,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||honeybulb.com^
 ||honeybutterbliss.com^
 ||honeycomb.io/1/events/
+||honeyscene.com^
 ||hongdouav8.com^$script
 ||hongdouav8.com^$script
 ||hongfachn.com^
@@ -84359,6 +84371,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||knicks.jd.com^
 ||knifetreasury.com^
 ||knight-res.rivergame.net^
+||knightface.com^
 ||knitstamp.com^
 ||knjcsonpo.com^
 ||knjcsonpo.com^
@@ -94222,6 +94235,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mgptul.finson.com^
 ||mgqhau.top^
 ||mgr.beinarun.com^
+||mgrace.net^
 ||mgs123.com^
 ||mgscj.efw884.vip^
 ||mgsdk-sign^
@@ -104616,6 +104630,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||r.sportsie.com^
 ||r.stripe.com^$ping,script,xmlhttprequest
 ||r.tt-I0086.com^
+||r.upload.app^
 ||r.wdfl.co/rw.js
 ||r.winf.site^
 ||r.wz.de^
@@ -117469,6 +117484,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats.tdameritrade.com^
 ||stats.te.com^
 ||stats.teamdetails.com^
+||stats.techinate.com^
 ||stats.tedserbinski.com^
 ||stats.teenranch.com^
 ||stats.tekin.co.uk^
@@ -135840,6 +135856,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yiluup.com^
 ||yimc.880.net^
 ||yimc.cn^
+||yimg.com/*/ymanalytics-core.js
 ||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
 ||yimg.com/aaq/vzm/cs_*.js
 ||yimg.com/aaq/wf/wf-darla-
