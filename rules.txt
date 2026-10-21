@@ -35493,6 +35493,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||101kyty.com^$important
 ||101office.cn^
 ||1021cm027.gohoib.top^
+||1021n10.rfvwu.shop^
 ||1024.fm^
 ||1024tera.com/api/analytics?
 ||1025ly119.lypuzif1.top^
@@ -48893,6 +48894,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||alamocapital.actonservice.com^
 ||alapita.openapp.link^
 ||alaskaair.com/AlXMT4Ma/init.js
+||alb-8icit8djh3771ycffj.cn^
 ||alb.reddit.com^
 ||albacross.com^$third-party
 ||albanychicago.advancedtech.com^
@@ -58518,6 +58520,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ce8ea25d3322842f.com^
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||ced.sascdn.com^
+||cedarkits.com^
 ||cedexis.com^$third-party
 ||cee1.iteye.com^
 ||cee2.iteye.com^
@@ -62981,6 +62984,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||d520m.gzcl999.cn^
 ||d593c91df39a64ab.com^
 ||d595599e23ffcffe.com^
+||d5d3cc50.gheqjz.com^
 ||d5nxst8fruw4z.cloudfront.net^
 ||d5p.de17a.com^
 ||d5vegqovvvewn.cloudfront.net^
@@ -72459,6 +72463,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||g86b798.cdn.f1943w.com^$important
 ||g8715710740.co^
 ||g877.cl.app^
+||g887478.cdn.gheqjz.com^
 ||g8913795075.co^
 ||g8a3d48.cdn.yunshanganquan.com^
 ||g8do.6t.com^
@@ -85484,6 +85489,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||larbcc.xyz^
 ||laregione.ch/ext/av.php?
 ||largebrass.com^
+||largetony.com^
 ||lasagneandands.com^$third-party
 ||laserconcepts.actonservice.com^
 ||laserstat.com^$third-party
@@ -96894,6 +96900,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nexstardigital.net/segment.js
 ||nexstep.zdworks.com^
 ||next.rikunabi.com/api/logRecommendRealtimeI2AV2
+||nextacdn.top^
 ||nextcps.com^
 ||nextdoor.*/ajax/ping_ndas/
 ||nextdoor.com/events/
@@ -97859,6 +97866,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nzymeedg.icu^
 ||nzyupy.cn^
 ||nzzvvf.goldengoose.com^
+||o-api.hotukdeals.com^
 ||o-s.io^$third-party
 ||o-sdk.mediation.unity3d.com^
 ||o.027eat.com^
@@ -98103,8 +98111,14 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||octopuspop.com^
 ||octopuspop.com^
 ||octotracking.com^$third-party
+||ocular.chollometro.com^
 ||ocular.dealabs.com^
 ||ocular.hotukdeals.com^
+||ocular.mydealz.de^
+||ocular.pepper.pl^
+||ocular.pepperdeals.com^
+||ocular.pepperdeals.se^
+||ocular.preisjaeger.at^
 ||ocular.promodescuentos.com^
 ||ocwf.880.net^
 ||ocwlhv.ecid.com.br^
@@ -116603,6 +116617,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||static.klaviyo.com/onsite/js/event_adapter.
 ||static.kouxincdn.com^
 ||static.ku6.com^
+||static.liuliangguo.com^
 ||static.m.sjzhushou.com^$app=com.xunlei.downloadprovider
 ||static.m.sjzhushou.com^$app=com.xunlei.downloadprovider
 ||static.mddlsa.com^
@@ -121820,6 +121835,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tongji.xinmin.cn^
 ||tongji.xinmin.cn^
 ||tongji.xljcg.net^
+||tongji2.u3es4c.top^
 ||tongji2.vip.duba.net/__infoc.gif?
 ||tongjiniao.com^
 ||tongjiniao.com^
@@ -123501,6 +123517,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||track.liangka.vip^
 ||track.libii.cn^
 ||track.list-finder.jp^
+||track.liuliangguo.com^
 ||track.livasoft.com.tr^
 ||track.loan-ad.cn^
 ||track.magazineluiza.com.br^
@@ -124517,6 +124534,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tradeadexchange.com^
 ||tradeadexchange.com^
 ||tradeccl.com^
+||tradedeli.com^
 ||tradelab.fr^$third-party
 ||traderbyte.com^
 ||traders.co.kr/common/js/makePCookie.js
@@ -126622,6 +126640,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uncensored.ai/*/trackevents
 ||uncmbg.timberland.de^
 ||uncn.jp^$third-party
+||uncommonalias.com^
 ||unconf.mobad.ijinshan.com^
 ||uncoveredexpert.com^
 ||undefined^
@@ -126659,6 +126678,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||unifilabs.actonservice.com^
 ||uniformer.biz^
 ||uniformer.biz^
+||unifybots.com^
 ||unifyintent.com/analytics/
 ||unilog.wostore.cn^
 ||unimhk.com^
@@ -133844,6 +133864,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wzwimu6d.cache-hlg.11cdn.cc^$important
 ||wzyjup.patch.com^
 ||wzzhvn.hammer.de^
+||wzzqlm.erbaiwulaoge.com.wsdvs.com^
 ||wzzqlm.erbaiwulaoge.com^
 ||x-playboy.com^
 ||x-playboy.com^
