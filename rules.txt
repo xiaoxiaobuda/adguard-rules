@@ -28339,6 +28339,7 @@ baidu.com###menu-item-4,#menu-item-6,#menu-item-18,#menu-item-15,#menu-item-14,U
 baidu.com###menu-item-4,#menu-item-6,#menu-item-18,#menu-item-15,#menu-item-14,UL.menu-item-wrap,DIV.channel-mgr-wrapper,#menu-container
 baidu.com###page-copyright
 baidu.com###page-copyright
+baidu.com###page-copyright.se-page-copyright
 baidu.com###page-copyright.se-page-copyright.se-copyrig
 baidu.com###page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 baidu.com###page-pre
@@ -29018,6 +29019,7 @@ cjn.cn##aside.sidebar.art-ad,ASIDE#slidelr,DIV.sidebar,IMG[src^="http://img.cjn.
 ckdzb.com##TD[height="90"],DIV[style="float:right;margin:10px 10px;clear:right;height:310px;width:336px;"]
 ckdzb.com##TD[height="90"],DIV[style="float:right;margin:10px 10px;clear:right;height:310px;width:336px;"]
 ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
+cleveland.com,oregonlive.com,reuters.com##+js(aost, admiral, .js?)
 clickme.net##div.StickyShareBlock,div[class^="ADs"],ins.adsbygoogle
 clickme.net##div.StickyShareBlock,div[class^="ADs"],ins.adsbygoogle
 clipconverter.cc###abottom,#atop,#aright
@@ -54949,6 +54951,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||beacon.statful.com^
 ||beacon.tingyun.com^
 ||beacon.tingyun.com^
+||beacon.viafoura.io^
 ||beacon.walmart.com^
 ||beacon.watch.impress.co.jp^
 ||beacon.webpresence.work^
@@ -97084,6 +97087,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||niir.154.com^
 ||nijiua.com^
 ||nijiua.com^
+||nijiurachan.net/analytics/
 ||nijnqwem.xyz^
 ||nijnqwem.xyz^
 ||nik.io^$third-party
@@ -100232,6 +100236,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||paintpear.com^
 ||pair.com/itero/tracker_ftc/
 ||pairin.actonservice.com^
+||pajamabrand.com^
 ||pakdru.altrarunning.com^
 ||pal-v.actonservice.com^
 ||paladion.actonservice.com^
