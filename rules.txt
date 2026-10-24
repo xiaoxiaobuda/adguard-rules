@@ -1244,6 +1244,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /analytics/pageview
 /analytics/rakuten.js
 /analytics/searches?
+/analytics/trackImpressions
 /analytics/track_event/*
 /analytics/tracker.js
 /analytics/trackers?
@@ -28356,6 +28357,7 @@ baidu.com##.barea-ad
 baidu.com##.brand-entry
 baidu.com##.c-result.result[srcid='mkt_ad_space']
 baidu.com##.cos-rich-video-player-video
+baidu.com##.detail-banner-new
 baidu.com##.drag-wrap
 baidu.com##.ec-ad
 baidu.com##.ec-result-inner
@@ -51086,6 +51088,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.userstyles.org^
 ||api.usestoryteller.com/api/app/activity/recordActivity?
 ||api.useunloq.com/event_management/
+||api.vaile.ai/api/track
 ||api.vc.bilibili.com^
 ||api.verify.mob.com^
 ||api.viglink.com^
@@ -85822,6 +85825,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||legitscript.com/seals/$script
 ||lego-tech.zhuanzhuan.com^
 ||lego.com/api/dl-event-ingest
+||lego.com/api/uec/v1/events
 ||lego.zhuanzhuan.com^
 ||legolas-media.com^$third-party
 ||legolas.monotote.com^
@@ -98180,6 +98184,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||of1j087.top^
 ||ofd.meng-an.cn^
 ||offer-go.com^$third-party
+||offer-link.com/collect-click.php
 ||offer.alibaba.com^
 ||offer.coface.com^
 ||offer.lyreco.com^
@@ -101228,6 +101233,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pingo.staticmoly.me^
 ||pingomatic.com^$third-party
 ||pingometer.com^$third-party
+||pingprove.com^
 ||pings.conviva.com^
 ||pings.vidpulse.com^
 ||pingshetrip.com^
