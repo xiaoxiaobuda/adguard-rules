@@ -4310,6 +4310,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /ui-core-analytics-bundle.js
 /uisprime/track
 /umami.js
+/umami/script.js
 /umg-analytics.min.js
 /umg-analytics/umgaal.min.js
 /umt.gif?
@@ -29021,6 +29022,7 @@ cjn.cn##aside.sidebar.art-ad,ASIDE#slidelr,DIV.sidebar,IMG[src^="http://img.cjn.
 ckdzb.com##TD[height="90"],DIV[style="float:right;margin:10px 10px;clear:right;height:310px;width:336px;"]
 ckdzb.com##TD[height="90"],DIV[style="float:right;margin:10px 10px;clear:right;height:310px;width:336px;"]
 ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
+cleveland.com,fox11online.com,oregonlive.com,reuters.com,weartv.com##+js(aost, admiral, .js?)
 cleveland.com,oregonlive.com,reuters.com##+js(aost, admiral, .js?)
 clickme.net##div.StickyShareBlock,div[class^="ADs"],ins.adsbygoogle
 clickme.net##div.StickyShareBlock,div[class^="ADs"],ins.adsbygoogle
@@ -37269,6 +37271,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||247436tg.wrtuqc.com^$important
 ||247436tg.wrtuqc.com^$important
 ||247ilabs.com^$third-party
+||2481d401.gjuzgsa.com.cdn.dnsv1.com^
 ||2481e.com^
 ||24aa7af2.qtaeixd.com^
 ||24ad.cl.app^
@@ -39236,6 +39239,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||5jhome.com^
 ||5jjc.cl.app^
 ||5jwt.154.com^
+||5k43dvwu.bnzvt.com^
 ||5k4h.com^
 ||5k6x.cc^
 ||5kfc.hikedj.com^
@@ -53053,6 +53057,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aservice.cloud/trc/mastertag
 ||asewlfjqwlflkew.com^
 ||asfkuailian.com.cn^
+||asfsgfbjn556.wmhdk.com^
 ||asgdgfh.khop9e2iv.org^
 ||asgsd.s5f4aq29.top^
 ||ashasafety.actonservice.com^
@@ -55496,6 +55501,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bio.to/~/tr/
 ||bioagiliytix.actonservice.com^
 ||bioanalyticalmarketing.eurofins-info.com^
+||biocatalysts.net^
 ||biologylog.com^
 ||biomedcentral.com/track/
 ||bionicclick.com^$third-party
@@ -57382,6 +57388,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||c6g.cn^
 ||c6g7.880.net^
 ||c6lc.pandasuite.io^
+||c6pfgqgh.slt.sched.tdnsv8.com^
 ||c6sc.8890.com^
 ||c6ygp.zldab60ujy.com^
 ||c77777777.com^
@@ -74408,6 +74415,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||goazlf.mytoys.de^
 ||gobankingrates.com/fp/
 ||gobeyond.superiorgroup.com^
+||gobf6p.gjuzgsa.com^
 ||goblin.hupu.com^
 ||goblin.hupu.com^
 ||goblinindex.com^
@@ -87975,6 +87983,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||log.music.baidu.com^
 ||log.news.baidu.com^
 ||log.nordot.jp^
+||log.nordot.jp^$~script
 ||log.nuomi.com^
 ||log.olark.com^
 ||log.outbrain.com^
@@ -96311,6 +96320,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||n69.com^
 ||n6j.cn^
 ||n6pn.yide.com^
+||n6q9tvrw.bnzvt.com^
 ||n74s9.com^$third-party
 ||n79od5592tp.obs.cn-north-1.myhuaweicloud.com^
 ||n7f.cn^
@@ -97453,6 +97463,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nokaut.link^$third-party
 ||nokuailian.com.cn^
 ||nol.yahoo.com^
+||nolatec.org^
 ||nom.familysearch.org^
 ||nom.lds.org^
 ||nomsc.kpn.com^
@@ -102106,6 +102117,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||polkoa.com^
 ||poll-maker.com^*/scpolls.js
 ||poll.pollinatepolls.com^
+||polopremier.com^
 ||polska-bitradex.org^
 ||polskabitradex-pl.com^
 ||polvestion-pro.net^
@@ -102597,6 +102609,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prodigalpromotion.com^
 ||prodigalpromotion.com^
 ||proditor.sparda.de^
+||prodsmax.com^
 ||producecopy.com^
 ||producepickle.com^
 ||product.cel-fi.com^
@@ -106940,6 +106953,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s.eick.it^
 ||s.ekeide.com^
 ||s.ergotherapieblog.de^
+||s.feiyuezhan.com^
 ||s.fission.codes^
 ||s.flamboroughreview.com^
 ||s.fnwenjuan.cn^
@@ -119742,6 +119756,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tab.video.qq.com^
 ||tab.volces.com^
 ||tabcarts.com^
+||tableleaders.com^
 ||tablesafe.actonservice.com^
 ||taboola.com.cn^
 ||taboola.com^
@@ -120564,6 +120579,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||technologyservices.equifax.com^
 ||technologyservices.inform.equifax.com^
 ||technolutions.net/ping?
+||technonstop.com^
 ||technorati.com/technoratimedia-pixel.js
 ||techprovider.intel.com^
 ||techpump.com^
@@ -126026,6 +126042,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tysb.heysida.com^
 ||tysdk.95516.com^
 ||tysk.a.yximgs.com^
+||tysyapk.tiankongshuyu.cn^
 ||tytpdz.climamarket.it^
 ||tytx.m.cn.miaozhen.com^
 ||tyu.quanliyouxi.cn^
@@ -136447,6 +136464,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yourdomain.com^
 ||yourerc.actonservice.com^
 ||yourfuture.walsh.edu^
+||yourgiftedbaby.com^
 ||yourhealth.bassett.org^
 ||yourhealth.bassetthealthnews.org^
 ||yourhealth.cooperhealth.org^
@@ -137109,6 +137127,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||z89yxner8h.datsumou-beauty-times.com^
 ||z8kxefwfeqs.5pgldy0523.cc^
 ||z8q.cn^
+||z8q4.cc^
 ||z91g.880.net^
 ||z9l.cn^
 ||z9qh.7790.com^
