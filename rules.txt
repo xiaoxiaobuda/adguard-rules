@@ -25952,6 +25952,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
 @@||neo.btrl.ro/Scripts/services/fingerprint2.min.js$~third-party
+@@||neruco-search.ec-optimizer.com^$script,domain=i-office1.net
 @@||netatmo.commander1.com^
 @@||netatmo.commander1.com^
 @@||netcoresmartech.com/smartechclient.js$domain=cgv.vn
@@ -55173,6 +55174,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bestinfo.bluetrustloans.com^
 ||bestoffice.com.cn^
 ||bestpornsites.tv/i/js/extra/metrics.js
+||bestpriceonly.com^
 ||bestshoesboot.com^
 ||bestsportsbra.com^
 ||besucher.nona.de^
@@ -55392,6 +55394,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bieqpf.cn^
 ||biexsite.net^
 ||biexsite.net^
+||bifrost-api.hotstar.com^
 ||bifrost.oddin.gg^
 ||bifyeldv.top^
 ||bifyeldv.top^
@@ -56402,6 +56405,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||brand.sogou.com^
 ||brandadsstatic.vivo.com.cn^
 ||brandadsstatic.vivo.com.cn^
+||brandcasters.com^
 ||brandcdn.com/pixel/
 ||brandlock.io^$third-party
 ||brandlog.vivo.com.cn^
@@ -57780,6 +57784,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||carepay.gaf.com^
 ||cargas.actonservice.com^
 ||cargdk.bakerross.co.uk^
+||cargrasp.com^
 ||cargurus.actonservice.com^
 ||cargurus.com/cars/cganalyticspageview.action
 ||cargurus.com/tr/
@@ -71330,6 +71335,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fltuyy.philippemodel.com^
 ||fluencymedia.com^$third-party
 ||fluentco.actonservice.com^
+||fluffybirds.com^
 ||fluidsurveys.com^$third-party
 ||flunion.cn^
 ||flunion.cn^
@@ -79899,6 +79905,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||indoeasia.edm.globalsources.com^
 ||indoleads.com/api/pixel-content/
 ||indonesiadefense.com/metrikgtg
+||indscout.com^
 ||ineed2s.ro^
 ||ineedhits.com^$third-party
 ||inencr.woodhouseclothing.com^
