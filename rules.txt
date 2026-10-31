@@ -11092,6 +11092,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 0830bbs.com##DIV[id^="comiis_19bad0"]
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iciba.com,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iciba.com,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
+1![个人收集 2.0]
 1000fr.net##div#ad_text.ad_text
 1000fr.net##div#ad_text.ad_text
 100ksw.com##[src^="/images/ad/"]
@@ -16644,6 +16645,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 127.0.0.1 inskinmedia689754970364.s.moatpixel.com
 127.0.0.1 install.kugou.com
 127.0.0.1 install2.kugou.com
+127.0.0.1 installer-drcn.hispace.hihonorcloud.com
 127.0.0.1 installer-drcn.hispace.hihonorcloud.com 
 127.0.0.1 int.akisinn.info
 127.0.0.1 int.akisinn.site
@@ -24973,6 +24975,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||h5static.kuwo.cn^
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
 @@||hanime1.me^
+@@||haohuo.jinritemai.com^
 @@||haohuo.jinritemai.com^ 
 @@||haohuo.snssdk.com^
 @@||haoka.lot-ml.com^
@@ -59170,6 +59173,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cip6.czpush.com^
 ||ciqtracking.com^
 ||circadence.actonservice.com^
+||circascope.com^
 ||circle.am^$third-party
 ||circle.hl.cn^
 ||circle.pandasuite.io^
@@ -69741,6 +69745,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||events.mcgladrey.com^
 ||events.medio.com^
 ||events.mercadolibre.com^
+||events.mics-notrack.com^
 ||events.mikescerealshack.co^
 ||events.missena.io^
 ||events.mywd.com^
@@ -76418,6 +76423,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||high-cdn.com/log.php?
 ||highered.franklincovey.com^
 ||higherengine.com^$third-party
+||higherhub.com^
 ||highfalutinbox.com^
 ||highfalutinhoney.com^
 ||highlight.io^$third-party
@@ -81957,6 +81963,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||javynow.com/ajax/access.php
 ||jayhou.top^
 ||jayhou.top^
+||jazzpianofast.com^
 ||jazzstadium.com^
 ||jazzwholesale.com^
 ||jb-kuailian.com.cn^
@@ -82784,6 +82791,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jowtkv.vertbaudet.de^
 ||joxx.cn^
 ||joy.ochronus.online^
+||joybegins.com^
 ||joyfartech.com^
 ||joyfuldoors.com^
 ||joyfulharbor.com^
@@ -84020,6 +84028,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||keydot.net^
 ||keyes.myre.io^
 ||keymetric.net^$third-party
+||keymono.net^
 ||keyne-in.com.cn^
 ||keyne-in.com.cn^
 ||keynotegroup.actonservice.com^
@@ -92521,6 +92530,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||meituan.xn^
 ||meituan.yoga^
 ||meituangov.cn^
+||meituanwang.metaaircraftcarrier.com^
 ||meituanwang.metaaircraftcarrier.com^  
 ||meitubeauty.meitudata.com^
 ||meitumq.com^
@@ -126221,6 +126231,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ubas.daikuan.360.cn^
 ||ubb.bbb.byjykj.xyz^
 ||ubb.bbb.wzguosutang.com^
+||ubbrobccheck20.cc^
 ||ubcpm.com^
 ||ubcpm.com^
 ||ubdjfy.maje.com^
