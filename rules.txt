@@ -35595,6 +35595,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||103.73.66.39^
 ||103.87.240.21^
 ||103.sdfgxvbsedfrg.com^
+||1031hh001.og48v.com^
 ||1034195206.ietheivaicai.com^
 ||1034195223.ietheivaicai.com^
 ||1034195226.ietheivaicai.com^
@@ -37501,6 +37502,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||28670.net^$important
 ||28670.net^$important
 ||287c38485690b75baxg.1lwjwq.com^
+||28849.oajhos.cn^
 ||28acglz.com^
 ||28b93e1e.1xabc.com^
 ||28dwj.com^
@@ -48406,6 +48408,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||affilae.com^$third-party
 ||affilate.hh.ru^
 ||affilbox.cz^$third-party
+||affilialab.com/tracker.js
 ||affiliate-api.raptive.com^
 ||affiliate.couleur-labo.com^
 ||affiliate.dietician-family.jp^
@@ -59274,6 +59277,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ckpxtt.justfly.com^
 ||ckpz.yide.com^
 ||cksfgh.jaycar.com.au^
+||cku.svtznj.cn^
 ||ckygge.mohd.it^
 ||ckyhec.maxisport.com^
 ||cl-data-f.ads.heytapmobi.com^
@@ -59357,6 +59361,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||clearbrands.actonservice.com^
 ||clearbuy.com/api/cookie
 ||clearclips.com^
+||cleargit.com^
 ||clearsale.com.br^$third-party
 ||clearspring.com/at/
 ||clearspring.com/t/
@@ -81963,6 +81968,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||javynow.com/ajax/access.php
 ||jayhou.top^
 ||jayhou.top^
+||jazzdocumentary.com^
 ||jazzpianofast.com^
 ||jazzstadium.com^
 ||jazzwholesale.com^
@@ -87819,6 +87825,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lockview.cn^$third-party
 ||locolava.com^
 ||locotrack.net^$third-party
+||locowater.com^
 ||lodicoandco.actonservice.com^
 ||lodlww.carcon.co.jp^
 ||lofo3l15c674.platform.replai.io^
@@ -90153,6 +90160,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mangaimg.62611311.com^
 ||mangaimg.huliqun.com^
 ||mangakoma.net/ajax/manga/view
+||mangamad.com^
 ||mangaraw.to/api/v1/view/
 ||mango-office.ru/calltracking/
 ||mango-office.ru/track/
@@ -131528,6 +131536,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wsall.qyrje.com.gccdn.net.cd23f.com^
 ||wsall.qyrje.com.gccdn.net^
 ||wsall.qzxtsg.*^
+||wsall.svtznj.cn.gccdn.net^
 ||wsall.tqpbs.cn.gccdn.net^
 ||wsall.ynhcpf.com.gccdn.net^
 ||wsandco.actonservice.com^
