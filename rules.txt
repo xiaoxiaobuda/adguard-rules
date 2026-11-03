@@ -25052,6 +25052,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||huichuan.sm.cn^
 @@||huluxia.com^
 @@||hvemder.no/js/hitcount.min.js$~third-party
+@@||hyundaicanada.com/scripts/analytics/analytics.js$script,~third-party
 @@||i.dell.com^
 @@||i.gtimg.cn^
 @@||i.ibb.co^
@@ -58837,6 +58838,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chat-platform-open.kakamobi.cn^
 ||chat.alivechat.cc^
 ||chat.bilibili.com^
+||chat.deepseek.com/api/v0/telemetry
 ||chat.forddirectdealers.com^
 ||chat.groq.com/global_stats
 ||chat.i-chat.online^
@@ -92362,6 +92364,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||medal.blog.csdn.net^
 ||medal.tv^$ping
 ||medals.bizrate.com^$third-party
+||medanysew.com^
 ||meddleplant.com^
 ||medhyg.actonservice.com^
 ||media-analytic.com^
