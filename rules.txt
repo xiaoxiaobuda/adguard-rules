@@ -28909,6 +28909,7 @@ cbg.cn##[class^="erweima"]
 cbg.cn##[class^="erweima"]
 cbmd.cn##.tong_addver,.header_top_ad,[id^="Advertices"]
 cbmd.cn##.tong_addver,.header_top_ad,[id^="Advertices"]
+cbssports.com,foxnews.com,gbatemp.net,news.com.au,pcworld.com,usatoday.com##+js(set, admiral, noopFunc)
 cbssports.com,foxnews.com,gbatemp.net,pcworld.com,usatoday.com##+js(set, admiral, noopFunc)
 cbssports.com,foxnews.com,gbatemp.net,usatoday.com##+js(set, admiral, noopFunc)
 cbssports.com,gbatemp.net,usatoday.com##+js(set, admiral, noopFunc)
@@ -54304,6 +54305,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||badjs.weixinbridge.com^
 ||badwolf.open-election-compass.com^
 ||baffae.alcott.eu^
+||bagave.com^
 ||bagbeam.com^
 ||bagbgo.unitednude.eu^
 ||baggvon.icu^
@@ -61075,6 +61077,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||connperf.immomo.com^
 ||consciouschairs.com^
 ||consciouscheese.com^
+||consciousremnant.com^
 ||conseil.seicgland.ch^
 ||conseils.dotbase.com^
 ||consensu.org/?log=
@@ -61635,6 +61638,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||countz.com^$third-party
 ||couplestupidity.com^
 ||couplestupidity.com^
+||couponbright.com^
 ||couponrail.com^
 ||couqm.com.cn^
 ||courageousbaby.com^
@@ -90104,6 +90108,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||majesticwaterscape.com^
 ||majesticwilderness.com^
 ||majikichi.com/js/tracking.js
+||majorcleanup.net^
 ||makbti.bandofboats.com^
 ||make-wendingyule.com.cn^
 ||makeding.com^
@@ -90171,6 +90176,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||manhuabei.com/assets/xiwang.js
 ||manhuabei.com/assets/xiwang.js
 ||manhuapi.com/style/js/common.js
+||manilazoo.com^
 ||mankalong.cn^
 ||manlungkey.com^
 ||manlungkey.com^
@@ -96341,6 +96347,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||naanalle.pl^
 ||naayna.com^$third-party
 ||nabaza.com^$third-party
+||nablounge.com^
 ||nabucuo.com^
 ||nabucuo.com^
 ||nadelle.wantsext.me^
@@ -110227,6 +110234,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sharkcloud.app^
 ||sharpspring.com^$third-party
 ||sharrysweb.com^
+||shasetsu.jp/metrics.js
 ||shatterloop.com^
 ||shavetape.cash/stat/
 ||shaxiq.com^
@@ -111086,6 +111094,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||slonlyuse.shop^
 ||slonlyuse.shop^
 ||slopesoap.com^
+||slorepo.com/v2/assets/srmeasure.js
 ||slot.union.ucweb.com^
 ||slotabrosdev.zharev.com^
 ||slotabrosuat.zharev.com^
