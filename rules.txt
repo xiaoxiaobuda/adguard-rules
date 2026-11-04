@@ -1154,6 +1154,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /alog.min.js
 /alog/dp.min.js
 /amazon_linker.min.js
+/amc.gif?
 /amp-access/cta/*
 /amp-access/cta?
 /amp-access/ping?
@@ -2164,6 +2165,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /function-widget-*qrCode
 /funnel-builder/assets/live/js/tracks.min.js
 /fusion/lucid/data/*
+/g/collect?
 /g_track.php?
 /ga-audiences?
 /ga-events.js
@@ -4365,6 +4367,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /v1/stats/track
 /v1/tracker.js
 /v1/viewport_events
+/v1/vitals?
 /v2/pv-data?
 /v2/stats/1*/1*$third-party
 /v2/stats/9*$third-party
@@ -49213,6 +49216,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||alpha1trk.com^
 ||alpharank.io/api/pixel/
 ||alphasimplex.actonservice.com^
+||alphwidget.com^$third-party
 ||alpineactor.com^
 ||alpixtrack.com^$third-party
 ||alquiler.aldflex.es^
@@ -50824,6 +50828,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.comm.miui.com/calendar^
 ||api.comm.miui.com/calendar^
 ||api.comm.miui.com^
+||api.community.fox.com/*/metrics
 ||api.competition.intl.miui.com^
 ||api.config-security.com/first
 ||api.coolguang.com^
@@ -52852,6 +52857,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ar88819.com^
 ||ar9.atwola.com^
 ||ar99899.com^
+||araba.nl/__l5e/events.$script
+||araba.nl/~api/analytics
 ||aragenbio.actonservice.com^
 ||aragonresearch.actonservice.com^
 ||aralego.com^
@@ -53216,6 +53223,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||assets.modehypertext.com^
 ||assets.moneymade.io/js/fp.min.js
 ||assets.oupe.es^
+||assets.poxo.com/jet/jet.js
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
 ||assets.s-bol.com/AppMeasurement-
 ||assets.salesmartly.com^
@@ -58283,6 +58291,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.dashenya.com^
 ||cdn.data.video.iqiyi.com/cdn/qiyiapp/20180427/203554wae1dc4b65e4a3970e374e5e747b71824/com.qiyi.plugin.wallet.apk$app=com.qiyi.video
 ||cdn.data.video.iqiyi.com/cdn/qiyiapp/20180427/203554wae1dc4b65e4a3970e374e5e747b71824/com.qiyi.plugin.wallet.apk$app=com.qiyi.video
+||cdn.datamanager.co.kr/0/tcsdm.js
 ||cdn.dcloud.net.cn^
 ||cdn.debugbear.com^$third-party
 ||cdn.dewu.com^
@@ -58368,6 +58377,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.net.elogia.net^
 ||cdn.newapi.com^
 ||cdn.one.store/xdomain_cookie.html
+||cdn.onetag.co.kr/0/tcs.js
 ||cdn.onetrust.com^
 ||cdn.optaim.com^
 ||cdn.optimizely.com^
@@ -63987,6 +63997,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||datacollector-dre.dt.hicloud.com^
 ||datacollector-sea.soulapp.cn^
 ||datacomm.ch^*/count.cgi?
+||dataconsumed.com^
 ||datacoral.com^$third-party
 ||datacoral.io^$third-party
 ||datacygnal.io^$third-party
@@ -65104,6 +65115,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dicancele.fun^
 ||dicecandies.com^
 ||dicemoments.com^
+||dicezing.com^
 ||did-it.com^$third-party
 ||didi3963.com^
 ||didi51.dhgsqjcnd.com^$important
@@ -82937,6 +82949,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||js-apac-ss.ysm.yahoo.com^
 ||js-cdn.trafficmanager.net^
 ||js-delivr.com^$third-party
+||js-error-tracer-api.cafe24.com^
 ||js-rwk.pull.etoote.com^
 ||js-whjx.com^
 ||js.*2023*.live^
@@ -88295,6 +88308,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||loje863.cc^
 ||lokalleads-cci.com^$third-party
 ||lokalwerben.t-online.de^
+||loki-ingest.fox.com^
 ||lokindt.com^
 ||lokindt.com^
 ||lokngd.com^
@@ -93494,6 +93508,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||metrics.kadcyla.com^
 ||metrics.kaercher.com^
 ||metrics.kao.com^
+||metrics.kapa.ai^
 ||metrics.kawai-juku.ac.jp^
 ||metrics.kayosports.com.au^
 ||metrics.kempinski.com^
@@ -97153,6 +97168,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nicefollows.com^
 ||nicehuh.com^
 ||nicelabel.cc^
+||nicemenswear.com^
 ||nicequest.com^$third-party
 ||nichibenren.or.jp^
 ||nickles.de/ivw/
@@ -97782,6 +97798,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nthyn.com^
 ||nthyn.com^
 ||ntlab.org^$third-party
+||ntm.pstatic.net/ex/nlog-v2.js
+||ntm.pstatic.net/ex/nlog.js
 ||ntm.pstatic.net/scripts/ntm_$domain=naver.com
 ||ntmb.de/count.html?
 ||ntopcd.underarmour.nl^
@@ -98131,6 +98149,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||objecthero.com^
 ||objectpartners.actonservice.com^
 ||objectsnetwork.com^
+||objsoftware.com^
 ||obl74.xyz^
 ||obl74.xyz^
 ||oblivionfleet.com^
@@ -98664,6 +98683,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||omhoa.com^
 ||omiki.com^$third-party
 ||omine.org^$third-party
+||ominousmusic.com^
 ||omjtca.emlakjet.com^
 ||omkt.co^$third-party
 ||omlube.com/O/1000970O3001405O1O.js
@@ -99222,6 +99242,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||operationchicken.com^
 ||operationnail.com^
 ||operationsports.com/wp-json/navy/v1/tag?pid=
+||operawise.com^
 ||opgirl-tmp.adbxb.cn^
 ||oph7o.montecarlosbm-corporate.com^
 ||ophan.theguardian.com^
@@ -102593,6 +102614,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prod-asia.shadylady.tech^
 ||prod-cdn-bxdl.91xinyou.com^
 ||prod-events.nykaa.com^
+||prod-foxkit.kts.fox^
 ||prod-mediate-events.applovin.com^
 ||prod.benchmarkemail.com/tracker.bundle.js
 ||prod.ew.srp.navigacloud.com^
@@ -104384,6 +104406,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||quadran.eu^$third-party
 ||quaintcan.com^
 ||qualaroo.com^$third-party
+||qualified.com/packs/js/analytics-
 ||qualifiedblog.com^
 ||qualifioapp.com/egw/events
 ||qualitas-app.hotdoc.com.au^
@@ -106162,6 +106185,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rivcash.com/ajax/log_js_error.php
 ||river.zhidao.baidu.com^
 ||riveralydia.shop^
+||rivo.vin/rivo-stealer/
 ||rivrai.com^$third-party
 ||riwkmo.spacemarket.com^
 ||riwnmh.novasol.co.uk^
@@ -119867,6 +119891,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||taiji.sina.cn^
 ||taiji.sina.cn^
 ||tailoredcopy.com^
+||tailscale.com/api/rudderstack-proxy/
 ||tailscale.io^
 ||tailtarget.com^
 ||tailtarget.com^$third-party
