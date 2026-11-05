@@ -612,6 +612,8 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /*JmVu.js?sp=
 /*JmVu.js?tg=
 /*_*_aubi.js$third-party
+/.bootscripts/analytics.min.js
+/.bootscripts/hubPagesViewDurationTracker.min.js
 /.netlify/scripts/rum
 /.rum/@adobe/helix-
 /.webscale/rum?
@@ -66080,6 +66082,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dojyiu8.com^
 ||dol.deliver.ifeng.com^
 ||doll-public.huiyuewang.cn^
+||dollarbouquet.com^
 ||dollardelta.com^
 ||dollarpuzzle.com^
 ||dollarthrill.com^
@@ -99387,6 +99390,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||orchidscape.net^
 ||ordbng.extra.com.br^
 ||ordergroove.com/log/offer?
+||orderjumper.com^
 ||ordidc.com^
 ||ordidc.com^
 ||ordpmx.victorianplumbing.co.uk^
@@ -100601,6 +100605,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||paydashboard.actonservice.com^
 ||paydns.wechatpay.cn^
 ||paydxm.com^
+||payiris.com^
 ||payment.yodo1api.com^
 ||payments-amazon.com^*/analytics.js
 ||payments.acutx.org^
@@ -100874,6 +100879,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pec8.143.cc^
 ||ped-luxevo.net^
 ||pedailyu.com^
+||pedaldudes.com^
 ||pedp.k8.com^
 ||pedropanther.com^
 ||pee.cn^
@@ -101886,6 +101892,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||playstats.v.duowan.com^
 ||playtomic.com/Tracker/
 ||playvideohd.com/cdn-cgi/trace
+||playwarren.com^
 ||plbcsd.vidaxl.se^
 ||plbs9k.icu^
 ||plbs9k.icu^
