@@ -1321,6 +1321,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /api/stat?
 /api/statsd|$~third-party,xmlhttprequest
 /api/stn/audience|$xmlhttprequest
+/api/t/gtm/*
 /api/track?guid
 /api/trk?
 /api/v1/EndpointTracker
@@ -1569,6 +1570,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /call.tracker.js
 /callbacks/stats?
 /capture_client.js
+/ccm/collect?
 /cdn-cgi/apps/body/*$script,~third-party
 /cdn-cgi/apps/head/*$script,~third-party
 /cdn-cgi/beacon/*
@@ -1707,6 +1709,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /cogi-etracker.js
 /coherentpath.link/o/*$image
 /cohesion-latest.min.js
+/cohesion/xs2.html
 /coinhive.min.js
 /coinimp-cache/*
 /collect.gif?
@@ -1714,6 +1717,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /collect/?dp=
 /collect/kasupport
 /collect/kf?
+/collect/metric|
 /collect/pageview?
 /collect/pv?
 /collect/stats?
@@ -1935,6 +1939,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /dyxia/js/ny
 /e.customeriomail.com/e/o/*$image
 /e.gif?
+/e?k=*&v=$image
 /e_stat?g_id=
 /eatms.js
 /ecanalytics.js
@@ -2281,6 +2286,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /getMongoAd^
 /getSiteAd^
 /getSiteAd^
+/get_cookie_id?cookie_domain=
 /get_geoip?
 /get_message/popup?
 /get_message/popup?
@@ -2930,6 +2936,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /metrics/bambuser.min.js
 /metrics/event?
 /metrics/ga.js
+/metrics/ga/*
 /metrics/init?
 /metrics/onload
 /metrics/ping?
@@ -3707,6 +3714,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /sfCounter/*
 /sfdc/networktracking.js
 /sftouch?branchId=
+/sgtm/g/*
 /sgtracker.js
 /shared/sentry/*
 /sharing.swf
@@ -4023,6 +4031,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /tagging?env=
 /tagmanager/event?
 /tagmanager/pptm.js
+/tagmetrics/*
 /tags.js?org_id=
 /tailtarget.js
 /talpa-analytics-pro/*
@@ -4075,6 +4084,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /tjx-tracking-data.js
 /tking/ajax_track_stats?
 /tlinks.nordaccount.com/q/*$image
+/tms?id=
 /tncms/tracking.js
 /token?referer=
 /tong*ji.js
@@ -4363,6 +4373,8 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /v.php?siteid=&id=
 /v0/amp-addthis-*.js
 /v1/adn/visit|
+/v1/events/publish|
+/v1/external/visitor|
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
 /v1/pixel?
@@ -22851,6 +22863,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 ://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.news|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtm.*.js?st=
+://gtm.prod.
 ://gtrack.*/dye
 ://i.*@groovehq.com.gif$image
 ://insights-collector.
@@ -22883,6 +22896,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 ://segment-api.
 ://segment-cdn.
 ://sg1.wizrocketmail.net/r?e=$image
+://sgtm.
 ://sgtm.*.js?
 ://signal.*/hardal
 ://signals.*/hardal
@@ -45760,6 +45774,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||abs.twimg.com/responsive-web/client-web/main.$script,replace=/t\.isTrue\("rweb_home_jot_context_enabled"\)/false/
 ||absentairport.com^
 ||absinfo.eagle.org^
+||absmartly.io^$third-party
 ||absod.video.iqiyi.com^
 ||absoft.actonservice.com^
 ||absolstats.co.za^$third-party
@@ -49096,6 +49111,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||alj1s9j1.com^
 ||aljazeera.com/thirdparty/nr.js
 ||alkemics.com^$third-party
+||alketech.eu^$third-party
 ||all-live.secutre2storeapple.zhenshi001.com^
 ||all-top.ru/cgi-bin/topcount.cgi?
 ||all.aliyunddos0158.com^
@@ -50645,6 +50661,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api-dynhost.hismarttv.com^
 ||api-e189.21cn.com^
 ||api-eas.52qumao.com^
+||api-engage-us.sitecorecloud.io^
 ||api-event.falconnet.app^
 ||api-exc.dutils.com^
 ||api-exc.hiaiabc.com^
@@ -51761,6 +51778,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||app.experience297.com^
 ||app.explico.sg^
 ||app.fabulousfox.com^
+||app.factori.ai/personica.js
 ||app.fairparkdallas.com^
 ||app.fans.wolveslynx.com^
 ||app.fashalot.com^
@@ -52004,6 +52022,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||app.libertyfirstcreditunionarena.com^
 ||app.libertyflames.com^
 ||app.libre.org^
+||app.lifesight.io/personica.js
 ||app.link.livibank.com^
 ||app.link.nba.com^
 ||app.link/_r?$script,third-party
@@ -54568,6 +54587,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bapages.carte-gr.total.fr^
 ||baptisttop1000.com^$third-party
 ||baqend.com/v1/rum/
+||baqend.com^$third-party
 ||bar-i.iqiyi.com^
 ||bar.baidu.com^
 ||bar2.dcloud.net.cn^
@@ -72188,6 +72208,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fuooms.aetrex.com^
 ||fupocdn69.ynodd.com^
 ||fupozbz11a.com^
+||furiousvinyl.com^
 ||furlhp.kango.mynavi.jp^
 ||furnishings.bellacor.com^
 ||furnituredl.istaging.co^
@@ -74940,6 +74961,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gromore.pangolin-sdk-toutiao.com^
 ||gromore.pangolin-sdk-toutiao.com^
 ||groove.so/unlocker.js
+||grooveguides.com^
 ||groovespacing.com^
 ||groovyornament.com^
 ||grouchybrothers.com^
@@ -87612,6 +87634,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ljrtb.cn^
 ||ljyipz.nugnes1920.com^
 ||ljyy846.xyz^
+||ljz.zunxch.cn^
 ||ljzxdu.largus.fr^
 ||lk.parisfoodies.fr^
 ||lk.vrstories.com^
@@ -95331,6 +95354,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||monsido.com^$third-party
 ||monstat.com^$third-party
 ||monster.branch.rocks^
+||monster.com/visitor/tracking-v11.js
 ||monsteredward.com^
 ||monsteredward.com^
 ||monsterjokes.com^
@@ -101529,6 +101553,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pixel.nudgify.com^
 ||pixel.patch.com^
 ||pixel.poptok.com^
+||pixel.profound.click^
 ||pixel.propublica.org^
 ||pixel.pub.lilyai.net^
 ||pixel.quantserve.com^
@@ -102290,6 +102315,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||potatoinvention.com^
 ||potentmagic.com^
 ||potsdamer-stadtplan.com/t.gif
+||pottylife.com^
 ||potz123.oss-cn-shenzhen.aliyuncs.com^
 ||poupamais-pt.cfd^
 ||pow.ryy176.com^
@@ -102715,6 +102741,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||progressive.com/Log/
 ||progressivedev.actonservice.com^
 ||projecta-common-1258344701.file.myqcloud.com^
+||projectglove.com^
 ||projectmultatuli.org/analytics/
 ||projectpoi.com^
 ||projectpoi.com^
@@ -102900,6 +102927,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pstvvb.xyz^
 ||pswec.com/px/$third-party
 ||pswgpb.seshop.com^
+||psychcentral.com/api/drivers/
 ||psychedelicarithmetic.com^
 ||psychedelicchess.com^
 ||pt-my-api-ads0345-sdfk.siu5.com^
@@ -105298,6 +105326,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||receptivereaction.com^
 ||recessrain.com^
 ||recipearena.com^
+||recipediner.com^
 ||recipefy.net/analytics.js
 ||recipepile.net^
 ||recipepin.com^
@@ -106745,6 +106774,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rum.condenastdigital.com^
 ||rum.corewebvitals.io^
 ||rum.cronitor.io^
+||rum.haystack.es^
 ||rum.hlx.page^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
@@ -119859,6 +119889,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tagdelivery.mayoclinic.org^
 ||tagger.ope.scmp.com^
 ||tagger.opecloud.com^
+||tagging.conde.digital^
 ||tagging.shiftdigitalapps.io^
 ||tagging.sliponline.nl^
 ||tagging.steelseries.com^
@@ -131608,6 +131639,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wsall.svtznj.cn.gccdn.net^
 ||wsall.tqpbs.cn.gccdn.net^
 ||wsall.ynhcpf.com.gccdn.net^
+||wsall.zunxch.cn.gccdn.net^
 ||wsandco.actonservice.com^
 ||wsba.51y5.net^
 ||wschao.xyz^
