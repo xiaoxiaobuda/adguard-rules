@@ -1345,6 +1345,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /api/v3/getPageVisits
 /api/v3/trackSegmentEvent
 /api/video/stats/*$xmlhttprequest
+/api/viewcontent.php?
 /api/web/v1/tracker$ping
 /api_adlog.php?
 /api_ip_info.php
@@ -26558,6 +26559,8 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||pv.sohu.com/cityjson$domain=ems.com.cn
 @@||pv.sohu.com^
 @@||pvip.funshion.com^
+@@||pvp.icreate.qq.com^
+@@||pvp.qq.com^
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
 @@||px.wpk.quark.cn^
@@ -27694,6 +27697,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||woocall.sina.com.cn^
 @@||work.weixin.qq.com^
 @@||world.qpic.cn^
+@@||world.qq.com^
 @@||worldwide.sogou.com^
 @@||wpfc.ml/b.gif$image,domain=holybooks.com
 @@||wpvip.duba.net^
@@ -27940,6 +27944,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||wxmini-api.uyouqu.com^
 @@||wxpay.qpic.cn^
 @@||wxpaylogo.qpic.cn^
+@@||wxq.qq.com^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
 @@||wzzqlm.erbaiwulaoge.com^
@@ -27994,6 +27999,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||yieldlove.com/v2/yieldlove-stroeer.js$domain=kino.de
 @@||yimg.com/ud/fp/js/Ads.*.min.js$domain=mobi.yahoo.com
 @@||yimg.com/ud/fp/js/Ads.*.min.js$domain=mobi.yahoo.com
+@@||yingdi.qq.com^
 @@||yixiu-abtest.alicdn.com^
 @@||yjtag.yahoo.co.jp/tag?$script,domain=bousai.yahoo.co.jp
 @@||ykimg.com^
@@ -53322,6 +53328,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||astarsbuilding.com^
 ||astat.bugly.qq.com^
 ||astat.nikkei.com^
+||astatic.ccmbg.com/hz.js
 ||asteriaed.actonservice.com^
 ||asteriresearch.com^$third-party
 ||asterpix.com/tagcloudview/
@@ -81192,6 +81199,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||intl.iqiyi.com/control/feature_switch?
 ||intl.iqiyi.com/control/feature_switch?
 ||intlsucus.ucweb.com^
+||intobuddy.com^
 ||intrastats.com^$third-party
 ||intricateberry.com^
 ||introjava.com^
@@ -86467,6 +86475,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||limei.com^$third-party
 ||limei.com^$third-party
 ||limepeal.com^
+||limitowl.com^
 ||limone.iltrovatore.it^
 ||lin22.*.top^
 ||lin22.2x2yep.top^
@@ -105482,6 +105491,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||redwingforbusiness.redwingsafety.com^
 ||reebok.jp/resources/js/analysis/tracker.js
 ||reedbusiness.net^$third-party
+||reelcombat.com^
 ||reelgood.com/v3.0/checkip
 ||reelup.io^$third-party
 ||reeokx.reima.com^
@@ -108594,6 +108604,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||scriptsgratuits.com/sg/stats/
 ||scriptshead.com^$third-party
 ||scrollservice.com^
+||scrubchi.com^
 ||scrubswim.com^
 ||scrvw3.com^
 ||scrvw3.com^
