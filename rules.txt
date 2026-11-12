@@ -88519,6 +88519,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lowkeypalmtree.com^
 ||lowlatencydata.com^
 ||lowvolumes.com^
+||loyaltymatrix.com^
 ||lozano.net.anwalt.de^
 ||lozjnq.stateandliberty.com^
 ||lp-eq.mitsuichemicals.com^
@@ -91948,6 +91949,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mashangpaidui.xyz^
 ||mashery.com/analytics/
 ||maskbaby.com.cn^
+||maskedadmin.com^
 ||masky.biddingx.com^
 ||mass.mall044.com^
 ||masseurexpress.com^
@@ -106812,6 +106814,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rubiconproject.com^
 ||rubiconredirect.com^$third-party
 ||rubouthunger.com^
+||rubwonders.com^
+||rubymoonwinery.com^
 ||rubyswinehouse.com^
 ||rudder-server-prd.arena.im/v1/track
 ||rudder-tracking.rudderstack.com^
@@ -111136,6 +111140,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||skej236.icu^
 ||skeplqy.cn^
 ||sketchpals.com^
+||sketchpodcast.com^
 ||skf.actonservice.com^
 ||skfj5d.com^
 ||skfj5d.com^
