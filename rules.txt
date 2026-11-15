@@ -76238,6 +76238,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hbalx.cn^
 ||hbandier.com^
 ||hbandier.com^
+||hbb.sizidn.cn^
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||hbd.url.cn^
@@ -89614,6 +89615,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.cn-oyi-okx.com.cn^
 ||m.cnhubei.com^
 ||m.cnmjcn.com^
+||m.cnr.cn^
 ||m.cocounion.com^
 ||m.codlw.com^
 ||m.coenr.com^
@@ -115473,6 +115475,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||souisa.com/analytics/
 ||soul-ad.soulapp.cn^
 ||soulclicking.com^
+||soulfreedom.net^
 ||soulsoul.xyz^
 ||soulsoul.xyz^
 ||soundcloud.com^$ping
@@ -122563,6 +122566,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||toptracker.ru^$third-party
 ||torbit.com^$third-party
 ||torbobit.net/js/analytics/
+||torhosting.net^
 ||tori.fi/img/none.gif$image
 ||torimochi.line-apps.com^
 ||torimochi.line-apps.com^
@@ -122608,6 +122612,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tourmake.it^*/stat/
 ||tourmake.it^*/stats?
 ||tourradar.com/def/partner?$third-party
+||tourspicker.com^
 ||toushibao.com^
 ||toushibao.com^
 ||tout.com/tracker.js
@@ -129256,6 +129261,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vinted.it/relay/events
 ||vinted.nl/relay/events
 ||vinub.com^$third-party
+||vinylanswer.net^
 ||vioa.365bcg.com^
 ||violetdemise.com^
 ||viously.com^*/mt?
@@ -132043,6 +132049,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wsall.qyrje.com.gccdn.net.cd23f.com^
 ||wsall.qyrje.com.gccdn.net^
 ||wsall.qzxtsg.*^
+||wsall.sizidn.cn.gccdn.net^
 ||wsall.svtznj.cn.gccdn.net^
 ||wsall.tqpbs.cn.gccdn.net^
 ||wsall.ynhcpf.com.gccdn.net^
