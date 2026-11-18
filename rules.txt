@@ -1637,6 +1637,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /cklog.js
 /cl.animate.co.jp/c/*$image
 /cl.mos.jp/q/*$image
+/cl/2x2.json
 /clear.gif?
 /click-tracking.js
 /click.*/q/*$image
@@ -1735,6 +1736,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /collect/view_count?
 /collect?appName
 /collect?callback=
+/collect?configId=
 /collect?d=
 /collect?data=
 /collect?eid=
@@ -2476,6 +2478,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /i.php?i=
 /i.png?id=
 /i/api/kn/afterclick/*$~third-party,xmlhttprequest
+/i/v0/e/*
 /i2a.js
 /i2yesCounter.js
 /i?aid=*&se_ac=open&$image
@@ -2550,6 +2553,8 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /indexad*
 /indexad*
 /indextools.js
+/ingest/array/*/config.js
+/ingest/i/v0/*
 /init?*&fallbackUserId=
 /inline-pixel.js
 /inpl.measure.jssc
@@ -3002,6 +3007,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /monitor?rtype=
 /monitor_analytic.js
 /monitor_browser/collect/*
+/monitor_web/collect?
 /monitor_web/settings/browser-settings?
 /monitoring?o=$xmlhttprequest
 /monitus.js
@@ -3144,6 +3150,9 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /optimizerApi?event=
 /orichipixel.min.js
 /ot_e404.gif?
+/otel/v1/logs
+/otel/v1/metrics
+/otel/v1/traces
 /other/adlist|
 /other/adlist|
 /other/js/*
@@ -3429,6 +3438,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /printpixel.js
 /printtracker.js
 /prnx_track.js
+/pro-analytics.
 /probance_tracker-min.js
 /probance_tracker.js
 /prod-puc-all/*/open^$image
@@ -4529,6 +4539,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /web-pixel-shopify-custom-pixel@
 /web-pixels@*/web-pixel-*/sandbox/modern/*
 /web-vitals-analytics.js
+/web-vitals-with-attribution.js
 /web-vitals.iife.js
 /web/push?
 /webAnalytics/*
@@ -4578,6 +4589,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /wizrocketmail.net/r?$image
 /wlexpert_tracker.js
 /wmxtracker.js
+/woocommerce-analytics/*
 /woocommerce-google-adwords-conversion-tracking-tag/*
 /woopra.js
 /wp-admin/admin-ajax.php?action=adblockvisitor$~third-party
@@ -23442,6 +23454,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||adobedtm.com/extensions/$domain=antena3.com|apple.com|atresmedia.com|atresplayer.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|lasexta.com|telus.com|verizon.com|xfinity.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||adobedtm.com^*-libraryCode_source.min.js$domain=doda.jp
+@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|aircanada.com|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bbva.com.ar|bbvacib.com|bbvauk.com|bestbuy.ca|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|eonline.com|etihad.com|eurosport.de|fedex.com|guitarcenter.com|healthsafe-id.com|healthy.kaiserpermanente.org|helvetia.com|hgtv.com|hilton.com|homedepot.ca|hydroflask.com|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|lifetime.life|lowes.com|manager-magazin.de|marriott.com|medscape.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|osprey.com|philips.com|plasticsnews.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|snsbank.nl|ssrn.com|starwarscelebration.com|subway.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
 @@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|aircanada.com|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bbva.com.ar|bbvacib.com|bbvauk.com|bestbuy.ca|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|eonline.com|etihad.com|eurosport.de|fedex.com|guitarcenter.com|healthsafe-id.com|healthy.kaiserpermanente.org|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|lifetime.life|lowes.com|manager-magazin.de|marriott.com|medscape.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|osprey.com|philips.com|plasticsnews.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|snsbank.nl|ssrn.com|starwarscelebration.com|subway.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
 @@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|aircanada.com|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bbva.com.ar|bbvacib.com|bbvauk.com|bestbuy.ca|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|etihad.com|eurosport.de|fedex.com|guitarcenter.com|healthsafe-id.com|healthy.kaiserpermanente.org|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|lifetime.life|lowes.com|manager-magazin.de|marriott.com|medscape.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|osprey.com|philips.com|plasticsnews.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|snsbank.nl|ssrn.com|starwarscelebration.com|subway.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
 @@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|aircanada.com|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bbva.com.ar|bbvacib.com|bbvauk.com|bestbuy.ca|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|etihad.com|eurosport.de|fedex.com|guitarcenter.com|healthsafe-id.com|healthy.kaiserpermanente.org|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|lifetime.life|lowes.com|manager-magazin.de|marriott.com|medscape.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|philips.com|plasticsnews.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|snsbank.nl|ssrn.com|starwarscelebration.com|subway.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
@@ -24404,6 +24417,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||d.toutiao.com^
 @@||d1ayxb9ooonjts.cloudfront.net^
 @@||d1z2jf7jlzjs58.cloudfront.net^
+@@||d2gt2ux04o03l1.cloudfront.net^$third-party,domain=avery.com
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
 @@||d2na2p72vtqyok.cloudfront.net^
 @@||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js$domain=tatacliq.com
@@ -29703,6 +29717,9 @@ forum.portableappc.com##div.topadsense,div.bottomadsense
 forum.portableappc.com##div.topadsense,div.bottomadsense
 forums.kali.org##ins.adsbygoogle
 forums.kali.org##ins.adsbygoogle
+foxbusiness.com,foxnews.com##+js(aeld, /load|error/, \,G=null)\,clearTimeout(K)\,!)
+foxbusiness.com,foxnews.com##+js(nostif, \,G=null)\,clearTimeout(K)\,!)
+foxbusiness.com,foxnews.com##+js(set-cookie-reload, admbenefits, 1)
 foxnews.com##+js(aeld, /load|error/, , G=null), clearTimeout(K), !)
 foxnews.com##+js(nostif, , G=null), clearTimeout(K), !)
 foxnews.com##+js(set-constant, admrlWpJsonP, emptyObj)
@@ -39802,6 +39819,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||6nwp0r33a71m.app.dev.cardahealth.com^
 ||6nxdfc.top^
 ||6osurvos.fn.bytedance.net^
+||6otzxx06krdo0thpicbm.1gzg3awzn8wk.ckrkrk.cn^
 ||6p7t.cl.app^
 ||6pal.consobaby.com^
 ||6pctuhriw.com^
@@ -40710,6 +40728,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||91.yelang8.cc^
 ||91037.icu^
 ||91057387a37bd30ed6442c5dae2887703dccda98d5b74beb.dlied1.cdntips.net^
+||910928.toplakehorizon.com^
 ||910weixin.com^
 ||911.cc^
 ||911.cc^
@@ -46024,6 +46043,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||abram.xin^
 ||abram.xin^
 ||abre.ai^
+||abritel.fr/tagging-client
 ||abrnfctkn.xyz^
 ||abrnfctkn.xyz^
 ||abroad-ad.kingsoft-office-service.com^
@@ -53179,6 +53199,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||arbattadr.in^
 ||arc.io/widget.min.js
 ||arc.io^$third-party
+||arc.msn.com^
 ||arc.pub/clavis/training/events
 ||arcadeweb.com^$third-party
 ||arch.net.jumia.ug^
@@ -54074,6 +54095,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||axcdt.cn^
 ||axcdy.cn^
 ||axcdy.cn^
+||axcii.com^
 ||axcs.ashcnq.cn^
 ||axd02ot.cfd^
 ||axenova-prime-91.net^
@@ -55461,6 +55483,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bendingspoonsapps.com/v4/web-events
 ||beneficios.davivienda.hn^
 ||beneficios.davivienda.sv^
+||benefitboys.com^
 ||benefits.aon.com^
 ||benefitssense.com^
 ||benelux2.secureforms.mcafee.com^
@@ -57782,6 +57805,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||caardinal.com^
 ||caardinal.com^
 ||caast.tv/v1/record.gif?
+||cabstrategy.com^
 ||cac-ocsp.digicert.com.edgekey.net^
 ||cacaca.0571yy.com^
 ||cacaca.sp96878.com^
@@ -58138,6 +58162,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||carpentercomparison.com^
 ||carpoolmatch.com^
 ||carpoolqueen.com^
+||carrentals.com/tagging-client
 ||carreras.unisabana.edu.co^
 ||carrot3.xn--sqr29ix5h7p6c.com.w.kunlunaq.com^$important
 ||carrot3.xn--sqr29ix5h7p6c.com.w.kunlunaq.com^$important
@@ -59152,6 +59177,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chaoxing.com^$domain=igangju.com
 ||chaoxing.com^$domain=igangju.com
 ||chaport.com/api/public/v1/stats/
+||character.ai/scripts/googlefc-config.js
 ||chargebee.com/api/internal/track_info_error
 ||chargecracker.com^
 ||charitable.lingji.vip^
@@ -59220,6 +59246,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chddh.com/G1G/
 ||chdezxp.com^
 ||chdezxp.com^
+||cheaptickets.com/tagging-client
 ||chebse.com^
 ||check.ddos-guard.net^$third-party
 ||check.frbservices.org^
@@ -60588,6 +60615,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||co-vcode-od.vivoglobal.com^
 ||co.dtech.baofeng.com^
 ||coalkitchen.com^
+||coalmerchants.com^
 ||coastersim.com^
 ||coatfood.com^
 ||cobaltgroup.com^$third-party
@@ -60709,6 +60737,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||colbass.com/Service/Analytics.asmx/
 ||coldbalance.com^
 ||coldcallpro.com^
+||coldcrucible.com^
 ||coletor.terra.com^
 ||colgui.vidaxl.pt^
 ||coll2onf.com^$third-party
@@ -61047,6 +61076,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||comms.services.global.ntt^
 ||comms.supplychain.nhs.uk^
 ||comms.thewhiskyexchange.com^$image
+||commswap.com^
 ||communicate.apcerls.com^
 ||communicate.choicelogistics.com^
 ||communicate.cision.ca^
@@ -61746,6 +61776,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cop.my^
 ||copernicus.cjs.com.cn^
 ||copilot-telemetry.githubusercontent.com^
+||copilot.com/events
 ||copperegg.com^$third-party
 ||copperstills.net^
 ||copush.com^$third-party
@@ -69995,6 +70026,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||event.ortec.com^
 ||event.platform.autotrader.com.au^
 ||event.platform.tunein.com^
+||event.prod.asgard.hullabalook.com^
 ||event.raise3d.cn^
 ||event.seatradecruiseevents.com^
 ||event.seatradecruiseglobal.com^
@@ -70348,6 +70380,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||exp.qumi.com^
 ||expansioneggnog.com^
 ||expedia.*/cl/
+||expedia.*/tagging-client
 ||expedia.com/static/default/default/scripts/siteAnalytics.js
 ||expedia.com/vaclog/
 ||expendablekmr.kugou.com^
@@ -70572,6 +70605,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||f1.zaojv.com^
 ||f1190.com^
 ||f12stag.kkmh.com^
+||f1a.cn^
 ||f1c.i.biquge5200.com^
 ||f1ccff0.n7h3s2ce.top^
 ||f1gt.yl.ag^
@@ -71242,6 +71276,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fewd29812.cc^
 ||fewjuice.com^
 ||fewkittens.com^
+||fewo-direkt.de/tagging-client
 ||fexclick.baidu.com^
 ||ff.nsg.org.ua^
 ||ff.pdf.ac^
@@ -72369,6 +72404,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fsbozl.dillards.com^
 ||fscareers.epoise.com^
 ||fscareerstest.epoise.com^
+||fscdn.eppo.cloud/api/flag-config/v1/config?
 ||fsd2.digital^$third-party
 ||fse.net.anwalt.de^
 ||fsegfy.lepoint.fr^
@@ -77423,6 +77459,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hotstar.com/v1/track
 ||hottraffic.nl^$third-party
 ||hotupgrade.hpplay.cn^
+||hotwire.com/tagging-client
 ||houdaolj.com^
 ||house27.ch/counter/
 ||housecrm.com.br/track/
@@ -81321,6 +81358,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||insights.avad3.com^
 ||insights.biallo.de^
 ||insights.bodogaffiliate.com^
+||insights.builderprofile.aws.dev^
 ||insights.cdt.ch^
 ||insights.diamond-consultants.com^
 ||insights.golubcapital.com^
@@ -86506,6 +86544,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lf3-analytics.bytescm.com^
 ||lf3-app-pkg-sign.bytesmanager.com^
 ||lf3-article.toutiaostatic.com^
+||lf3-data.volccdn.com/obj/data-static/log-sdk/collect/$domain=kimi.ai
 ||lf3-developer.bytemastatic.com^
 ||lf3-luckycat.byteug.com^
 ||lf3-orange.byteorge.com^
@@ -96307,6 +96346,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||murdoog.com^*/Pixel/$image
 ||mus-nettech.youku.com^
 ||musclesaskewfeeding.com^
+||muse.ai/api/auth/caa-events
 ||muses-ugc.iqiyi.com^
 ||musescore.com/components/data?
 ||musescore.com/components/log/$ping
@@ -97770,6 +97810,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com^
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com^
 ||nlog.baidu.com^
+||nlog.instajob.ai^
 ||nlp-japan.life-and-mind.com^
 ||nlp-youdao.hl.cn^
 ||nltcs.idfnet.net^
@@ -98773,6 +98814,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||offline-adv.oray.com^
 ||offline-adv.oray.com^
 ||offline.specialcdnstatus.com^
+||offloop.org/_vid/v1/collect
 ||offshoreassets.com^
 ||offshorecyclone.com^
 ||offshoregeology.com^
@@ -99793,6 +99835,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||orbis.actonservice.com^
 ||orbit.jd.com^
 ||orbit.jd.com^
+||orbitz.com/tagging-client
 ||orcapia.com^$third-party
 ||orchidgenius.com^
 ||orchidscape.net^
@@ -101281,6 +101324,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pe06.cn^
 ||pe0p.nt.app^
 ||peacefullimit.com^
+||peachr.tv/s.js
 ||peakcounter.dk^$third-party
 ||peakcreator.com^
 ||pear.ca-eko-globetrotter.fr^
@@ -102733,6 +102777,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pp3381a.cc^
 ||pp385.com^
 ||pp385.com^
+||pp51718xbt.urbwjec.top^
 ||pp8.com^$third-party
 ||pp88.cl.app^
 ||pp96.vip^
@@ -103058,6 +103103,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prodigalpromotion.com^
 ||prodigalpromotion.com^
 ||proditor.sparda.de^
+||prodregistryv2.org^$domain=character.ai
 ||prodsmax.com^
 ||producecopy.com^
 ||producepickle.com^
@@ -103619,6 +103665,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||puy2.cn^
 ||puzzle.spiriteq.com^
 ||pv-track.pxtrkapp.com^
+||pv-track.venatus.com^
 ||pv.alert.autohome.com.cn^
 ||pv.anzhi.com^
 ||pv.cheshi.com^
@@ -107547,6 +107594,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s.shiftrro.com^
 ||s.sick.com^
 ||s.simcoe.com^
+||s.sintra.ai^
 ||s.skimresources.com^
 ||s.smallpdf.com/static/track-js-
 ||s.sofoot.com/script.js
@@ -110456,6 +110504,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sg-cdn.effectivemeasure.net^
 ||sg-cfg-stsdk.vivoglobal.com^
 ||sg-dyb-cdn.jiuyaowangluo.com^
+||sg-fp.apitd.net^
 ||sg-go.experian.com^
 ||sg-log-emagzal.lazada.com^
 ||sg-public-data-api.hoyoverse.com^
@@ -118341,6 +118390,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stay.lottehotel.com^
 ||stayaction.com^
 ||stayforlong.com/api/kafka/tracking
+||stayz.*/tagging-client
 ||stayz.com.au/cl/data/omgpixel.json
 ||stbg.bankonline.sboff.com^
 ||stbg.looksee.co.za^
@@ -120249,6 +120299,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||taat00889.com^
 ||tab.video.qq.com/tab/GetTabRemoteConfig*^
 ||tab.video.qq.com^
+||tab.volces.com/service/2/abtest_config/
 ||tab.volces.com^
 ||tabcarts.com^
 ||tableleaders.com^
@@ -125337,6 +125388,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||travel.x.unikoom.com^
 ||travelerpic.com^
 ||travelmarketreport.actonservice.com^
+||travelocity.com/tagging-client
 ||traveloka.com/api/v1/tvlk/events
 ||travelrobotflower.com^$third-party
 ||traversedlp.com^$third-party
@@ -128620,6 +128672,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||v2.jiathis.com^
 ||v2.log.hunantv.com^
 ||v2.oskwai.com^
+||v2.ppjvcl.com^
 ||v2.reachmax.cn^
 ||v2.uyan.cc^
 ||v2.uyan.cc^
@@ -129775,6 +129828,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vrasto.openapp.link^
 ||vrbo.com/edap/elo/v1/event/beacon
 ||vrbo.com/serp/api/metrics
+||vrbo.com/tagging-client
 ||vrbrothers.com^
 ||vrcamdl.istaging.com^
 ||vrcamdltest.istaging.com^
@@ -131097,6 +131151,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||webvitals.luxnet.ua^
 ||webvoo.com/wt/Track.aspx
 ||webvoo.com^*/logtodb.
+||webworksworld.com^
 ||webworx24.co.uk/123trace.php
 ||webxmr.com^$third-party
 ||webzel.com/counter/
@@ -131531,6 +131586,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wipew.com^
 ||wipo.int/wipo-analytics/
 ||wirecomic.com^
+||wiredcarts.com^
 ||wiredforcoffee.com^
 ||wiredminds.de^$third-party
 ||wirenewsletter.com^
@@ -131867,6 +131923,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wosoni.com/tuku^
 ||wotasia2.login.wargaming.net.iberostar.com^
 ||wotasia3.login.wargaming.net.iberostar.com^
+||wotif.*/tagging-client
 ||woutkw.type.jp^
 ||wowanalytics.co.uk^
 ||wowanalytics.co.uk^$third-party
@@ -132785,6 +132842,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.bibilm.com^
 ||www.biligame.com^
 ||www.binance.com^
+||www.bing.com/th?pid=$domain=copilot.com
 ||www.biquge5200.cc/images/md5.js
 ||www.biquge5200.cc/images/md5.js
 ||www.bis-dic15.com^
@@ -137002,6 +137060,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yourhealth.wellness.providence.org^
 ||yourlifedream.com^
 ||youronestopshop.themagnetgroup.com^
+||yourownexpert.com^
 ||yourporsche.nabooda-auto.com^
 ||yourporscheimg.nabooda-auto.com^
 ||yoursolution.electrified.averydennison.com^
