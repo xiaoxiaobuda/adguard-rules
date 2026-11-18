@@ -28977,6 +28977,7 @@ cbmd.cn##.tong_addver,.header_top_ad,[id^="Advertices"]
 cbssports.com,foxnews.com,gbatemp.net,news.com.au,pcworld.com,usatoday.com##+js(set, admiral, noopFunc)
 cbssports.com,foxnews.com,gbatemp.net,pcworld.com,usatoday.com##+js(set, admiral, noopFunc)
 cbssports.com,foxnews.com,gbatemp.net,usatoday.com##+js(set, admiral, noopFunc)
+cbssports.com,gbatemp.net,news.com.au,pcworld.com,usatoday.com##+js(set, admiral, noopFunc)
 cbssports.com,gbatemp.net,usatoday.com##+js(set, admiral, noopFunc)
 ccoo.cn##div.topbanner,div.rightbanner,div.adbox,div.rsliad,li.slicru,div.banner01,div[id^="adn_"],div[id^="ad-"],div.duilian,div.ad_wrap,div.rtbanner,div.footbanr,div.leftbanner
 ccoo.cn##div.topbanner,div.rightbanner,div.adbox,div.rsliad,li.slicru,div.banner01,div[id^="adn_"],div[id^="ad-"],div.duilian,div.ad_wrap,div.rtbanner,div.footbanr,div.leftbanner
@@ -29702,6 +29703,9 @@ forum.portableappc.com##div.topadsense,div.bottomadsense
 forum.portableappc.com##div.topadsense,div.bottomadsense
 forums.kali.org##ins.adsbygoogle
 forums.kali.org##ins.adsbygoogle
+foxnews.com##+js(aeld, /load|error/, , G=null), clearTimeout(K), !)
+foxnews.com##+js(nostif, , G=null), clearTimeout(K), !)
+foxnews.com##+js(set-constant, admrlWpJsonP, emptyObj)
 fqlook.cn##.main_tonglan,.main_center_z,.pro_baidu,[href^="http://www.fqlook.cn/e/public/ClickAd?adid="],[class^="main_tonglan"],#leftfloatad1,.tl20160901
 fqlook.cn##.main_tonglan,.main_center_z,.pro_baidu,[href^="http://www.fqlook.cn/e/public/ClickAd?adid="],[class^="main_tonglan"],#leftfloatad1,.tl20160901
 fqlook.com##.mmver.w-1200,.head_ad,#leftfloatad1,.definit
@@ -127891,6 +127895,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||usn.cc^
 ||usn.cc^
 ||usnews.com/static/esi/usn-geo.json
+||usnorbert.com^
 ||usnvuj.skillfactory.ru^
 ||usp1.baidu.com^
 ||uspauline.com^
@@ -130288,6 +130293,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wangyq.ltd^
 ||wangzhan5.com^
 ||wangzhan5.com^
+||wanmatures.com^
 ||wanmei.com/public/js/stat.js
 ||wanproxy-hz.127.net^
 ||wanproxy.127.net^
@@ -131488,6 +131494,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wildcommittee.com^
 ||wildpetalfarm.com^
 ||wildwoodavenue.com^
+||willcollect.com^
 ||win-winfuture.cn^
 ||win-winfuture.cn^
 ||win.bgkst.cn^
@@ -131738,6 +131745,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wobo888.cc^
 ||wodemeitu.com^
 ||wodemeitu.com^
+||wodeshucheng5.com/*/1
 ||wodexiaoshuo.com/js/shanglun.js
 ||wodexiaoshuo.com/js/shanglun.js
 ||wodexiaoshuo.com/js/shangzhangjie.js
@@ -131788,6 +131796,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||woodpeckerlog.com^
 ||woodruffsweitzer.actonservice.com^
 ||woodstock.viessmann.com.au^
+||woodstockcustom.com^
 ||woodtone.actonservice.com^
 ||woofweather.com^
 ||woolstapler.com^
