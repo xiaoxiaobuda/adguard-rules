@@ -22901,6 +22901,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 ://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.news|~fathom.org|~fathom.services|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.news|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://fathom.$domain=~fathom.care|~fathom.co.za|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://gg.*/*.js$third-party
 ://gtm-server.
 ://gtm-tagging.
 ://gtm.*.js?st=
@@ -58588,6 +58589,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.9823df.com^
 ||cdn.9823df.com^
 ||cdn.9gtb.com^
+||cdn.a9f3k7z2m1.com^
 ||cdn.ab365.com^
 ||cdn.abtest.ai^
 ||cdn.adapi.fotoable.com^
@@ -58713,6 +58715,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.lu.sogoucdn.com^
 ||cdn.luckyorange.com^
 ||cdn.lumayun.top^
+||cdn.m2z7r9k4p1.com^
 ||cdn.marketgid.com^
 ||cdn.mdotm.com^
 ||cdn.media.innity.net^
@@ -58747,6 +58750,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.privacy-mgmt.com^
 ||cdn.prod.euid.eu^
 ||cdn.puata.info^
+||cdn.q4x8n6b2t5.com^
 ||cdn.qingsongchou.com^
 ||cdn.qjfii.com^
 ||cdn.qquanquan.com^
@@ -58775,6 +58779,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.super.com/remote-event-registry.json
 ||cdn.sy-d.io^
+||cdn.t2037ulzqct5.com^
 ||cdn.taboola.com^
 ||cdn.tailwindcss.com^
 ||cdn.tanx.com^
@@ -58798,6 +58803,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.wuxiqiangheng.com^
 ||cdn.wuxiqiangheng.com^
 ||cdn.wwads.cn^
+||cdn.x7k9m2q4z8r1.com^
 ||cdn.xianchengyou.com^
 ||cdn.xianchengyou.com^
 ||cdn.xiangkanwang.com^
@@ -60862,6 +60868,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||colonistnobilityheroic.com^
 ||coloradoserves.com^
 ||colorandnoise.com^
+||colorfilter.net^
 ||colorfulafterthought.com^
 ||colorfulneon.com^
 ||colorfulpet.com^
@@ -61451,6 +61458,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||connectvet.rossu.edu^
 ||connectwithus.cetera.com^
 ||connext-cdn.azureedge.net^
+||connext-fd-gnbrate4fjhjb3f7.z01.azurefd.net^
 ||connperf.immomo.com^
 ||consciouschairs.com^
 ||consciouscheese.com^
@@ -64704,6 +64712,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dd.mgame.360.cn^
 ||dd.nytimes.com^
 ||dd.qwant.com^
+||dd.reuters.com^
 ||dd.seloger-bureaux-commerces.com^
 ||dd.seloger.com^
 ||dd.selogerneuf.com^
@@ -71230,6 +71239,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||feizw.com/style/t.js
 ||feizw.com/style/t.js
 ||felinesocial.com^
+||feliz.data.tm-awx.com/netro-web/batch
 ||feliz.data.tm-awx.com/smile-web-v2/batch
 ||fem.gprod.postmedia.digital/*/IIQUniversalID.js
 ||femalecook.com^
@@ -72915,6 +72925,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||g2c6beb.cdn.jkydns801.com^
 ||g2ee0fa.iupqx.com^
 ||g2insights-cdn.azureedge.net^
+||g2insights-fd-a0gpgwa4fycxd9d4.z01.azurefd.net^
 ||g2r7gkfmdn.nmsaluw2404311.vip^
 ||g3.iqilu.com^
 ||g3.letv.com^
@@ -86750,6 +86761,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lidebo.com^
 ||lidebo.com^
 ||lidlsalevipeu.shop^
+||lidsmarket.com^
 ||lidtjhd.rseqb.cn^
 ||liebaovip.com^
 ||liebaovip.com^
@@ -92306,6 +92318,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||maskbaby.com.cn^
 ||maskedadmin.com^
 ||masky.biddingx.com^
+||masondown.com^
 ||mass.mall044.com^
 ||masseurexpress.com^
 ||massivecams.com/api/metrics
@@ -99857,6 +99870,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||orderjumper.com^
 ||ordidc.com^
 ||ordidc.com^
+||ordinalzero.com^
 ||ordpmx.victorianplumbing.co.uk^
 ||oredero.com^
 ||oregonstate.actonservice.com^
@@ -105493,6 +105507,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rapi.cmgadx.com^
 ||rapidcounter.com^$third-party
 ||rapidpanda.io^
+||rapidscraper.com^
 ||rapidspike.com/performance/
 ||rapidspike.com/static/js/timingpcg.min.js
 ||rapidstats.net^$third-party
@@ -129320,6 +129335,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||view.news.qq.com/PL_ad$subdocument
 ||view.news.qq.com/PL_ad$subdocument
 ||view.nucorbuildingsystems.com^
+||view.publitas.com/ecommTracker.js
+||view.publitas.com/javascripts/vendors/publitas-stats.js
 ||view.publitas.com^
 ||view.zijieapi.com^
 ||viewar.org^$third-party
@@ -131431,6 +131448,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||whisperingquasar.com^
 ||whisperingsummit.com^
 ||whispermeeting.com^
+||whispersinthecorridors.in/public/js/analytics.js
 ||whistleout.com.au/track
 ||whistleout.s3.amazonaws.com^
 ||whiteclick.biz^$third-party
