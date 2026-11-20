@@ -49889,6 +49889,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||analytics-patcher-elderscrollsonline.xxghh.biz^
 ||analytics-prd.aws.wehaa.net^
 ||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^
+||analytics-prod.pubgen.org^
 ||analytics-prod2.glance-internal.inmobi.com^
 ||analytics-production.hapyak.com^
 ||analytics-proxy.springboard.com^
@@ -51169,6 +51170,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.cxzudwk.com^
 ||api.d.xiaomi.com^
 ||api.danmu.tv.sohu.com^
+||api.dappier.com/app/widget/logwidgetevent
 ||api.datanexus.qq.com^
 ||api.deepai.org/log_stat
 ||api.device.xiaomi.net^
@@ -60653,6 +60655,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||code.kejet.com^
 ||code.laojiayoufang.com^
 ||code.randomhouse.com^
+||code.trygravity.ai/gr-pix.js
 ||code.ttpaper.com^
 ||code.tui80.com^
 ||code.tui80.com^
@@ -65544,6 +65547,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||digicard.jollyhires.com^
 ||digidip.net^$domain=gofeminin.de
 ||digidip.net^$third-party
+||digifaro-digital.uk.monitoringsolutions.sky^
 ||digiland.it/count.cgi?
 ||digimedia.com/pageviews.php?
 ||digistat.westjet.com^
@@ -65828,6 +65832,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||directcrm.ru^$third-party
 ||directions.mdanderson.org^
 ||directnews.co.uk/feedtrack/
+||directory.cookieyes.com/api/v1/ip
 ||directprimal.com^$third-party
 ||directrev.com^
 ||directrev.com^
@@ -70074,6 +70079,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eventos.mirecweek.com^
 ||eventos.ubmmexico.com^
 ||eventos.usj.es^
+||eventpiper.vlcapi.net^
 ||events-api.outfit7.net^
 ||events-cn.ads.vungle.com^
 ||events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn^
@@ -72028,6 +72034,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fortunatemark.com^
 ||fortune.com/comscore-json/
 ||fortvision.com^$third-party
+||fortyninemaps.com^
 ||forum-api.996hezi.com^
 ||forum.zuvio.com.tw/api/article/finish
 ||forwardslashetc.com^
@@ -75653,6 +75660,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gw.m.163.com/nc-main/api/v1/hqc/no-repeat-hot-list
 ||gw.m.163.com/nc-main/api/v1/hqc/no-repeat-hot-list
 ||gw.shouji.360.cn^
+||gw.vlcapi.net/geo
+||gw.vlcapi.net/init
 ||gw.xinfei.cn^
 ||gw.yoccj.cn^
 ||gw1jvhs.com^
@@ -78684,6 +78693,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||ideadevice.actonservice.com^
 ||idealads.net^
+||ideamornings.com^
 ||ideas.nanawall.com^
 ||idee.k8.com^
 ||ideng.com^
@@ -84301,6 +84311,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kas.keydot.net^
 ||kasdwergv.com^
 ||kasdwergv.com^
+||kasemato.net/wp-content/themes/kasemato/assets/access-analytics.js
+||kasemato.net/wp-content/themes/kasemato/assets/frame-stats.js
 ||kashichang.cn^
 ||kasiklz.cc^
 ||kasiklz.cc^
@@ -92281,6 +92293,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mas.hronboard.me^
 ||mas.marsh.com^
 ||mas.nth.ch^
+||mascguys.com^
 ||masdk.3g.qq.com^
 ||masdk.3g.qq.com^
 ||masdkv6.3g.qq.com^
@@ -100139,6 +100152,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||outlookads.live.com^
 ||outoctillerytor.com^
 ||outoctillerytor.com^
+||outpro.net^
 ||output.nend.net^
 ||outreach.allmy-data.com^
 ||outreach.connectednation.org^
@@ -100377,6 +100391,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||p.szonline.net^
 ||p.tamenshuo.com^
 ||p.tanx.com^
+||p.teamily.ai^
 ||p.tencentmind.com^
 ||p.tryretool.com^
 ||p.twitter.com^
@@ -101538,6 +101553,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pgy.xiaohongshu.com^
 ||pgznt.cn^
 ||ph-log-emagzal.lazada.com^
+||ph.cto.new^
 ||ph0f2h2csf.adobe.io^
 ||phadia.thermo.com^
 ||phadia.thermofisher.com^
@@ -136958,6 +136974,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||you85.com/cy2/
 ||youa.net^
 ||youa.net^
+||youanonymous.com^
 ||youate.co^
 ||youborafds01.com^
 ||youboranqs01.com^
